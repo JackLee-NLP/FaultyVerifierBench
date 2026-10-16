@@ -25,12 +25,36 @@ Raw generation dumps, intermediate processed files, pre-correction splits, model
 
 ## Setup
 
+Clone the repository and create the conda environment from `environment.yml`:
+
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/JackLee-NLP/FaultyVerifierBench.git
+cd FaultyVerifierBench
+conda env create -f environment.yml
+conda activate API_call
+```
+
+The environment is named `API_call` and uses Python 3.10. If you already created it and the file has changed, update it with:
+
+```bash
+conda env update -f environment.yml --prune
+```
+
+On Windows PowerShell, copy the environment file and fill in your own API keys:
+
+```powershell
+Copy-Item .env.example .env
+```
+
+On macOS or Linux:
+
+```bash
 cp .env.example .env
 ```
 
-Local adjudication also needs the packages in `scripts_Ministral/requirements.txt` and the Hugging Face checkpoints named in `config/models.yaml`. Set those `model_name` paths to your local checkpoint directories before running a local model. Hosted calls read keys from the environment; never commit `.env`.
+Hosted calls read keys from `.env`. Do not commit that file.
+
+Local adjudication also needs the packages in `scripts_Ministral/requirements.txt` and the Hugging Face checkpoints named in `config/models.yaml`. Set those `model_name` paths to your local checkpoint directories before running a local model.
 
 ## Reproduce evaluation
 
