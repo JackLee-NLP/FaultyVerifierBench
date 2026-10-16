@@ -1,0 +1,9 @@
+hallucinations:
+  - fabricated_fact
+  - fabricated_citation
+  - misquoted_solver_response
+  - false_premise
+  - incorrect_calculation
+  - context_hallucination
+  - unsupported_constraint
+  - fabricated_environment_observation

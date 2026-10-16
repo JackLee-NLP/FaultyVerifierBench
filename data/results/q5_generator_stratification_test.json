@@ -1,0 +1,489 @@
+{
+  "coverage": {
+    "Ministral-3-14B": 18501,
+    "deepseek": 18836,
+    "gpt_5_6_luna": 18689,
+    "qwen3_4b_local": 18407,
+    "qwen3_8_flash": 18526,
+    "qwen3_8b_local": 18773
+  },
+  "models": [
+    "deepseek",
+    "qwen3_4b_local",
+    "qwen3_8_flash",
+    "qwen3_8b_local",
+    "Ministral-3-14B",
+    "gpt_5_6_luna"
+  ],
+  "no_deepseek_generation_subset": {
+    "N": 5631,
+    "adjudicator": "deepseek",
+    "criterion": "question_generator, solver_generator, and verifier_generator are all non-DeepSeek",
+    "metrics": {
+      "ARS": 0.6055762741964127,
+      "FAA": 0.63949564908542,
+      "N": 5631,
+      "TRR": 0.5431065842124408,
+      "TRR_support": 2749,
+      "VJA": 0.9245249511632037
+    }
+  },
+  "provenance_fields": [
+    "question_generator",
+    "solver_generator",
+    "verifier_generator"
+  ],
+  "split": "test",
+  "strata": {
+    "question_generator=deepseek": {
+      "Ministral-3-14B": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "deepseek": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "gpt_5_6_luna": {
+        "ARS": 0.52210491586935,
+        "FAA": 0.5550973276146486,
+        "N": 6062,
+        "TRR": 0.5234243343444557,
+        "TRR_support": 2967,
+        "VJA": 0.9181788188716595
+      },
+      "qwen3_4b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8_flash": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      }
+    },
+    "question_generator=gemini": {
+      "Ministral-3-14B": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "deepseek": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "gpt_5_6_luna": {
+        "ARS": 0.7185851690971145,
+        "FAA": 0.7592305305615886,
+        "N": 6446,
+        "TRR": 0.661188369152971,
+        "TRR_support": 3164,
+        "VJA": 0.9281725100837729
+      },
+      "qwen3_4b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8_flash": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      }
+    },
+    "question_generator=gpt": {
+      "Ministral-3-14B": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "deepseek": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "gpt_5_6_luna": {
+        "ARS": 0.50719948228442,
+        "FAA": 0.536159197540851,
+        "N": 6181,
+        "TRR": 0.4819197896120973,
+        "TRR_support": 3042,
+        "VJA": 0.9197540850994984
+      },
+      "qwen3_4b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8_flash": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      }
+    },
+    "solver_generator=deepseek": {
+      "Ministral-3-14B": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "deepseek": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "gpt_5_6_luna": {
+        "ARS": 0.5921305182341651,
+        "FAA": 0.6257197696737045,
+        "N": 6252,
+        "TRR": 0.5683732987686325,
+        "TRR_support": 3086,
+        "VJA": 0.9232245681381958
+      },
+      "qwen3_4b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8_flash": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      }
+    },
+    "solver_generator=gemini": {
+      "Ministral-3-14B": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "deepseek": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "gpt_5_6_luna": {
+        "ARS": 0.5760711398544867,
+        "FAA": 0.6109943411479386,
+        "N": 6185,
+        "TRR": 0.5385382059800664,
+        "TRR_support": 3010,
+        "VJA": 0.9215844785772029
+      },
+      "qwen3_4b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8_flash": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      }
+    },
+    "solver_generator=gpt": {
+      "Ministral-3-14B": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "deepseek": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "gpt_5_6_luna": {
+        "ARS": 0.5865323096609085,
+        "FAA": 0.6209213051823417,
+        "N": 6252,
+        "TRR": 0.5641858953526162,
+        "TRR_support": 3077,
+        "VJA": 0.9216250799744082
+      },
+      "qwen3_4b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8_flash": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      }
+    },
+    "verifier_generator=deepseek": {
+      "Ministral-3-14B": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "deepseek": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "gpt_5_6_luna": {
+        "ARS": 0.585221832109799,
+        "FAA": 0.6157037982764124,
+        "N": 6266,
+        "TRR": 0.5512116316639741,
+        "TRR_support": 3095,
+        "VJA": 0.9233961059687201
+      },
+      "qwen3_4b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8_flash": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      }
+    },
+    "verifier_generator=gemini": {
+      "Ministral-3-14B": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "deepseek": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "gpt_5_6_luna": {
+        "ARS": 0.5774647887323944,
+        "FAA": 0.6203442879499218,
+        "N": 6390,
+        "TRR": 0.5611577964519141,
+        "TRR_support": 3213,
+        "VJA": 0.9093896713615024
+      },
+      "qwen3_4b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8_flash": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      }
+    },
+    "verifier_generator=gpt": {
+      "Ministral-3-14B": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "deepseek": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "gpt_5_6_luna": {
+        "ARS": 0.5925741753688049,
+        "FAA": 0.6217470578484999,
+        "N": 6033,
+        "TRR": 0.5591623036649215,
+        "TRR_support": 2865,
+        "VJA": 0.9343610144206862
+      },
+      "qwen3_4b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8_flash": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      },
+      "qwen3_8b_local": {
+        "ARS": null,
+        "FAA": null,
+        "N": 0,
+        "TRR": null,
+        "TRR_support": 0,
+        "VJA": null
+      }
+    }
+  }
+}

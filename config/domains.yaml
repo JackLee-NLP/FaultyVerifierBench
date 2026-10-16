@@ -1,0 +1,11 @@
+domains:
+  - math_reasoning
+  - logical_reasoning
+  - commonsense_reasoning
+  - factual_qa
+  - reading_comprehension
+  - scientific_reasoning
+  - code_reasoning
+  - data_interpretation
+  - causal_reasoning
+  - agent_planning

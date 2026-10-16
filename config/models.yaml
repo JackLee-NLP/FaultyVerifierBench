@@ -1,0 +1,25 @@
+﻿models:
+  deepseek:
+    provider: deepseek
+    model_name: deepseek-v4-pro
+  GLM:
+    provider: openai
+    model_name: z-ai/glm-5.2
+  gemini:
+    provider: gemini
+    model_name: gemini-3.1-pro-preview
+  qwen3_8_flash:
+    provider: openai
+    model_name: qwen/qwen3.8-flash
+  gpt_5_6_luna:
+    provider: openai
+    model_name: openai/gpt-5.6-luna
+  qwen3_4b_local:
+    provider: huggingface
+    model_name: models/Qwen3-4B-Instruct-2507
+  qwen3_8b_local:
+    provider: huggingface
+    model_name: models/Qwen3-8B
+  Ministral-3-14B:
+    provider: huggingface
+    model_name: models/Ministral-3-14B-Instruct-2512-BF16

@@ -1,0 +1,22 @@
+evaluation:
+  target_models:
+    - Ministral-3-14B
+    # - Gemma-4-12B
+
+  evaluation_workers_per_model: 1
+  evaluation_max_concurrent_per_model: 1
+  max_output_tokens: 2048
+
+  local_do_sample: false
+  local_enable_thinking: false
+  local_trust_remote_code: true
+
+  local_device: cuda:0
+  local_dtype: auto
+  local_attn_implementation: sdpa
+
+  local_batch_size: 8
+  local_max_batch_tokens: 32768
+  local_max_input_tokens: 8192
+  local_length_bucket_size: 32
+  local_oom_split_batch: true

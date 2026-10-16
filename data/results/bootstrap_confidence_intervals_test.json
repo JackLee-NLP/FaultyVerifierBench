@@ -1,0 +1,1390 @@
+{
+  "Ministral-3-14B": {
+    "N": 17085,
+    "cluster_field": "base_question_id",
+    "confidence": 0.95,
+    "implementation": "multinomial cluster weights over pre-aggregated sufficient statistics",
+    "method": "paired base-question clustered nonparametric bootstrap, percentile interval",
+    "metrics": {
+      "ACR": {
+        "ci_high": 0.6226441996660879,
+        "ci_low": 0.5369833851302557,
+        "point_estimate": 0.5800709001233045,
+        "valid_resamples": 1000
+      },
+      "ARS": {
+        "ci_high": 0.47265376225445666,
+        "ci_low": 0.4081802891260543,
+        "point_estimate": 0.4405618964003512,
+        "valid_resamples": 1000
+      },
+      "CAPR": {
+        "ci_high": 0.6064747050724467,
+        "ci_low": 0.5248015419829717,
+        "point_estimate": 0.5659057015028106,
+        "valid_resamples": 1000
+      },
+      "CRG": {
+        "ci_high": 0.46301661486974427,
+        "ci_low": 0.37735580033391214,
+        "point_estimate": 0.4199290998766954,
+        "valid_resamples": 1000
+      },
+      "DCR_fallacy": {
+        "ci_high": 0.5323975623213948,
+        "ci_low": 0.4996209496821477,
+        "point_estimate": 0.5164424514200299,
+        "valid_resamples": 1000
+      },
+      "DCR_hallucination": {
+        "ci_high": 0.3951250283917693,
+        "ci_low": 0.3630667109072479,
+        "point_estimate": 0.378290446613428,
+        "valid_resamples": 1000
+      },
+      "DG_fallacy": {
+        "ci_high": 0.5003790503178522,
+        "ci_low": 0.4676024376786052,
+        "point_estimate": 0.48355754857997013,
+        "valid_resamples": 1000
+      },
+      "DG_hallucination": {
+        "ci_high": 0.636933289092752,
+        "ci_low": 0.6048749716082307,
+        "point_estimate": 0.621709553386572,
+        "valid_resamples": 1000
+      },
+      "FAA": {
+        "ci_high": 0.5646121908089724,
+        "ci_low": 0.48782130113377564,
+        "point_estimate": 0.5266608135791631,
+        "valid_resamples": 1000
+      },
+      "FFRR": {
+        "ci_high": 0.6749922202598303,
+        "ci_low": 0.6425281163422571,
+        "point_estimate": 0.6585626502805236,
+        "valid_resamples": 1000
+      },
+      "MCR": {
+        "ci_high": 0.3926372546762148,
+        "ci_low": 0.32509807535968843,
+        "point_estimate": 0.35799464589924557,
+        "valid_resamples": 1000
+      },
+      "OAR": {
+        "ci_high": 0.3574718836577428,
+        "ci_low": 0.3250077797401697,
+        "point_estimate": 0.34143734971947637,
+        "valid_resamples": 1000
+      },
+      "ORR": {
+        "ci_high": 0.057820780813631255,
+        "ci_low": 0.03675201511208482,
+        "point_estimate": 0.0469603825136612,
+        "valid_resamples": 1000
+      },
+      "RG": {
+        "ci_high": 0.3522167819939826,
+        "ci_low": 0.2861452717719944,
+        "point_estimate": 0.3189347380743342,
+        "valid_resamples": 1000
+      },
+      "SRA": {
+        "ci_high": 0.7719585022234059,
+        "ci_low": 0.7477149022103857,
+        "point_estimate": 0.7593795727246122,
+        "valid_resamples": 1000
+      },
+      "TRR": {
+        "ci_high": 0.5213811091614755,
+        "ci_low": 0.44819539248985946,
+        "point_estimate": 0.4857791586998088,
+        "valid_resamples": 1000
+      },
+      "TRR_assisted": {
+        "ci_high": 0.6761685230750235,
+        "ci_low": 0.5872681049331299,
+        "point_estimate": 0.6326225215114104,
+        "valid_resamples": 1000
+      },
+      "TRR_independent": {
+        "ci_high": 0.4528853744231448,
+        "ci_low": 0.38071133195994533,
+        "point_estimate": 0.41685689201053555,
+        "valid_resamples": 1000
+      },
+      "VFAR": {
+        "ci_high": 0.9632479848879152,
+        "ci_low": 0.9421792191863687,
+        "point_estimate": 0.9530396174863388,
+        "valid_resamples": 1000
+      },
+      "VJA": {
+        "ci_high": 0.7699313120195489,
+        "ci_low": 0.7489556713724013,
+        "point_estimate": 0.7594966344746854,
+        "valid_resamples": 1000
+      },
+      "binary_any_fault_F1": {
+        "ci_high": 0.838613557430009,
+        "ci_low": 0.8247140516317649,
+        "point_estimate": 0.8320900645279392,
+        "valid_resamples": 1000
+      },
+      "binary_fallacy_F1": {
+        "ci_high": 0.7099196617098593,
+        "ci_low": 0.6902330250059405,
+        "point_estimate": 0.7001706808268537,
+        "valid_resamples": 1000
+      },
+      "binary_hallucination_F1": {
+        "ci_high": 0.6300468252921771,
+        "ci_low": 0.6110899025259461,
+        "point_estimate": 0.6205742960691386,
+        "valid_resamples": 1000
+      },
+      "fallacy_micro_F1": {
+        "ci_high": 0.47546971912723135,
+        "ci_low": 0.44964461785106724,
+        "point_estimate": 0.462882096069869,
+        "valid_resamples": 1000
+      },
+      "hallucination_micro_F1": {
+        "ci_high": 0.33508838478751135,
+        "ci_low": 0.31434728619529856,
+        "point_estimate": 0.3244822767119807,
+        "valid_resamples": 1000
+      }
+    },
+    "n_clusters": 360,
+    "n_resamples": 1000,
+    "seed": 2027
+  },
+  "deepseek": {
+    "N": 17085,
+    "cluster_field": "base_question_id",
+    "confidence": 0.95,
+    "implementation": "multinomial cluster weights over pre-aggregated sufficient statistics",
+    "method": "paired base-question clustered nonparametric bootstrap, percentile interval",
+    "metrics": {
+      "ACR": {
+        "ci_high": 0.6749998930141315,
+        "ci_low": 0.5918950701376127,
+        "point_estimate": 0.6362487360970678,
+        "valid_resamples": 1000
+      },
+      "ARS": {
+        "ci_high": 0.6255158332996791,
+        "ci_low": 0.5471425367214364,
+        "point_estimate": 0.5892888498683055,
+        "valid_resamples": 1000
+      },
+      "CAPR": {
+        "ci_high": 0.730551356490867,
+        "ci_low": 0.6417705212091563,
+        "point_estimate": 0.6894573821268785,
+        "valid_resamples": 1000
+      },
+      "CRG": {
+        "ci_high": 0.4081049298623873,
+        "ci_low": 0.32500010698586834,
+        "point_estimate": 0.3637512639029323,
+        "valid_resamples": 1000
+      },
+      "DCR_fallacy": {
+        "ci_high": 0.4721679509202755,
+        "ci_low": 0.44373862355014715,
+        "point_estimate": 0.4575034509958588,
+        "valid_resamples": 1000
+      },
+      "DCR_hallucination": {
+        "ci_high": 0.34846396354156106,
+        "ci_low": 0.3229577855884368,
+        "point_estimate": 0.3360917810795561,
+        "valid_resamples": 1000
+      },
+      "DG_fallacy": {
+        "ci_high": 0.5562613764498529,
+        "ci_low": 0.5278320490797245,
+        "point_estimate": 0.5424965490041411,
+        "valid_resamples": 1000
+      },
+      "DG_hallucination": {
+        "ci_high": 0.6770422144115632,
+        "ci_low": 0.6515360364584388,
+        "point_estimate": 0.6639082189204439,
+        "valid_resamples": 1000
+      },
+      "FAA": {
+        "ci_high": 0.6582248289046244,
+        "ci_low": 0.5764509511785583,
+        "point_estimate": 0.6204858062628036,
+        "valid_resamples": 1000
+      },
+      "FFRR": {
+        "ci_high": 0.9305088474557328,
+        "ci_low": 0.9197735908318014,
+        "point_estimate": 0.9251046397720188,
+        "valid_resamples": 1000
+      },
+      "MCR": {
+        "ci_high": 0.4691500592141027,
+        "ci_low": 0.3785849458276876,
+        "point_estimate": 0.422680412371134,
+        "valid_resamples": 1000
+      },
+      "OAR": {
+        "ci_high": 0.08022640916819854,
+        "ci_low": 0.06949115254426717,
+        "point_estimate": 0.07489536022798111,
+        "valid_resamples": 1000
+      },
+      "ORR": {
+        "ci_high": 0.08429965019657755,
+        "ci_low": 0.059835651724233566,
+        "point_estimate": 0.07172131147540983,
+        "valid_resamples": 1000
+      },
+      "RG": {
+        "ci_high": 0.3773594632406725,
+        "ci_low": 0.3015648776930115,
+        "point_estimate": 0.33690371671056485,
+        "valid_resamples": 1000
+      },
+      "SRA": {
+        "ci_high": 0.8865412035390455,
+        "ci_low": 0.8617518288558536,
+        "point_estimate": 0.8742756804214223,
+        "valid_resamples": 1000
+      },
+      "TRR": {
+        "ci_high": 0.5861911877612364,
+        "ci_low": 0.5062516318256319,
+        "point_estimate": 0.5486376673040153,
+        "valid_resamples": 1000
+      },
+      "TRR_assisted": {
+        "ci_high": 0.6919961611380184,
+        "ci_low": 0.6054733899775329,
+        "point_estimate": 0.6513280957725402,
+        "valid_resamples": 1000
+      },
+      "TRR_independent": {
+        "ci_high": 0.5389026850773124,
+        "ci_low": 0.4578951080921929,
+        "point_estimate": 0.5004389815627743,
+        "valid_resamples": 1000
+      },
+      "VFAR": {
+        "ci_high": 0.9401643482757664,
+        "ci_low": 0.9157003498034224,
+        "point_estimate": 0.9282786885245902,
+        "valid_resamples": 1000
+      },
+      "VJA": {
+        "ci_high": 0.9315051277469539,
+        "ci_low": 0.920633206388655,
+        "point_estimate": 0.9261925665788704,
+        "valid_resamples": 1000
+      },
+      "binary_any_fault_F1": {
+        "ci_high": 0.9478432434561956,
+        "ci_low": 0.9392242460943252,
+        "point_estimate": 0.9435663898562372,
+        "valid_resamples": 1000
+      },
+      "binary_fallacy_F1": {
+        "ci_high": 0.7652474910137824,
+        "ci_low": 0.7488355727024363,
+        "point_estimate": 0.7571687840290381,
+        "valid_resamples": 1000
+      },
+      "binary_hallucination_F1": {
+        "ci_high": 0.6707098190404162,
+        "ci_low": 0.6590670318345996,
+        "point_estimate": 0.6652381535447532,
+        "valid_resamples": 1000
+      },
+      "fallacy_micro_F1": {
+        "ci_high": 0.5596208526886004,
+        "ci_low": 0.5398732318896581,
+        "point_estimate": 0.549419516786947,
+        "valid_resamples": 1000
+      },
+      "hallucination_micro_F1": {
+        "ci_high": 0.3737945235023659,
+        "ci_low": 0.35831428058509596,
+        "point_estimate": 0.366167735804229,
+        "valid_resamples": 1000
+      }
+    },
+    "n_clusters": 360,
+    "n_resamples": 1000,
+    "seed": 2027
+  },
+  "gpt_5_6_luna": {
+    "N": 17085,
+    "cluster_field": "base_question_id",
+    "confidence": 0.95,
+    "implementation": "multinomial cluster weights over pre-aggregated sufficient statistics",
+    "method": "paired base-question clustered nonparametric bootstrap, percentile interval",
+    "metrics": {
+      "ACR": {
+        "ci_high": 0.6831661321593373,
+        "ci_low": 0.6011436950146628,
+        "point_estimate": 0.6445630081300813,
+        "valid_resamples": 1000
+      },
+      "ARS": {
+        "ci_high": 0.6301999008067064,
+        "ci_low": 0.5532650020974187,
+        "point_estimate": 0.5939713198712321,
+        "valid_resamples": 1000
+      },
+      "CAPR": {
+        "ci_high": 0.7310935131276977,
+        "ci_low": 0.639740143531505,
+        "point_estimate": 0.6876218882643111,
+        "valid_resamples": 1000
+      },
+      "CRG": {
+        "ci_high": 0.3988563049853372,
+        "ci_low": 0.31683386784066275,
+        "point_estimate": 0.3554369918699187,
+        "valid_resamples": 1000
+      },
+      "DCR_fallacy": {
+        "ci_high": 0.5605321966886914,
+        "ci_low": 0.5332042608638458,
+        "point_estimate": 0.5467107824056053,
+        "valid_resamples": 1000
+      },
+      "DCR_hallucination": {
+        "ci_high": 0.4791034756364473,
+        "ci_low": 0.4478962077414742,
+        "point_estimate": 0.4637601177336277,
+        "valid_resamples": 1000
+      },
+      "DG_fallacy": {
+        "ci_high": 0.4667957391361543,
+        "ci_low": 0.4394678033113086,
+        "point_estimate": 0.45328921759439467,
+        "valid_resamples": 1000
+      },
+      "DG_hallucination": {
+        "ci_high": 0.5521037922585258,
+        "ci_low": 0.5208965243635527,
+        "point_estimate": 0.5362398822663723,
+        "valid_resamples": 1000
+      },
+      "FAA": {
+        "ci_high": 0.6677249748214119,
+        "ci_low": 0.5861484981226947,
+        "point_estimate": 0.6296166227685104,
+        "valid_resamples": 1000
+      },
+      "FFRR": {
+        "ci_high": 0.9460650885639812,
+        "ci_low": 0.9368864953008349,
+        "point_estimate": 0.9416688930447947,
+        "valid_resamples": 1000
+      },
+      "MCR": {
+        "ci_high": 0.497326579808693,
+        "ci_low": 0.4028802689413322,
+        "point_estimate": 0.4541387024608501,
+        "valid_resamples": 1000
+      },
+      "OAR": {
+        "ci_high": 0.06311350469916516,
+        "ci_low": 0.05393491143601874,
+        "point_estimate": 0.05833110695520527,
+        "valid_resamples": 1000
+      },
+      "ORR": {
+        "ci_high": 0.13297222936593697,
+        "ci_low": 0.10104635772002497,
+        "point_estimate": 0.1171448087431694,
+        "valid_resamples": 1000
+      },
+      "RG": {
+        "ci_high": 0.3666104842193657,
+        "ci_low": 0.29247892744831827,
+        "point_estimate": 0.3275387767047117,
+        "valid_resamples": 1000
+      },
+      "SRA": {
+        "ci_high": 0.9066289831119169,
+        "ci_low": 0.8834994422562544,
+        "point_estimate": 0.8954638571846649,
+        "valid_resamples": 1000
+      },
+      "TRR": {
+        "ci_high": 0.6075151721722811,
+        "ci_low": 0.5263280272384735,
+        "point_estimate": 0.5691921606118547,
+        "valid_resamples": 1000
+      },
+      "TRR_assisted": {
+        "ci_high": 0.7063248560198229,
+        "ci_low": 0.61949389822393,
+        "point_estimate": 0.6647961092405537,
+        "valid_resamples": 1000
+      },
+      "TRR_independent": {
+        "ci_high": 0.5644353582893162,
+        "ci_low": 0.4807178191856453,
+        "point_estimate": 0.5243195785776997,
+        "valid_resamples": 1000
+      },
+      "VFAR": {
+        "ci_high": 0.898953642279975,
+        "ci_low": 0.867027770634063,
+        "point_estimate": 0.8828551912568307,
+        "valid_resamples": 1000
+      },
+      "VJA": {
+        "ci_high": 0.9266650614398887,
+        "ci_low": 0.9157195770913671,
+        "point_estimate": 0.9215100965759438,
+        "valid_resamples": 1000
+      },
+      "binary_any_fault_F1": {
+        "ci_high": 0.9417278031770612,
+        "ci_low": 0.9339750551583416,
+        "point_estimate": 0.9378195763330899,
+        "valid_resamples": 1000
+      },
+      "binary_fallacy_F1": {
+        "ci_high": 0.7717659664247066,
+        "ci_low": 0.7561751735568597,
+        "point_estimate": 0.7634914885910902,
+        "valid_resamples": 1000
+      },
+      "binary_hallucination_F1": {
+        "ci_high": 0.7608066244683346,
+        "ci_low": 0.7447874711609901,
+        "point_estimate": 0.7531736872475476,
+        "valid_resamples": 1000
+      },
+      "fallacy_micro_F1": {
+        "ci_high": 0.5884572570304871,
+        "ci_low": 0.566846386257246,
+        "point_estimate": 0.5773248407643312,
+        "valid_resamples": 1000
+      },
+      "hallucination_micro_F1": {
+        "ci_high": 0.4711467239298782,
+        "ci_low": 0.4477267855066315,
+        "point_estimate": 0.4589853609288238,
+        "valid_resamples": 1000
+      }
+    },
+    "n_clusters": 360,
+    "n_resamples": 1000,
+    "seed": 2027
+  },
+  "matcher_ladder": {
+    "Ministral-3-14B": {
+      "N": 17085,
+      "confidence": 0.95,
+      "metrics": {
+        "M1_ARS_L": {
+          "ci_high": 0.3565292700689514,
+          "ci_low": 0.29268960411262385,
+          "point_estimate": 0.3247878255779924
+        },
+        "M1_FAA_L": {
+          "ci_high": 0.40957786802143314,
+          "ci_low": 0.33834239671117683,
+          "point_estimate": 0.37442200760901373
+        },
+        "M1_TRR_L": {
+          "ci_high": 0.3640885150368988,
+          "ci_low": 0.2954565741640031,
+          "point_estimate": 0.32899139579349906
+        },
+        "M3_ARS_L": {
+          "ci_high": 0.3565292700689514,
+          "ci_low": 0.29268960411262385,
+          "point_estimate": 0.3247878255779924
+        },
+        "M3_ARS_U": {
+          "ci_high": 0.5192069456070812,
+          "ci_low": 0.45844335488009647,
+          "point_estimate": 0.4889669300556043
+        },
+        "M3_C3_minus_C4_L": {
+          "ci_high": 0.06465398676516226,
+          "ci_low": -0.02778338234648619,
+          "point_estimate": 0.01704627979137785
+        },
+        "M3_C3_minus_C4_U": {
+          "ci_high": 0.4915779688782698,
+          "ci_low": 0.4217473521126186,
+          "point_estimate": 0.4578672623546294
+        },
+        "M3_FAA_L": {
+          "ci_high": 0.40957786802143314,
+          "ci_low": 0.33834239671117683,
+          "point_estimate": 0.37442200760901373
+        },
+        "M3_FAA_U": {
+          "ci_high": 0.6224860159509038,
+          "ci_low": 0.5511807449956716,
+          "point_estimate": 0.5865964296166227
+        },
+        "M3_TRR_L": {
+          "ci_high": 0.3640885150368988,
+          "ci_low": 0.2954565741640031,
+          "point_estimate": 0.32899139579349906
+        },
+        "M3_TRR_U": {
+          "ci_high": 0.5766492148032387,
+          "ci_low": 0.5063598030678038,
+          "point_estimate": 0.5415869980879541
+        },
+        "M3_unresolved_rate": {
+          "ci_high": 0.24323407355664114,
+          "ci_low": 0.18313622298351132,
+          "point_estimate": 0.21217442200760903
+        }
+      },
+      "n_clusters": 360,
+      "n_resamples": 1000,
+      "seed": 2027
+    },
+    "deepseek": {
+      "N": 17085,
+      "confidence": 0.95,
+      "metrics": {
+        "M1_ARS_L": {
+          "ci_high": 0.39655767011416015,
+          "ci_low": 0.32774413791560386,
+          "point_estimate": 0.3632426104770266
+        },
+        "M1_FAA_L": {
+          "ci_high": 0.41735614661442977,
+          "ci_low": 0.345585692754003,
+          "point_estimate": 0.38244073748902546
+        },
+        "M1_TRR_L": {
+          "ci_high": 0.35092010131209095,
+          "ci_low": 0.2837585286545946,
+          "point_estimate": 0.31763862332695986
+        },
+        "M3_ARS_L": {
+          "ci_high": 0.39655767011416015,
+          "ci_low": 0.32774413791560386,
+          "point_estimate": 0.3632426104770266
+        },
+        "M3_ARS_U": {
+          "ci_high": 0.6386895965426693,
+          "ci_low": 0.5708571286138249,
+          "point_estimate": 0.6064969271290606
+        },
+        "M3_C3_minus_C4_L": {
+          "ci_high": -0.03962875200303731,
+          "ci_low": -0.11709325593803213,
+          "point_estimate": -0.0788762991670025
+        },
+        "M3_C3_minus_C4_U": {
+          "ci_high": 0.4383387282588135,
+          "ci_low": 0.37567587505033034,
+          "point_estimate": 0.40806510787976014
+        },
+        "M3_FAA_L": {
+          "ci_high": 0.41735614661442977,
+          "ci_low": 0.345585692754003,
+          "point_estimate": 0.38244073748902546
+        },
+        "M3_FAA_U": {
+          "ci_high": 0.6742687396745346,
+          "ci_low": 0.6021124813742148,
+          "point_estimate": 0.6389230318993269
+        },
+        "M3_TRR_L": {
+          "ci_high": 0.35092010131209095,
+          "ci_low": 0.2837585286545946,
+          "point_estimate": 0.31763862332695986
+        },
+        "M3_TRR_U": {
+          "ci_high": 0.5949953747628083,
+          "ci_low": 0.5200567522616452,
+          "point_estimate": 0.5578393881453155
+        },
+        "M3_unresolved_rate": {
+          "ci_high": 0.2854395380446624,
+          "ci_low": 0.22547456237064128,
+          "point_estimate": 0.25648229441030146
+        }
+      },
+      "n_clusters": 360,
+      "n_resamples": 1000,
+      "seed": 2027
+    },
+    "gpt_5_6_luna": {
+      "N": 17085,
+      "confidence": 0.95,
+      "metrics": {
+        "M1_ARS_L": {
+          "ci_high": 0.4703538380105667,
+          "ci_low": 0.38922940343717216,
+          "point_estimate": 0.42908984489318114
+        },
+        "M1_FAA_L": {
+          "ci_high": 0.49570624484074355,
+          "ci_low": 0.41098795517154724,
+          "point_estimate": 0.4532630962832894
+        },
+        "M1_TRR_L": {
+          "ci_high": 0.4508738623721941,
+          "ci_low": 0.3674595373440707,
+          "point_estimate": 0.40929732313575523
+        },
+        "M3_ARS_L": {
+          "ci_high": 0.4703538380105667,
+          "ci_low": 0.38922940343717216,
+          "point_estimate": 0.42908984489318114
+        },
+        "M3_ARS_U": {
+          "ci_high": 0.6788789728482747,
+          "ci_low": 0.6095903114691114,
+          "point_estimate": 0.6453614281533508
+        },
+        "M3_C3_minus_C4_L": {
+          "ci_high": -0.03441286854580151,
+          "ci_low": -0.10891712629001551,
+          "point_estimate": -0.0706880202539163
+        },
+        "M3_C3_minus_C4_U": {
+          "ci_high": 0.38147658087156866,
+          "ci_low": 0.30977975177090117,
+          "point_estimate": 0.3455718699694897
+        },
+        "M3_FAA_L": {
+          "ci_high": 0.49570624484074355,
+          "ci_low": 0.41098795517154724,
+          "point_estimate": 0.4532630962832894
+        },
+        "M3_FAA_U": {
+          "ci_high": 0.7193235555617405,
+          "ci_low": 0.6455604190563635,
+          "point_estimate": 0.6834650278021657
+        },
+        "M3_TRR_L": {
+          "ci_high": 0.4508738623721941,
+          "ci_low": 0.3674595373440707,
+          "point_estimate": 0.40929732313575523
+        },
+        "M3_TRR_U": {
+          "ci_high": 0.6498172275435947,
+          "ci_low": 0.5737108236991555,
+          "point_estimate": 0.6112571701720841
+        },
+        "M3_unresolved_rate": {
+          "ci_high": 0.26232717980462,
+          "ci_low": 0.20020738053338732,
+          "point_estimate": 0.23020193151887622
+        }
+      },
+      "n_clusters": 360,
+      "n_resamples": 1000,
+      "seed": 2027
+    },
+    "qwen3_4b_local": {
+      "N": 17085,
+      "confidence": 0.95,
+      "metrics": {
+        "M1_ARS_L": {
+          "ci_high": 0.38622692398309755,
+          "ci_low": 0.3231611229688723,
+          "point_estimate": 0.35522388059701493
+        },
+        "M1_FAA_L": {
+          "ci_high": 0.4525450194933338,
+          "ci_low": 0.37883124451283984,
+          "point_estimate": 0.41562774363476734
+        },
+        "M1_TRR_L": {
+          "ci_high": 0.4133311301432402,
+          "ci_low": 0.3406820104729124,
+          "point_estimate": 0.375717017208413
+        },
+        "M3_ARS_L": {
+          "ci_high": 0.38622692398309755,
+          "ci_low": 0.3231611229688723,
+          "point_estimate": 0.35522388059701493
+        },
+        "M3_ARS_U": {
+          "ci_high": 0.5168155387780364,
+          "ci_low": 0.45997007029863535,
+          "point_estimate": 0.4889083991805678
+        },
+        "M3_C3_minus_C4_L": {
+          "ci_high": 0.15700013919617947,
+          "ci_low": 0.07551310806398316,
+          "point_estimate": 0.11739828618181952
+        },
+        "M3_C3_minus_C4_U": {
+          "ci_high": 0.47659894773848516,
+          "ci_low": 0.4128398928465526,
+          "point_estimate": 0.44468375755079487
+        },
+        "M3_FAA_L": {
+          "ci_high": 0.4525450194933338,
+          "ci_low": 0.37883124451283984,
+          "point_estimate": 0.41562774363476734
+        },
+        "M3_FAA_U": {
+          "ci_high": 0.6170662231280376,
+          "ci_low": 0.5514404598157876,
+          "point_estimate": 0.5851331577407082
+        },
+        "M3_TRR_L": {
+          "ci_high": 0.4133311301432402,
+          "ci_low": 0.3406820104729124,
+          "point_estimate": 0.375717017208413
+        },
+        "M3_TRR_U": {
+          "ci_high": 0.5632408481191657,
+          "ci_low": 0.4987209736304373,
+          "point_estimate": 0.5313097514340345
+        },
+        "M3_unresolved_rate": {
+          "ci_high": 0.19665844692601556,
+          "ci_low": 0.14339490556815554,
+          "point_estimate": 0.1695054141059409
+        }
+      },
+      "n_clusters": 360,
+      "n_resamples": 1000,
+      "seed": 2027
+    },
+    "qwen3_8_flash": {
+      "N": 17085,
+      "confidence": 0.95,
+      "metrics": {
+        "M1_ARS_L": {
+          "ci_high": 0.49480583943287687,
+          "ci_low": 0.41745414953118637,
+          "point_estimate": 0.4581796897863623
+        },
+        "M1_FAA_L": {
+          "ci_high": 0.527106366088621,
+          "ci_low": 0.44381807941592233,
+          "point_estimate": 0.4871524729294703
+        },
+        "M1_TRR_L": {
+          "ci_high": 0.503558619355111,
+          "ci_low": 0.4214136521635577,
+          "point_estimate": 0.46402963671128106
+        },
+        "M3_ARS_L": {
+          "ci_high": 0.49480583943287687,
+          "ci_low": 0.41745414953118637,
+          "point_estimate": 0.4581796897863623
+        },
+        "M3_ARS_U": {
+          "ci_high": 0.6799564071140877,
+          "ci_low": 0.6131071080359719,
+          "point_estimate": 0.6480538484050337
+        },
+        "M3_C3_minus_C4_L": {
+          "ci_high": 0.010957748147716903,
+          "ci_low": -0.07155535426517452,
+          "point_estimate": -0.02851084249972169
+        },
+        "M3_C3_minus_C4_U": {
+          "ci_high": 0.3608332220331885,
+          "ci_low": 0.28881428637229634,
+          "point_estimate": 0.3263499627366567
+        },
+        "M3_FAA_L": {
+          "ci_high": 0.527106366088621,
+          "ci_low": 0.44381807941592233,
+          "point_estimate": 0.4871524729294703
+        },
+        "M3_FAA_U": {
+          "ci_high": 0.7225464972048309,
+          "ci_low": 0.6527099697965688,
+          "point_estimate": 0.6889083991805678
+        },
+        "M3_TRR_L": {
+          "ci_high": 0.503558619355111,
+          "ci_low": 0.4214136521635577,
+          "point_estimate": 0.46402963671128106
+        },
+        "M3_TRR_U": {
+          "ci_high": 0.6755907405852732,
+          "ci_low": 0.6021537635076372,
+          "point_estimate": 0.6404158699808795
+        },
+        "M3_unresolved_rate": {
+          "ci_high": 0.23145257191052726,
+          "ci_low": 0.17299671298929142,
+          "point_estimate": 0.20175592625109745
+        }
+      },
+      "n_clusters": 360,
+      "n_resamples": 1000,
+      "seed": 2027
+    },
+    "qwen3_8b_local": {
+      "N": 17085,
+      "confidence": 0.95,
+      "metrics": {
+        "M1_ARS_L": {
+          "ci_high": 0.35416953110391697,
+          "ci_low": 0.29794296310005064,
+          "point_estimate": 0.32654375182908985
+        },
+        "M1_FAA_L": {
+          "ci_high": 0.4349179794590266,
+          "ci_low": 0.367810448567663,
+          "point_estimate": 0.40210711150131695
+        },
+        "M1_TRR_L": {
+          "ci_high": 0.3656459167381138,
+          "ci_low": 0.30474249592766733,
+          "point_estimate": 0.33401051625239003
+        },
+        "M3_ARS_L": {
+          "ci_high": 0.35416953110391697,
+          "ci_low": 0.29794296310005064,
+          "point_estimate": 0.32654375182908985
+        },
+        "M3_ARS_U": {
+          "ci_high": 0.5071403773216544,
+          "ci_low": 0.45627973127905685,
+          "point_estimate": 0.4815335089259584
+        },
+        "M3_C3_minus_C4_L": {
+          "ci_high": 0.13925528725229674,
+          "ci_low": 0.0532536332788976,
+          "point_estimate": 0.09772199279564414
+        },
+        "M3_C3_minus_C4_U": {
+          "ci_high": 0.5037637130196364,
+          "ci_low": 0.4424745616409917,
+          "point_estimate": 0.4741900847646629
+        },
+        "M3_FAA_L": {
+          "ci_high": 0.4349179794590266,
+          "ci_low": 0.367810448567663,
+          "point_estimate": 0.40210711150131695
+        },
+        "M3_FAA_U": {
+          "ci_high": 0.6330964162528651,
+          "ci_low": 0.568986728092403,
+          "point_estimate": 0.6018729880011706
+        },
+        "M3_TRR_L": {
+          "ci_high": 0.3656459167381138,
+          "ci_low": 0.30474249592766733,
+          "point_estimate": 0.33401051625239003
+        },
+        "M3_TRR_U": {
+          "ci_high": 0.5466548598300842,
+          "ci_low": 0.48301803814794514,
+          "point_estimate": 0.5146988527724665
+        },
+        "M3_unresolved_rate": {
+          "ci_high": 0.22679033095639195,
+          "ci_low": 0.17327548417350294,
+          "point_estimate": 0.19976587649985367
+        }
+      },
+      "n_clusters": 360,
+      "n_resamples": 1000,
+      "seed": 2027
+    }
+  },
+  "qwen3_4b_local": {
+    "N": 17085,
+    "cluster_field": "base_question_id",
+    "confidence": 0.95,
+    "implementation": "multinomial cluster weights over pre-aggregated sufficient statistics",
+    "method": "paired base-question clustered nonparametric bootstrap, percentile interval",
+    "metrics": {
+      "ACR": {
+        "ci_high": 0.5575037513980976,
+        "ci_low": 0.47429750547297944,
+        "point_estimate": 0.5173304123308036,
+        "valid_resamples": 1000
+      },
+      "ARS": {
+        "ci_high": 0.418920123840832,
+        "ci_low": 0.3544187720902971,
+        "point_estimate": 0.38700614574187886,
+        "valid_resamples": 1000
+      },
+      "CAPR": {
+        "ci_high": 0.5443708089180529,
+        "ci_low": 0.46184453479655574,
+        "point_estimate": 0.50372834690834,
+        "valid_resamples": 1000
+      },
+      "CRG": {
+        "ci_high": 0.5257024945270206,
+        "ci_low": 0.4424962486019024,
+        "point_estimate": 0.4826695876691965,
+        "valid_resamples": 1000
+      },
+      "DCR_fallacy": {
+        "ci_high": 0.23731447930081181,
+        "ci_low": 0.21045616058687464,
+        "point_estimate": 0.22409763697740848,
+        "valid_resamples": 1000
+      },
+      "DCR_hallucination": {
+        "ci_high": 0.3748411008785945,
+        "ci_low": 0.34091375789273654,
+        "point_estimate": 0.35738831615120276,
+        "valid_resamples": 1000
+      },
+      "DG_fallacy": {
+        "ci_high": 0.7895438394131254,
+        "ci_low": 0.7626855206991883,
+        "point_estimate": 0.7759023630225915,
+        "valid_resamples": 1000
+      },
+      "DG_hallucination": {
+        "ci_high": 0.6590862421072634,
+        "ci_low": 0.6251588991214055,
+        "point_estimate": 0.6426116838487972,
+        "valid_resamples": 1000
+      },
+      "FAA": {
+        "ci_high": 0.4948244529283828,
+        "ci_low": 0.41943771418580594,
+        "point_estimate": 0.45829675153643545,
+        "valid_resamples": 1000
+      },
+      "FFRR": {
+        "ci_high": 0.6951579909411154,
+        "ci_low": 0.6645449976653659,
+        "point_estimate": 0.6798468251847893,
+        "valid_resamples": 1000
+      },
+      "MCR": {
+        "ci_high": 0.3158402619760611,
+        "ci_low": 0.25233914600690915,
+        "point_estimate": 0.2829925650557621,
+        "valid_resamples": 1000
+      },
+      "OAR": {
+        "ci_high": 0.3354550023346341,
+        "ci_low": 0.3048420090588846,
+        "point_estimate": 0.3201531748152106,
+        "valid_resamples": 1000
+      },
+      "ORR": {
+        "ci_high": 0.13355185310703424,
+        "ci_low": 0.10909067410273682,
+        "point_estimate": 0.1210724043715847,
+        "valid_resamples": 1000
+      },
+      "RG": {
+        "ci_high": 0.3916256351712552,
+        "ci_low": 0.33127066768001384,
+        "point_estimate": 0.3610769681006731,
+        "valid_resamples": 1000
+      },
+      "SRA": {
+        "ci_high": 0.6415449634927345,
+        "ci_low": 0.6256746492791483,
+        "point_estimate": 0.6329528826455956,
+        "valid_resamples": 1000
+      },
+      "TRR": {
+        "ci_high": 0.44532146789489424,
+        "ci_low": 0.3739768192319043,
+        "point_estimate": 0.41097036328871894,
+        "valid_resamples": 1000
+      },
+      "TRR_assisted": {
+        "ci_high": 0.6233393247922994,
+        "ci_low": 0.5316220150466616,
+        "point_estimate": 0.5772540216984662,
+        "valid_resamples": 1000
+      },
+      "TRR_independent": {
+        "ci_high": 0.3657220665277675,
+        "ci_low": 0.2991192663068423,
+        "point_estimate": 0.3329236172080773,
+        "valid_resamples": 1000
+      },
+      "VFAR": {
+        "ci_high": 0.8909093258972631,
+        "ci_low": 0.8664481468929658,
+        "point_estimate": 0.8789275956284153,
+        "valid_resamples": 1000
+      },
+      "VJA": {
+        "ci_high": 0.7576300230974754,
+        "ci_low": 0.7381688528104938,
+        "point_estimate": 0.748083113842552,
+        "valid_resamples": 1000
+      },
+      "binary_any_fault_F1": {
+        "ci_high": 0.8187046641279023,
+        "ci_low": 0.806773738796522,
+        "point_estimate": 0.8129659938170577,
+        "valid_resamples": 1000
+      },
+      "binary_fallacy_F1": {
+        "ci_high": 0.3764109209134567,
+        "ci_low": 0.34507129766956274,
+        "point_estimate": 0.3614066193853428,
+        "valid_resamples": 1000
+      },
+      "binary_hallucination_F1": {
+        "ci_high": 0.6242513661988351,
+        "ci_low": 0.6098628192224325,
+        "point_estimate": 0.616973217166828,
+        "valid_resamples": 1000
+      },
+      "fallacy_micro_F1": {
+        "ci_high": 0.34585419386157407,
+        "ci_low": 0.3141830967334944,
+        "point_estimate": 0.33008849557522124,
+        "valid_resamples": 1000
+      },
+      "hallucination_micro_F1": {
+        "ci_high": 0.2879187718489305,
+        "ci_low": 0.26575373839138544,
+        "point_estimate": 0.2770416767044086,
+        "valid_resamples": 1000
+      }
+    },
+    "n_clusters": 360,
+    "n_resamples": 1000,
+    "seed": 2027
+  },
+  "qwen3_8_flash": {
+    "N": 17085,
+    "cluster_field": "base_question_id",
+    "confidence": 0.95,
+    "implementation": "multinomial cluster weights over pre-aggregated sufficient statistics",
+    "method": "paired base-question clustered nonparametric bootstrap, percentile interval",
+    "metrics": {
+      "ACR": {
+        "ci_high": 0.6704647127448871,
+        "ci_low": 0.5856440476292382,
+        "point_estimate": 0.6300843722453091,
+        "valid_resamples": 1000
+      },
+      "ARS": {
+        "ci_high": 0.6231974162603418,
+        "ci_low": 0.5440507787212813,
+        "point_estimate": 0.5857184664910741,
+        "valid_resamples": 1000
+      },
+      "CAPR": {
+        "ci_high": 0.7128636268082577,
+        "ci_low": 0.6244121211072031,
+        "point_estimate": 0.6719054720660778,
+        "valid_resamples": 1000
+      },
+      "CRG": {
+        "ci_high": 0.4143559523707617,
+        "ci_low": 0.3295352872551129,
+        "point_estimate": 0.36991562775469083,
+        "valid_resamples": 1000
+      },
+      "DCR_fallacy": {
+        "ci_high": 0.6141700857792476,
+        "ci_low": 0.5875627864571893,
+        "point_estimate": 0.6005339905524748,
+        "valid_resamples": 1000
+      },
+      "DCR_hallucination": {
+        "ci_high": 0.5031074787536727,
+        "ci_low": 0.47483450756918216,
+        "point_estimate": 0.4887190005593884,
+        "valid_resamples": 1000
+      },
+      "DG_fallacy": {
+        "ci_high": 0.41243721354281077,
+        "ci_low": 0.3858299142207524,
+        "point_estimate": 0.3994660094475252,
+        "valid_resamples": 1000
+      },
+      "DG_hallucination": {
+        "ci_high": 0.5251654924308179,
+        "ci_low": 0.49689252124632727,
+        "point_estimate": 0.5112809994406116,
+        "valid_resamples": 1000
+      },
+      "FAA": {
+        "ci_high": 0.6592499901581523,
+        "ci_low": 0.5765132465321706,
+        "point_estimate": 0.6203102136376939,
+        "valid_resamples": 1000
+      },
+      "FFRR": {
+        "ci_high": 0.9163091823401358,
+        "ci_low": 0.9057573306315123,
+        "point_estimate": 0.9112120402529166,
+        "valid_resamples": 1000
+      },
+      "MCR": {
+        "ci_high": 0.5430410829719058,
+        "ci_low": 0.44134884436017013,
+        "point_estimate": 0.4912718204488778,
+        "valid_resamples": 1000
+      },
+      "OAR": {
+        "ci_high": 0.09424266936848777,
+        "ci_low": 0.08369081765986422,
+        "point_estimate": 0.08878795974708345,
+        "valid_resamples": 1000
+      },
+      "ORR": {
+        "ci_high": 0.044294233006588274,
+        "ci_low": 0.025732948378234734,
+        "point_estimate": 0.0351775956284153,
+        "valid_resamples": 1000
+      },
+      "RG": {
+        "ci_high": 0.3845405982194788,
+        "ci_low": 0.3072782227776716,
+        "point_estimate": 0.34386889083991806,
+        "valid_resamples": 1000
+      },
+      "SRA": {
+        "ci_high": 0.9239707947398454,
+        "ci_low": 0.9037252316941464,
+        "point_estimate": 0.9143107989464443,
+        "valid_resamples": 1000
+      },
+      "TRR": {
+        "ci_high": 0.605731152757343,
+        "ci_low": 0.5228734009690088,
+        "point_estimate": 0.5665630975143403,
+        "valid_resamples": 1000
+      },
+      "TRR_assisted": {
+        "ci_high": 0.7000055514433753,
+        "ci_low": 0.6102877717863636,
+        "point_estimate": 0.6565656565656566,
+        "valid_resamples": 1000
+      },
+      "TRR_independent": {
+        "ci_high": 0.5641855428701805,
+        "ci_low": 0.48072632549262534,
+        "point_estimate": 0.5243195785776997,
+        "valid_resamples": 1000
+      },
+      "VFAR": {
+        "ci_high": 0.9742670516217652,
+        "ci_low": 0.9557057669934117,
+        "point_estimate": 0.9648224043715847,
+        "valid_resamples": 1000
+      },
+      "VJA": {
+        "ci_high": 0.9342516619570465,
+        "ci_low": 0.9247314217213263,
+        "point_estimate": 0.9295873573309921,
+        "valid_resamples": 1000
+      },
+      "binary_any_fault_F1": {
+        "ci_high": 0.9475773745874573,
+        "ci_low": 0.9397274545606707,
+        "point_estimate": 0.9436027673176285,
+        "valid_resamples": 1000
+      },
+      "binary_fallacy_F1": {
+        "ci_high": 0.7844898605381768,
+        "ci_low": 0.768963322325523,
+        "point_estimate": 0.7768552597791664,
+        "valid_resamples": 1000
+      },
+      "binary_hallucination_F1": {
+        "ci_high": 0.6827069743267038,
+        "ci_low": 0.6712596268851253,
+        "point_estimate": 0.677053303073054,
+        "valid_resamples": 1000
+      },
+      "fallacy_micro_F1": {
+        "ci_high": 0.5573874003397875,
+        "ci_low": 0.533374808616587,
+        "point_estimate": 0.5448984793135673,
+        "valid_resamples": 1000
+      },
+      "hallucination_micro_F1": {
+        "ci_high": 0.4204355757006246,
+        "ci_low": 0.4019568197588058,
+        "point_estimate": 0.4116136236739252,
+        "valid_resamples": 1000
+      }
+    },
+    "n_clusters": 360,
+    "n_resamples": 1000,
+    "seed": 2027
+  },
+  "qwen3_8b_local": {
+    "N": 17085,
+    "cluster_field": "base_question_id",
+    "confidence": 0.95,
+    "implementation": "multinomial cluster weights over pre-aggregated sufficient statistics",
+    "method": "paired base-question clustered nonparametric bootstrap, percentile interval",
+    "metrics": {
+      "ACR": {
+        "ci_high": 0.6045473441381136,
+        "ci_low": 0.5255167591033144,
+        "point_estimate": 0.5662198819211745,
+        "valid_resamples": 1000
+      },
+      "ARS": {
+        "ci_high": 0.4442632098659006,
+        "ci_low": 0.3834836590529163,
+        "point_estimate": 0.415393620134621,
+        "valid_resamples": 1000
+      },
+      "CAPR": {
+        "ci_high": 0.6422738141196955,
+        "ci_low": 0.5583855286677475,
+        "point_estimate": 0.6018125501892853,
+        "valid_resamples": 1000
+      },
+      "CRG": {
+        "ci_high": 0.47448324089668564,
+        "ci_low": 0.3954526558618863,
+        "point_estimate": 0.4337801180788256,
+        "valid_resamples": 1000
+      },
+      "DCR_fallacy": {
+        "ci_high": 0.3022570502278829,
+        "ci_low": 0.2748431721001554,
+        "point_estimate": 0.28832369942196534,
+        "valid_resamples": 1000
+      },
+      "DCR_hallucination": {
+        "ci_high": 0.338534944126037,
+        "ci_low": 0.3095499807695705,
+        "point_estimate": 0.32400183570445157,
+        "valid_resamples": 1000
+      },
+      "DG_fallacy": {
+        "ci_high": 0.7251568278998447,
+        "ci_low": 0.697742949772117,
+        "point_estimate": 0.7116763005780347,
+        "valid_resamples": 1000
+      },
+      "DG_hallucination": {
+        "ci_high": 0.6904500192304295,
+        "ci_low": 0.661465055873963,
+        "point_estimate": 0.6759981642955484,
+        "valid_resamples": 1000
+      },
+      "FAA": {
+        "ci_high": 0.5512445135276905,
+        "ci_low": 0.47849550892405196,
+        "point_estimate": 0.5167105648229441,
+        "valid_resamples": 1000
+      },
+      "FFRR": {
+        "ci_high": 0.7853205283682357,
+        "ci_low": 0.7614681753367201,
+        "point_estimate": 0.7732656514382402,
+        "valid_resamples": 1000
+      },
+      "MCR": {
+        "ci_high": 0.4122855771524646,
+        "ci_low": 0.34640976875153057,
+        "point_estimate": 0.3803559657218194,
+        "valid_resamples": 1000
+      },
+      "OAR": {
+        "ci_high": 0.23853182466327988,
+        "ci_low": 0.21467947163176426,
+        "point_estimate": 0.22673434856175972,
+        "valid_resamples": 1000
+      },
+      "ORR": {
+        "ci_high": 0.35714376744750576,
+        "ci_low": 0.32776103346675084,
+        "point_estimate": 0.34238387978142076,
+        "valid_resamples": 1000
+      },
+      "RG": {
+        "ci_high": 0.34686064443369874,
+        "ci_low": 0.2917495279293119,
+        "point_estimate": 0.3182323675738952,
+        "valid_resamples": 1000
+      },
+      "SRA": {
+        "ci_high": 0.7020428023579529,
+        "ci_low": 0.6806751015608807,
+        "point_estimate": 0.6911325724319578,
+        "valid_resamples": 1000
+      },
+      "TRR": {
+        "ci_high": 0.45908023298425266,
+        "ci_low": 0.3936164772088605,
+        "point_estimate": 0.4280592734225621,
+        "valid_resamples": 1000
+      },
+      "TRR_assisted": {
+        "ci_high": 0.6544250087980292,
+        "ci_low": 0.5716700015586376,
+        "point_estimate": 0.6165357276468387,
+        "valid_resamples": 1000
+      },
+      "TRR_independent": {
+        "ci_high": 0.3700804893924474,
+        "ci_low": 0.3067458910452001,
+        "point_estimate": 0.3395961369622476,
+        "valid_resamples": 1000
+      },
+      "VFAR": {
+        "ci_high": 0.6722389665332491,
+        "ci_low": 0.6428562325524942,
+        "point_estimate": 0.6576161202185792,
+        "valid_resamples": 1000
+      },
+      "VJA": {
+        "ci_high": 0.7419849150387504,
+        "ci_low": 0.7257835664198222,
+        "point_estimate": 0.7336259877085163,
+        "valid_resamples": 1000
+      },
+      "binary_any_fault_F1": {
+        "ci_high": 0.7575609194420372,
+        "ci_low": 0.74293797814365,
+        "point_estimate": 0.7504012083451336,
+        "valid_resamples": 1000
+      },
+      "binary_fallacy_F1": {
+        "ci_high": 0.4785080798600085,
+        "ci_low": 0.4484582434061348,
+        "point_estimate": 0.4635260341902649,
+        "valid_resamples": 1000
+      },
+      "binary_hallucination_F1": {
+        "ci_high": 0.5942154427770441,
+        "ci_low": 0.5782495601867554,
+        "point_estimate": 0.5864764778494034,
+        "valid_resamples": 1000
+      },
+      "fallacy_micro_F1": {
+        "ci_high": 0.3920041333992188,
+        "ci_low": 0.3634674025146404,
+        "point_estimate": 0.37724628312863606,
+        "valid_resamples": 1000
+      },
+      "hallucination_micro_F1": {
+        "ci_high": 0.26182855803079935,
+        "ci_low": 0.24193863591948409,
+        "point_estimate": 0.25199528980766717,
+        "valid_resamples": 1000
+      }
+    },
+    "n_clusters": 360,
+    "n_resamples": 1000,
+    "seed": 2027
+  }
+}

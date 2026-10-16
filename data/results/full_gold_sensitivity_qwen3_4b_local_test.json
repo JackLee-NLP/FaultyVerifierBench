@@ -1,0 +1,567 @@
+{
+  "N": 18974,
+  "available_output_matcher_ladder": {
+    "M0_exact": {
+      "ARS": {
+        "L": 0.3408485902102461,
+        "U": 0.46938664638452765
+      },
+      "C3_minus_C4": {
+        "L": 0.11985403024100966,
+        "U": 0.4441152722852892
+      },
+      "C3_recovery": {
+        "L": 0.5392192630426852,
+        "U": 0.7263772345859175
+      },
+      "C4_recovery": {
+        "L": 0.28226196230062833,
+        "U": 0.41936523280167554
+      },
+      "FAA": {
+        "L": 0.3999022111153366,
+        "U": 0.5639159015591895
+      },
+      "TRR": {
+        "L": 0.3609745194456862,
+        "U": 0.5134108180599016
+      },
+      "invariants": {
+        "matched_statuses_equal_N_matched": true
+      },
+      "preservation": {
+        "L": 0.4367269267364415,
+        "U": 0.6116925679247278
+      },
+      "status_counts": {
+        "definitely_matched": 7361,
+        "definitely_unmatched": 8027,
+        "missing": 0,
+        "unresolved": 3019
+      },
+      "supports": {
+        "C3": 2741,
+        "C4": 6207,
+        "solver_incorrect": 8948
+      },
+      "unresolved": {
+        "N": 3019,
+        "percentage": 0.1640136904438529
+      }
+    },
+    "M1_numeric": {
+      "ARS": {
+        "L": 0.3459553430760037,
+        "U": 0.46938664638452765
+      },
+      "C3_minus_C4": {
+        "L": 0.12569131590317667,
+        "U": 0.4418597543216997
+      },
+      "C3_recovery": {
+        "L": 0.5450565487048522,
+        "U": 0.7263772345859175
+      },
+      "C4_recovery": {
+        "L": 0.2845174802642178,
+        "U": 0.41936523280167554
+      },
+      "FAA": {
+        "L": 0.4053349269299723,
+        "U": 0.5639159015591895
+      },
+      "TRR": {
+        "L": 0.3643272239606616,
+        "U": 0.5134108180599016
+      },
+      "invariants": {
+        "matched_statuses_equal_N_matched": true
+      },
+      "preservation": {
+        "L": 0.4441272861824717,
+        "U": 0.6116925679247278
+      },
+      "status_counts": {
+        "definitely_matched": 7461,
+        "definitely_unmatched": 8027,
+        "missing": 0,
+        "unresolved": 2919
+      },
+      "supports": {
+        "C3": 2741,
+        "C4": 6207,
+        "solver_incorrect": 8948
+      },
+      "unresolved": {
+        "N": 2919,
+        "percentage": 0.15858097462921714
+      }
+    },
+    "M2_ordered_containment": {
+      "ARS": {
+        "L": 0.3459553430760037,
+        "U": 0.47894822621828653
+      },
+      "C3_minus_C4": {
+        "L": 0.11795811145658414,
+        "U": 0.4462377185683251
+      },
+      "C3_recovery": {
+        "L": 0.5450565487048522,
+        "U": 0.7307551988325429
+      },
+      "C4_recovery": {
+        "L": 0.2845174802642178,
+        "U": 0.42709843724826807
+      },
+      "FAA": {
+        "L": 0.4053349269299723,
+        "U": 0.5749443146629
+      },
+      "TRR": {
+        "L": 0.3643272239606616,
+        "U": 0.5201162270898525
+      },
+      "invariants": {
+        "matched_statuses_equal_N_matched": true
+      },
+      "preservation": {
+        "L": 0.4441272861824717,
+        "U": 0.6268104450787609
+      },
+      "status_counts": {
+        "definitely_matched": 7461,
+        "definitely_unmatched": 7824,
+        "missing": 0,
+        "unresolved": 3122
+      },
+      "supports": {
+        "C3": 2741,
+        "C4": 6207,
+        "solver_incorrect": 8948
+      },
+      "unresolved": {
+        "N": 3122,
+        "percentage": 0.1696093877329277
+      }
+    },
+    "M3_guarded_containment": {
+      "ARS": {
+        "L": 0.3459553430760037,
+        "U": 0.47813331884609117
+      },
+      "C3_minus_C4": {
+        "L": 0.11940808729032021,
+        "U": 0.44660254892221046
+      },
+      "C3_recovery": {
+        "L": 0.5450565487048522,
+        "U": 0.7311200291864283
+      },
+      "C4_recovery": {
+        "L": 0.2845174802642178,
+        "U": 0.425648461414532
+      },
+      "FAA": {
+        "L": 0.4053349269299723,
+        "U": 0.5740207529744119
+      },
+      "TRR": {
+        "L": 0.3643272239606616,
+        "U": 0.5192221725525257
+      },
+      "invariants": {
+        "matched_statuses_equal_N_matched": true
+      },
+      "preservation": {
+        "L": 0.4441272861824717,
+        "U": 0.6258589702928428
+      },
+      "status_counts": {
+        "definitely_matched": 7461,
+        "definitely_unmatched": 7841,
+        "missing": 0,
+        "unresolved": 3105
+      },
+      "supports": {
+        "C3": 2741,
+        "C4": 6207,
+        "solver_incorrect": 8948
+      },
+      "unresolved": {
+        "N": 3105,
+        "percentage": 0.1686858260444396
+      }
+    },
+    "M4_operational": {
+      "ARS": {
+        "L": 0.3459553430760037,
+        "U": 0.48285978160482423
+      },
+      "C3_minus_C4": {
+        "L": 0.10829160589834341,
+        "U": 0.449521191753294
+      },
+      "C3_recovery": {
+        "L": 0.5450565487048522,
+        "U": 0.7340386720175118
+      },
+      "C4_recovery": {
+        "L": 0.2845174802642178,
+        "U": 0.4367649428065088
+      },
+      "FAA": {
+        "L": 0.4053349269299723,
+        "U": 0.5826587711196828
+      },
+      "TRR": {
+        "L": 0.3643272239606616,
+        "U": 0.5278274474742959
+      },
+      "invariants": {
+        "matched_statuses_equal_N_matched": true
+      },
+      "operational": {
+        "definitely_matched_rate": 0.4053349269299723,
+        "definitely_unmatched_rate": 0.41734122888031727,
+        "lower_bound": 0.4053349269299723,
+        "operational_match_rate": 0.44792741891671645,
+        "unresolved_rate": 0.17732384418971045,
+        "upper_bound": 0.5826587711196828
+      },
+      "preservation": {
+        "L": 0.4441272861824717,
+        "U": 0.6345279627867639
+      },
+      "status_counts": {
+        "definitely_matched": 7461,
+        "definitely_unmatched": 7682,
+        "missing": 0,
+        "unresolved": 3264
+      },
+      "supports": {
+        "C3": 2741,
+        "C4": 6207,
+        "solver_incorrect": 8948
+      },
+      "unresolved": {
+        "N": 3264,
+        "percentage": 0.17732384418971045
+      }
+    },
+    "adjacent_transitions": {
+      "M0_exact_to_M1_numeric": {
+        "counts": {
+          "definitely_matched": {
+            "definitely_matched": 7361,
+            "definitely_unmatched": 0,
+            "unresolved": 0
+          },
+          "definitely_unmatched": {
+            "definitely_matched": 0,
+            "definitely_unmatched": 8027,
+            "unresolved": 0
+          },
+          "unresolved": {
+            "definitely_matched": 100,
+            "definitely_unmatched": 0,
+            "unresolved": 2919
+          }
+        },
+        "invariants": {
+          "cells_sum_to_N": true,
+          "column_marginals_match_target": true,
+          "row_marginals_match_source": true
+        }
+      },
+      "M1_numeric_to_M2_ordered_containment": {
+        "counts": {
+          "definitely_matched": {
+            "definitely_matched": 7461,
+            "definitely_unmatched": 0,
+            "unresolved": 0
+          },
+          "definitely_unmatched": {
+            "definitely_matched": 0,
+            "definitely_unmatched": 7824,
+            "unresolved": 203
+          },
+          "unresolved": {
+            "definitely_matched": 0,
+            "definitely_unmatched": 0,
+            "unresolved": 2919
+          }
+        },
+        "invariants": {
+          "cells_sum_to_N": true,
+          "column_marginals_match_target": true,
+          "row_marginals_match_source": true
+        }
+      },
+      "M2_ordered_containment_to_M3_guarded_containment": {
+        "counts": {
+          "definitely_matched": {
+            "definitely_matched": 7461,
+            "definitely_unmatched": 0,
+            "unresolved": 0
+          },
+          "definitely_unmatched": {
+            "definitely_matched": 0,
+            "definitely_unmatched": 7807,
+            "unresolved": 17
+          },
+          "unresolved": {
+            "definitely_matched": 0,
+            "definitely_unmatched": 34,
+            "unresolved": 3088
+          }
+        },
+        "invariants": {
+          "cells_sum_to_N": true,
+          "column_marginals_match_target": true,
+          "row_marginals_match_source": true
+        }
+      },
+      "M3_guarded_containment_to_M4_operational": {
+        "counts": {
+          "definitely_matched": {
+            "definitely_matched": 7461,
+            "definitely_unmatched": 0,
+            "unresolved": 0
+          },
+          "definitely_unmatched": {
+            "definitely_matched": 0,
+            "definitely_unmatched": 7682,
+            "unresolved": 159
+          },
+          "unresolved": {
+            "definitely_matched": 0,
+            "definitely_unmatched": 0,
+            "unresolved": 3105
+          }
+        },
+        "invariants": {
+          "cells_sum_to_N": true,
+          "column_marginals_match_target": true,
+          "row_marginals_match_source": true
+        }
+      }
+    }
+  },
+  "coverage_adjusted_ARS": 0.3661853062084958,
+  "coverage_adjusted_FAA": 0.4345420048487404,
+  "coverage_adjusted_VJA": 0.7221987983556446,
+  "coverage_adjusted_matcher_ladder": {
+    "M0_exact": {
+      "ARS": {
+        "L": 0.3306630125434806,
+        "U": 0.45535996626963215
+      },
+      "C3_minus_C4": {
+        "L": 0.1190023649818629,
+        "U": 0.432361091036778
+      },
+      "C3_recovery": {
+        "L": 0.5226308345120226,
+        "U": 0.704031117397454
+      },
+      "C4_recovery": {
+        "L": 0.27167002636067605,
+        "U": 0.40362846953015974
+      },
+      "FAA": {
+        "L": 0.38795193422578267,
+        "U": 0.5470644039211553
+      },
+      "TRR": {
+        "L": 0.34817290072221624,
+        "U": 0.49520319068664437
+      },
+      "invariants": {
+        "matched_plus_missing_equal_N_gold": true,
+        "matched_statuses_equal_N_matched": true
+      },
+      "preservation": {
+        "L": 0.42600804372486334,
+        "U": 0.5966793853769207
+      },
+      "status_counts": {
+        "definitely_matched": 7361,
+        "definitely_unmatched": 8027,
+        "missing": 567,
+        "unresolved": 3019
+      }
+    },
+    "M1_numeric": {
+      "ARS": {
+        "L": 0.3356171603246548,
+        "U": 0.45535996626963215
+      },
+      "C3_minus_C4": {
+        "L": 0.12466007360986853,
+        "U": 0.4301902118306995
+      },
+      "C3_recovery": {
+        "L": 0.5282885431400283,
+        "U": 0.704031117397454
+      },
+      "C4_recovery": {
+        "L": 0.27384090556675456,
+        "U": 0.40362846953015974
+      },
+      "FAA": {
+        "L": 0.39322230420575527,
+        "U": 0.5470644039211553
+      },
+      "TRR": {
+        "L": 0.3514067047536919,
+        "U": 0.49520319068664437
+      },
+      "invariants": {
+        "matched_plus_missing_equal_N_gold": true,
+        "matched_statuses_equal_N_matched": true
+      },
+      "preservation": {
+        "L": 0.4332267711663401,
+        "U": 0.5966793853769207
+      },
+      "status_counts": {
+        "definitely_matched": 7461,
+        "definitely_unmatched": 8027,
+        "missing": 567,
+        "unresolved": 2919
+      }
+    },
+    "M2_ordered_containment": {
+      "ARS": {
+        "L": 0.3356171603246548,
+        "U": 0.46463581743438387
+      },
+      "C3_minus_C4": {
+        "L": 0.11721705918902808,
+        "U": 0.43443349330170367
+      },
+      "C3_recovery": {
+        "L": 0.5282885431400283,
+        "U": 0.7082743988684582
+      },
+      "C4_recovery": {
+        "L": 0.27384090556675456,
+        "U": 0.4110714839510002
+      },
+      "FAA": {
+        "L": 0.39322230420575527,
+        "U": 0.5577632549804996
+      },
+      "TRR": {
+        "L": 0.3514067047536919,
+        "U": 0.5016707987495957
+      },
+      "invariants": {
+        "matched_plus_missing_equal_N_gold": true,
+        "matched_statuses_equal_N_matched": true
+      },
+      "preservation": {
+        "L": 0.4332267711663401,
+        "U": 0.6114262142930803
+      },
+      "status_counts": {
+        "definitely_matched": 7461,
+        "definitely_unmatched": 7824,
+        "missing": 567,
+        "unresolved": 3122
+      }
+    },
+    "M3_guarded_containment": {
+      "ARS": {
+        "L": 0.3356171603246548,
+        "U": 0.463845261937388
+      },
+      "C3_minus_C4": {
+        "L": 0.11861262439293568,
+        "U": 0.4347871000909541
+      },
+      "C3_recovery": {
+        "L": 0.5282885431400283,
+        "U": 0.7086280056577087
+      },
+      "C4_recovery": {
+        "L": 0.27384090556675456,
+        "U": 0.4096759187470926
+      },
+      "FAA": {
+        "L": 0.39322230420575527,
+        "U": 0.5568672920839043
+      },
+      "TRR": {
+        "L": 0.3514067047536919,
+        "U": 0.500808451007869
+      },
+      "invariants": {
+        "matched_plus_missing_equal_N_gold": true,
+        "matched_statuses_equal_N_matched": true
+      },
+      "preservation": {
+        "L": 0.4332267711663401,
+        "U": 0.6104980921934618
+      },
+      "status_counts": {
+        "definitely_matched": 7461,
+        "definitely_unmatched": 7841,
+        "missing": 567,
+        "unresolved": 3105
+      }
+    },
+    "M4_operational": {
+      "ARS": {
+        "L": 0.3356171603246548,
+        "U": 0.46843048381996416
+      },
+      "C3_minus_C4": {
+        "L": 0.10791329116297754,
+        "U": 0.43761595440495693
+      },
+      "C3_recovery": {
+        "L": 0.5282885431400283,
+        "U": 0.7114568599717115
+      },
+      "C4_recovery": {
+        "L": 0.27384090556675456,
+        "U": 0.4203752519770507
+      },
+      "FAA": {
+        "L": 0.39322230420575527,
+        "U": 0.5652471803520607
+      },
+      "TRR": {
+        "L": 0.3514067047536919,
+        "U": 0.5091085480219899
+      },
+      "invariants": {
+        "matched_plus_missing_equal_N_gold": true,
+        "matched_statuses_equal_N_matched": true
+      },
+      "operational": {
+        "definitely_matched_rate": 0.39322230420575527,
+        "definitely_unmatched_rate": 0.40486982186149467,
+        "lower_bound": 0.39322230420575527,
+        "operational_match_rate": 0.4345420048487404,
+        "unresolved_rate": 0.17202487614630546,
+        "upper_bound": 0.5652471803520607
+      },
+      "preservation": {
+        "L": 0.4332267711663401,
+        "U": 0.6189543157677633
+      },
+      "status_counts": {
+        "definitely_matched": 7461,
+        "definitely_unmatched": 7682,
+        "missing": 567,
+        "unresolved": 3264
+      }
+    }
+  },
+  "n_matched": 18407,
+  "n_missing": 567,
+  "policy": "missing_outputs_count_as_incorrect"
+}

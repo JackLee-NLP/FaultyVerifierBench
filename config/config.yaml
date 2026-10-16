@@ -1,0 +1,94 @@
+project_name: FaultyVerifierBench
+random_seed: 42
+
+paths:
+  raw_data_dir: data/raw
+  processed_data_dir: data/processed
+  split_dir: data/splits
+  result_dir: data/results
+
+generation:
+  num_questions_per_domain: 5
+  difficulties: [easy, medium, hard]
+  temperature: 0.7
+  max_retries: 3
+  retry_base_delay_seconds: 5
+
+  question_generator_models:
+    - GLM
+    - deepseek
+    - gemini
+
+  solver_generator_models:
+    - GLM
+    - deepseek
+    - gemini
+
+  verifier_generator_models:
+    - GLM
+    - deepseek
+    - gemini
+  verifier_max_workers: 629
+  verifier_max_concurrent_per_model: 2
+
+api:
+  connect_timeout_seconds: 30
+  read_timeout_seconds: 240
+
+  provider_timeouts:
+    openai:
+      connect_timeout_seconds: 20
+      read_timeout_seconds: 120
+
+    deepseek:
+      connect_timeout_seconds: 20
+      read_timeout_seconds: 180
+
+    gemini:
+      connect_timeout_seconds: 20
+      read_timeout_seconds: 240
+    
+validation:
+  enable_model_validation: false
+
+evaluation:
+  strict_json_parsing: false
+  default_model: GLM
+  default_split: test
+
+  # API models receive temperature=0.0 for the least stochastic supported setting.
+  # Local Hugging Face models independently use local_do_sample=false.
+  temperature: 0.0
+
+  models_path: config/models.yaml
+  dev_ratio: 0.2
+
+  target_models:
+    - deepseek
+    - qwen3_4b_local
+    - qwen3_8_flash
+    - qwen3_8b_local
+    - Ministral-3-14B
+    - gpt_5_6_luna
+
+  evaluation_max_workers: 616
+  evaluation_workers_per_model: 2
+  evaluation_max_concurrent_per_model: 3
+
+  # Shared explicit-reasoning control. This existing setting is now also
+  # forwarded to OpenRouter-backed OpenAIClient instances.
+  deepseek_thinking_enabled: false
+  deepseek_reasoning_effort: high
+
+  local_do_sample: false
+  local_enable_thinking: false
+  local_trust_remote_code: true
+  local_device: cuda:0
+  local_dtype: auto
+  local_attn_implementation: sdpa
+
+  local_batch_size: 8
+  local_max_batch_tokens: 32768
+  local_max_input_tokens: 8192
+  local_length_bucket_size: 32
+  local_oom_split_batch: true
