@@ -40,14 +40,6 @@ The environment is named `API_call` and uses Python 3.10. If you already created
 conda env update -f environment.yml --prune
 ```
 
-On Windows PowerShell, copy the environment file and fill in your own API keys:
-
-```powershell
-Copy-Item .env.example .env
-```
-
-On macOS or Linux:
-
 ```bash
 cp .env.example .env
 ```
