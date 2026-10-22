@@ -40,6 +40,8 @@ The environment is named `API_call` and uses Python 3.10. If you already created
 conda env update -f environment.yml --prune
 ```
 
+On Linux:
+
 ```bash
 cp .env.example .env
 ```
