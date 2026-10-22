@@ -3,28 +3,28 @@
   "available_output_matcher_ladder": {
     "M0_exact": {
       "ARS": {
-        "L": 0.39360051367114346,
-        "U": 0.5495746160843277
+        "L": 0.3936540210819198,
+        "U": 0.549628123495104
       },
       "C3_minus_C4": {
-        "L": -0.023388092410124295,
-        "U": 0.28683629712654257
+        "L": -0.023034110109239336,
+        "U": 0.2871902794274275
       },
       "C3_recovery": {
-        "L": 0.45061946902654865,
-        "U": 0.6258407079646018
+        "L": 0.4509734513274336,
+        "U": 0.6261946902654867
       },
       "C4_recovery": {
         "L": 0.3390044108380592,
         "U": 0.47400756143667294
       },
       "FAA": {
-        "L": 0.4161806410187811,
-        "U": 0.5815720477286104
+        "L": 0.41623414842955747,
+        "U": 0.5816255551393869
       },
       "TRR": {
-        "L": 0.37337839311021476,
-        "U": 0.520767469748174
+        "L": 0.373487408699444,
+        "U": 0.5208764853374033
       },
       "invariants": {
         "matched_statuses_equal_N_matched": true
@@ -34,8 +34,8 @@
         "U": 0.6401849516603615
       },
       "status_counts": {
-        "definitely_matched": 7778,
-        "definitely_unmatched": 7820,
+        "definitely_matched": 7779,
+        "definitely_unmatched": 7819,
         "missing": 0,
         "unresolved": 3091
       },
@@ -51,28 +51,28 @@
     },
     "M1_numeric": {
       "ARS": {
-        "L": 0.4204077264701161,
-        "U": 0.5550323719835197
+        "L": 0.4204612338808925,
+        "U": 0.5550858793942961
       },
       "C3_minus_C4": {
-        "L": -0.00018831100032895565,
-        "U": 0.2696600141637531
+        "L": 0.00016567130055600288,
+        "U": 0.27001399646463803
       },
       "C3_recovery": {
-        "L": 0.47823008849557525,
-        "U": 0.6300884955752213
+        "L": 0.4785840707964602,
+        "U": 0.6304424778761062
       },
       "C4_recovery": {
         "L": 0.36042848141146816,
         "U": 0.4784183994959042
       },
       "FAA": {
-        "L": 0.44400449462250524,
-        "U": 0.5870833110385788
+        "L": 0.4440580020332816,
+        "U": 0.5871368184493553
       },
       "TRR": {
-        "L": 0.39670772920527636,
-        "U": 0.5251280933173443
+        "L": 0.3968167447945056,
+        "U": 0.5252371089065736
       },
       "invariants": {
         "matched_statuses_equal_N_matched": true
@@ -82,8 +82,8 @@
         "U": 0.6468053804119378
       },
       "status_counts": {
-        "definitely_matched": 8298,
-        "definitely_unmatched": 7717,
+        "definitely_matched": 8299,
+        "definitely_unmatched": 7716,
         "missing": 0,
         "unresolved": 2674
       },
@@ -99,41 +99,41 @@
     },
     "M2_ordered_containment": {
       "ARS": {
-        "L": 0.4204077264701161,
-        "U": 0.6523088447750013
+        "L": 0.4204612338808925,
+        "U": 0.6524158595965541
       },
       "C3_minus_C4": {
-        "L": -0.0917132007293775,
-        "U": 0.366651164606231
+        "L": -0.09135921842849254,
+        "U": 0.3670051469071159
       },
       "C3_recovery": {
-        "L": 0.47823008849557525,
-        "U": 0.7270796460176991
+        "L": 0.4785840707964602,
+        "U": 0.727433628318584
       },
       "C4_recovery": {
         "L": 0.36042848141146816,
         "U": 0.5699432892249527
       },
       "FAA": {
-        "L": 0.44400449462250524,
-        "U": 0.6913692546417679
+        "L": 0.4440580020332816,
+        "U": 0.6914762694633206
       },
       "TRR": {
-        "L": 0.39670772920527636,
-        "U": 0.6183364221083615
+        "L": 0.3968167447945056,
+        "U": 0.6184454376975907
       },
       "invariants": {
         "matched_statuses_equal_N_matched": true
       },
       "preservation": {
         "L": 0.4895964691046658,
-        "U": 0.7617696511139134
+        "U": 0.7618747372845733
       },
       "status_counts": {
-        "definitely_matched": 8298,
-        "definitely_unmatched": 5768,
+        "definitely_matched": 8299,
+        "definitely_unmatched": 5766,
         "missing": 0,
-        "unresolved": 4623
+        "unresolved": 4624
       },
       "supports": {
         "C3": 2825,
@@ -141,34 +141,34 @@
         "solver_incorrect": 9173
       },
       "unresolved": {
-        "N": 4623,
-        "percentage": 0.24736476001926266
+        "N": 4624,
+        "percentage": 0.24741826743003906
       }
     },
     "M3_guarded_containment": {
       "ARS": {
-        "L": 0.4204077264701161,
-        "U": 0.6344373695756862
+        "L": 0.4204612338808925,
+        "U": 0.6344908769864627
       },
       "C3_minus_C4": {
-        "L": -0.07123430974008949,
-        "U": 0.3425803681460539
+        "L": -0.07088032743920453,
+        "U": 0.34293435044693893
       },
       "C3_recovery": {
-        "L": 0.47823008849557525,
-        "U": 0.7030088495575221
+        "L": 0.4785840707964602,
+        "U": 0.7033628318584071
       },
       "C4_recovery": {
         "L": 0.36042848141146816,
         "U": 0.5494643982356647
       },
       "FAA": {
-        "L": 0.44400449462250524,
-        "U": 0.6714109904221734
+        "L": 0.4440580020332816,
+        "U": 0.6714644978329498
       },
       "TRR": {
-        "L": 0.39670772920527636,
-        "U": 0.596751335440968
+        "L": 0.3968167447945056,
+        "U": 0.5968603510301973
       },
       "invariants": {
         "matched_statuses_equal_N_matched": true
@@ -178,8 +178,8 @@
         "U": 0.7433795712484237
       },
       "status_counts": {
-        "definitely_matched": 8298,
-        "definitely_unmatched": 6141,
+        "definitely_matched": 8299,
+        "definitely_unmatched": 6140,
         "missing": 0,
         "unresolved": 4250
       },
@@ -195,49 +195,49 @@
     },
     "M4_operational": {
       "ARS": {
-        "L": 0.4204077264701161,
-        "U": 0.66167264166087
+        "L": 0.4204612338808925,
+        "U": 0.6617796564824228
       },
       "C3_minus_C4": {
-        "L": -0.10510324483775813,
-        "U": 0.3765626690310097
+        "L": -0.10474926253687317,
+        "U": 0.3769166513318947
       },
       "C3_recovery": {
-        "L": 0.47823008849557525,
-        "U": 0.7369911504424779
+        "L": 0.4785840707964602,
+        "U": 0.7373451327433629
       },
       "C4_recovery": {
         "L": 0.36042848141146816,
         "U": 0.5833333333333334
       },
       "FAA": {
-        "L": 0.44400449462250524,
-        "U": 0.7014286478677296
+        "L": 0.4440580020332816,
+        "U": 0.7015356626892825
       },
       "TRR": {
-        "L": 0.39670772920527636,
-        "U": 0.6306551836912678
+        "L": 0.3968167447945056,
+        "U": 0.6307641992804971
       },
       "invariants": {
         "matched_statuses_equal_N_matched": true
       },
       "operational": {
-        "definitely_matched_rate": 0.44400449462250524,
-        "definitely_unmatched_rate": 0.2985713521322703,
-        "lower_bound": 0.44400449462250524,
-        "operational_match_rate": 0.6175290277703462,
-        "unresolved_rate": 0.25742415324522444,
-        "upper_bound": 0.7014286478677296
+        "definitely_matched_rate": 0.4440580020332816,
+        "definitely_unmatched_rate": 0.29846433731071753,
+        "lower_bound": 0.4440580020332816,
+        "operational_match_rate": 0.617636042591899,
+        "unresolved_rate": 0.25747766065600086,
+        "upper_bound": 0.7015356626892825
       },
       "preservation": {
         "L": 0.4895964691046658,
-        "U": 0.769651113913409
+        "U": 0.769756200084069
       },
       "status_counts": {
-        "definitely_matched": 8298,
-        "definitely_unmatched": 5580,
+        "definitely_matched": 8299,
+        "definitely_unmatched": 5578,
         "missing": 0,
-        "unresolved": 4811
+        "unresolved": 4812
       },
       "supports": {
         "C3": 2825,
@@ -245,21 +245,21 @@
         "solver_incorrect": 9173
       },
       "unresolved": {
-        "N": 4811,
-        "percentage": 0.25742415324522444
+        "N": 4812,
+        "percentage": 0.25747766065600086
       }
     },
     "adjacent_transitions": {
       "M0_exact_to_M1_numeric": {
         "counts": {
           "definitely_matched": {
-            "definitely_matched": 7778,
+            "definitely_matched": 7779,
             "definitely_unmatched": 0,
             "unresolved": 0
           },
           "definitely_unmatched": {
             "definitely_matched": 103,
-            "definitely_unmatched": 7717,
+            "definitely_unmatched": 7716,
             "unresolved": 0
           },
           "unresolved": {
@@ -277,14 +277,14 @@
       "M1_numeric_to_M2_ordered_containment": {
         "counts": {
           "definitely_matched": {
-            "definitely_matched": 8298,
+            "definitely_matched": 8299,
             "definitely_unmatched": 0,
             "unresolved": 0
           },
           "definitely_unmatched": {
             "definitely_matched": 0,
-            "definitely_unmatched": 5768,
-            "unresolved": 1949
+            "definitely_unmatched": 5766,
+            "unresolved": 1950
           },
           "unresolved": {
             "definitely_matched": 0,
@@ -301,18 +301,18 @@
       "M2_ordered_containment_to_M3_guarded_containment": {
         "counts": {
           "definitely_matched": {
-            "definitely_matched": 8298,
+            "definitely_matched": 8299,
             "definitely_unmatched": 0,
             "unresolved": 0
           },
           "definitely_unmatched": {
             "definitely_matched": 0,
-            "definitely_unmatched": 5724,
+            "definitely_unmatched": 5722,
             "unresolved": 44
           },
           "unresolved": {
             "definitely_matched": 0,
-            "definitely_unmatched": 417,
+            "definitely_unmatched": 418,
             "unresolved": 4206
           }
         },
@@ -325,14 +325,14 @@
       "M3_guarded_containment_to_M4_operational": {
         "counts": {
           "definitely_matched": {
-            "definitely_matched": 8298,
+            "definitely_matched": 8299,
             "definitely_unmatched": 0,
             "unresolved": 0
           },
           "definitely_unmatched": {
             "definitely_matched": 0,
-            "definitely_unmatched": 5580,
-            "unresolved": 561
+            "definitely_unmatched": 5578,
+            "unresolved": 562
           },
           "unresolved": {
             "definitely_matched": 0,
@@ -348,34 +348,34 @@
       }
     }
   },
-  "coverage_adjusted_ARS": 0.5744703278170128,
-  "coverage_adjusted_FAA": 0.6082533993886371,
+  "coverage_adjusted_ARS": 0.5745757352166122,
+  "coverage_adjusted_FAA": 0.6083588067882365,
   "coverage_adjusted_VJA": 0.9082955623484769,
   "coverage_adjusted_matcher_ladder": {
     "M0_exact": {
       "ARS": {
-        "L": 0.38768841572678403,
-        "U": 0.5413197006429852
+        "L": 0.38774111942658374,
+        "U": 0.5413724043427849
       },
       "C3_minus_C4": {
-        "L": -0.016442523790734964,
-        "U": 0.2914816568602788
+        "L": -0.016088917001484626,
+        "U": 0.29183526364952916
       },
       "C3_recovery": {
-        "L": 0.45014144271570017,
-        "U": 0.6251768033946252
+        "L": 0.4504950495049505,
+        "U": 0.6255304101838756
       },
       "C4_recovery": {
         "L": 0.3336951465343464,
         "U": 0.46658396650643513
       },
       "FAA": {
-        "L": 0.4099293770422684,
-        "U": 0.5728365131232213
+        "L": 0.4099820807420681,
+        "U": 0.572889216823021
       },
       "TRR": {
-        "L": 0.3691926269268082,
-        "U": 0.5149293952786461
+        "L": 0.3693004203945241,
+        "U": 0.515037188746362
       },
       "invariants": {
         "matched_plus_missing_equal_N_gold": true,
@@ -386,36 +386,36 @@
         "U": 0.6282355367639476
       },
       "status_counts": {
-        "definitely_matched": 7778,
-        "definitely_unmatched": 7820,
+        "definitely_matched": 7779,
+        "definitely_unmatched": 7819,
         "missing": 285,
         "unresolved": 3091
       }
     },
     "M1_numeric": {
       "ARS": {
-        "L": 0.41409296932644674,
-        "U": 0.5466954780225571
+        "L": 0.41414567302624644,
+        "U": 0.546748181722357
       },
       "C3_minus_C4": {
-        "L": 0.006797047358635677,
-        "U": 0.27463639747223506
+        "L": 0.007150654147886071,
+        "U": 0.2749900042614854
       },
       "C3_recovery": {
-        "L": 0.4777227722772277,
-        "U": 0.6294200848656294
+        "L": 0.4780763790664781,
+        "U": 0.6297736916548797
       },
       "C4_recovery": {
         "L": 0.35478368739339433,
         "U": 0.470925724918592
       },
       "FAA": {
-        "L": 0.43733530093812584,
-        "U": 0.578264994202593
+        "L": 0.4373880046379256,
+        "U": 0.5783176979023927
       },
       "TRR": {
-        "L": 0.3922604290180015,
-        "U": 0.5192411339872803
+        "L": 0.39236822248571734,
+        "U": 0.5193489274549963
       },
       "invariants": {
         "matched_plus_missing_equal_N_gold": true,
@@ -426,36 +426,36 @@
         "U": 0.6347323914612767
       },
       "status_counts": {
-        "definitely_matched": 8298,
-        "definitely_unmatched": 7717,
+        "definitely_matched": 8299,
+        "definitely_unmatched": 7716,
         "missing": 285,
         "unresolved": 2674
       }
     },
     "M2_ordered_containment": {
       "ARS": {
-        "L": 0.41409296932644674,
-        "U": 0.642510804258459
+        "L": 0.41414567302624644,
+        "U": 0.6426162116580584
       },
       "C3_minus_C4": {
-        "L": -0.08329443969362049,
-        "U": 0.371524657726832
+        "L": -0.0829408329043701,
+        "U": 0.37187826451608236
       },
       "C3_recovery": {
-        "L": 0.4777227722772277,
-        "U": 0.7263083451202264
+        "L": 0.4780763790664781,
+        "U": 0.7266619519094767
       },
       "C4_recovery": {
         "L": 0.35478368739339433,
         "U": 0.5610172119708482
       },
       "FAA": {
-        "L": 0.43733530093812584,
-        "U": 0.6809845051122588
+        "L": 0.4373880046379256,
+        "U": 0.6810899125118584
       },
       "TRR": {
-        "L": 0.3922604290180015,
-        "U": 0.6114045488843376
+        "L": 0.39236822248571734,
+        "U": 0.6115123423520534
       },
       "invariants": {
         "matched_plus_missing_equal_N_gold": true,
@@ -463,39 +463,39 @@
       },
       "preservation": {
         "L": 0.4804578735691451,
-        "U": 0.7475507889037847
+        "U": 0.7476539135815201
       },
       "status_counts": {
-        "definitely_matched": 8298,
-        "definitely_unmatched": 5768,
+        "definitely_matched": 8299,
+        "definitely_unmatched": 5766,
         "missing": 285,
-        "unresolved": 4623
+        "unresolved": 4624
       }
     },
     "M3_guarded_containment": {
       "ARS": {
-        "L": 0.41409296932644674,
-        "U": 0.6249077685253505
+        "L": 0.41414567302624644,
+        "U": 0.6249604722251502
       },
       "C3_minus_C4": {
-        "L": -0.06313627563717761,
-        "U": 0.3474793960578079
+        "L": -0.06278266884792721,
+        "U": 0.34783300284705826
       },
       "C3_recovery": {
-        "L": 0.4777227722772277,
-        "U": 0.7022630834512023
+        "L": 0.4780763790664781,
+        "U": 0.7026166902404526
       },
       "C4_recovery": {
         "L": 0.35478368739339433,
         "U": 0.5408590479144053
       },
       "FAA": {
-        "L": 0.43733530093812584,
-        "U": 0.6613260250869611
+        "L": 0.4373880046379256,
+        "U": 0.6613787287867608
       },
       "TRR": {
-        "L": 0.3922604290180015,
-        "U": 0.5900614422765981
+        "L": 0.39236822248571734,
+        "U": 0.5901692357443139
       },
       "invariants": {
         "matched_plus_missing_equal_N_gold": true,
@@ -506,58 +506,58 @@
         "U": 0.7295039703000928
       },
       "status_counts": {
-        "definitely_matched": 8298,
-        "definitely_unmatched": 6141,
+        "definitely_matched": 8299,
+        "definitely_unmatched": 6140,
         "missing": 285,
         "unresolved": 4250
       }
     },
     "M4_operational": {
       "ARS": {
-        "L": 0.41409296932644674,
-        "U": 0.651733951723411
+        "L": 0.41414567302624644,
+        "U": 0.6518393591230104
       },
       "C3_minus_C4": {
-        "L": -0.09647477773052548,
-        "U": 0.38142564782584193
+        "L": -0.09612117094127509,
+        "U": 0.38177925461509227
       },
       "C3_recovery": {
-        "L": 0.4777227722772277,
-        "U": 0.7362093352192363
+        "L": 0.4780763790664781,
+        "U": 0.7365629420084866
       },
       "C4_recovery": {
         "L": 0.35478368739339433,
         "U": 0.5741975500077532
       },
       "FAA": {
-        "L": 0.43733530093812584,
-        "U": 0.6908928006746073
+        "L": 0.4373880046379256,
+        "U": 0.6909982080742068
       },
       "TRR": {
-        "L": 0.3922604290180015,
-        "U": 0.6235852107362294
+        "L": 0.39236822248571734,
+        "U": 0.6236930042039452
       },
       "invariants": {
         "matched_plus_missing_equal_N_gold": true,
         "matched_statuses_equal_N_matched": true
       },
       "operational": {
-        "definitely_matched_rate": 0.43733530093812584,
-        "definitely_unmatched_rate": 0.29408664488247077,
-        "lower_bound": 0.43733530093812584,
-        "operational_match_rate": 0.6082533993886371,
-        "unresolved_rate": 0.2535574997364815,
-        "upper_bound": 0.6908928006746073
+        "definitely_matched_rate": 0.4373880046379256,
+        "definitely_unmatched_rate": 0.2939812374828713,
+        "lower_bound": 0.4373880046379256,
+        "operational_match_rate": 0.6083588067882365,
+        "unresolved_rate": 0.2536102034362812,
+        "upper_bound": 0.6909982080742068
       },
       "preservation": {
         "L": 0.4804578735691451,
-        "U": 0.7552851397339383
+        "U": 0.7553882644116737
       },
       "status_counts": {
-        "definitely_matched": 8298,
-        "definitely_unmatched": 5580,
+        "definitely_matched": 8299,
+        "definitely_unmatched": 5578,
         "missing": 285,
-        "unresolved": 4811
+        "unresolved": 4812
       }
     }
   },

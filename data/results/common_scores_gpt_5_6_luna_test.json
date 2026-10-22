@@ -785,7 +785,7 @@
   },
   "case_macro": {
     "ARS": 0.6027308853191764,
-    "FAA": 0.640832924680238,
+    "FAA": 0.6408329246802379,
     "VJA": 0.9089326303989771,
     "supported_cases": [
       "C1",
@@ -921,7 +921,7 @@
     "summary": {
       "exact_set_match": 0.7681592039800995,
       "macro_F1": 0.5779623328315856,
-      "macro_precision": 0.6412630579803362,
+      "macro_precision": 0.6412630579803361,
       "macro_recall": 0.6187184245458595,
       "macro_supported_labels": 10,
       "micro_F1": 0.5773248407643311,

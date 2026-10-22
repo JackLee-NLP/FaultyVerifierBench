@@ -1,0 +1,12 @@
+{
+  "applied": 2665,
+  "counts": {
+    "applied": 2665,
+    "unchanged": 16309
+  },
+  "missing_ids": [],
+  "n_annotations": 23706,
+  "n_gold": 18974,
+  "path": "human_annotation\\llm_annotation\\consistency\\majority_vote.jsonl",
+  "unchanged": 16309
+}

@@ -1,0 +1,81 @@
+{
+  "judges_loaded": [
+    "deepseek",
+    "gpt",
+    "qwen"
+  ],
+  "pairs": {
+    "deepseek_vs_gpt": {
+      "judges": [
+        "deepseek",
+        "gpt"
+      ],
+      "shared": 23697,
+      "consistent": 22358,
+      "inconsistent": 1339,
+      "missing": {
+        "only_deepseek": 0,
+        "only_gpt": 0
+      },
+      "agreement_rate": 0.9435,
+      "detail_file": "C:\\Users\\User\\Downloads\\Kelvin So 2024 FDS Prompting\\benchmark\\objectively_verify\\human_annotation\\llm_annotation\\consistency\\inconsistent_deepseek_vs_gpt.jsonl",
+      "instance_ids_file": "C:\\Users\\User\\Downloads\\Kelvin So 2024 FDS Prompting\\benchmark\\objectively_verify\\human_annotation\\llm_annotation\\consistency\\inconsistent_deepseek_vs_gpt_instance_ids.txt"
+    },
+    "deepseek_vs_qwen": {
+      "judges": [
+        "deepseek",
+        "qwen"
+      ],
+      "shared": 23697,
+      "consistent": 22726,
+      "inconsistent": 971,
+      "missing": {
+        "only_deepseek": 0,
+        "only_qwen": 0
+      },
+      "agreement_rate": 0.959,
+      "detail_file": "C:\\Users\\User\\Downloads\\Kelvin So 2024 FDS Prompting\\benchmark\\objectively_verify\\human_annotation\\llm_annotation\\consistency\\inconsistent_deepseek_vs_qwen.jsonl",
+      "instance_ids_file": "C:\\Users\\User\\Downloads\\Kelvin So 2024 FDS Prompting\\benchmark\\objectively_verify\\human_annotation\\llm_annotation\\consistency\\inconsistent_deepseek_vs_qwen_instance_ids.txt"
+    },
+    "gpt_vs_qwen": {
+      "judges": [
+        "gpt",
+        "qwen"
+      ],
+      "shared": 23697,
+      "consistent": 22461,
+      "inconsistent": 1236,
+      "missing": {
+        "only_gpt": 0,
+        "only_qwen": 0
+      },
+      "agreement_rate": 0.9478,
+      "detail_file": "C:\\Users\\User\\Downloads\\Kelvin So 2024 FDS Prompting\\benchmark\\objectively_verify\\human_annotation\\llm_annotation\\consistency\\inconsistent_gpt_vs_qwen.jsonl",
+      "instance_ids_file": "C:\\Users\\User\\Downloads\\Kelvin So 2024 FDS Prompting\\benchmark\\objectively_verify\\human_annotation\\llm_annotation\\consistency\\inconsistent_gpt_vs_qwen_instance_ids.txt"
+    }
+  },
+  "all_three": {
+    "shared": 23697,
+    "consistent": 21924,
+    "inconsistent": 1773
+  },
+  "majority_vote": {
+    "judges": [
+      "deepseek",
+      "gpt",
+      "qwen"
+    ],
+    "total_unique_answers": 23697,
+    "shared": 23697,
+    "decided": 23697,
+    "missing": 0,
+    "unanimous": 21924,
+    "split_2_to_1": 1773,
+    "final_label_counts": {
+      "correct": 10633,
+      "incorrect": 13064
+    },
+    "decision_file": "C:\\Users\\User\\Downloads\\Kelvin So 2024 FDS Prompting\\benchmark\\objectively_verify\\human_annotation\\llm_annotation\\consistency\\majority_vote.jsonl",
+    "missing_file": "C:\\Users\\User\\Downloads\\Kelvin So 2024 FDS Prompting\\benchmark\\objectively_verify\\human_annotation\\llm_annotation\\consistency\\majority_vote_missing.jsonl"
+  }
+}

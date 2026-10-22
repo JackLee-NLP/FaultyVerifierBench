@@ -9,9 +9,9 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": -0.037560374999148036,
-        "ci_low": -0.07417994106379401,
-        "point_difference": -0.056177835973763246,
+        "ci_high": -0.03749218455973083,
+        "ci_low": -0.07412150687703846,
+        "point_difference": -0.05610848494973686,
         "valid_resamples": 1000
       },
       "ARS": {
@@ -21,15 +21,15 @@
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": -0.10261093357757088,
-        "ci_low": -0.14396171037394917,
-        "point_difference": -0.12355168062406785,
+        "ci_high": -0.10290842013719699,
+        "ci_low": -0.1439674259660845,
+        "point_difference": -0.1237811173568889,
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": 0.07417994106379396,
-        "ci_low": 0.03756037499914799,
-        "point_difference": 0.056177835973763135,
+        "ci_high": 0.07412150687703846,
+        "ci_low": 0.03749218455973077,
+        "point_difference": 0.056108484949736914,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -58,8 +58,8 @@
       },
       "FAA": {
         "ci_high": -0.07687258017054543,
-        "ci_low": -0.11068504691411686,
-        "point_difference": -0.09382499268364053,
+        "ci_low": -0.11068504691411697,
+        "point_difference": -0.09382499268364064,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -87,9 +87,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": -0.0008736066020976208,
+        "ci_high": -0.0008736066020976193,
         "ci_low": -0.035685454901912404,
-        "point_difference": -0.017968978636230648,
+        "point_difference": -0.017968978636230593,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -99,21 +99,21 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": -0.043153931997389976,
-        "ci_low": -0.08249278449622778,
-        "point_difference": -0.0628585086042065,
+        "ci_high": -0.04274090851215602,
+        "ci_low": -0.08225955500044874,
+        "point_difference": -0.06261950286806883,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
-        "ci_high": 0.006394444318940841,
-        "ci_low": -0.04421533800678976,
-        "point_difference": -0.018705574261129843,
+        "ci_high": 0.006818551870911084,
+        "ci_low": -0.04384788093403162,
+        "point_difference": -0.018331462775907248,
         "valid_resamples": 1000
       },
       "TRR_independent": {
-        "ci_high": -0.062317209575897974,
+        "ci_high": -0.06197082072561333,
         "ci_low": -0.10450550925175839,
-        "point_difference": -0.08358208955223878,
+        "point_difference": -0.08340649692712904,
         "valid_resamples": 1000
       },
       "VFAR": {
@@ -174,27 +174,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": -0.045857999710194476,
-        "ci_low": -0.08411500538227194,
-        "point_difference": -0.06449210800677674,
+        "ci_high": -0.04519648314776151,
+        "ci_low": -0.08378634726582906,
+        "point_difference": -0.06410678124968672,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": -0.13607318594183265,
-        "ci_low": -0.171560536745757,
-        "point_difference": -0.15340942347088088,
+        "ci_high": -0.13551682554938477,
+        "ci_low": -0.17143539397148083,
+        "point_difference": -0.153116769095698,
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": -0.10131477997808128,
+        "ci_high": -0.10101705219830696,
         "ci_low": -0.14270233740714083,
-        "point_difference": -0.12171618676150053,
+        "point_difference": -0.12160146839509012,
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": 0.084115005382272,
-        "ci_low": 0.04585799971019453,
-        "point_difference": 0.06449210800677674,
+        "ci_high": 0.08378634726582912,
+        "ci_low": 0.04519648314776145,
+        "point_difference": 0.06410678124968677,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -222,9 +222,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": -0.08478432362358591,
-        "ci_low": -0.12063898190903445,
-        "point_difference": -0.10295580918934732,
+        "ci_high": -0.084240749976078,
+        "ci_low": -0.1203496886208177,
+        "point_difference": -0.10266315481416444,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -252,9 +252,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": 0.00949657325011428,
-        "ci_low": -0.026869036919595673,
-        "point_difference": -0.008604038630377508,
+        "ci_high": 0.009086578581284498,
+        "ci_low": -0.027213363479502563,
+        "point_difference": -0.008896693005560397,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -264,21 +264,21 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": -0.06291605451630335,
-        "ci_low": -0.10577978731453015,
-        "point_difference": -0.08341300191204593,
+        "ci_high": -0.0626109549690594,
+        "ci_low": -0.10577951862052777,
+        "point_difference": -0.0829349904397706,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
-        "ci_high": -0.0052079394479986,
-        "ci_low": -0.06091294763391701,
-        "point_difference": -0.03217358772914325,
+        "ci_high": -0.0048259236454573215,
+        "ci_low": -0.060585961166159726,
+        "point_difference": -0.031799476243920655,
         "valid_resamples": 1000
       },
       "TRR_independent": {
-        "ci_high": -0.08314086731922762,
-        "ci_low": -0.13076996603032012,
-        "point_difference": -0.10746268656716418,
+        "ci_high": -0.08261088726979622,
+        "ci_low": -0.13048296265681264,
+        "point_difference": -0.10693590869183495,
         "valid_resamples": 1000
       },
       "VFAR": {
@@ -339,27 +339,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": 0.08545394441109426,
-        "ci_low": 0.039459124226093996,
-        "point_difference": 0.06274048779250097,
+        "ci_high": 0.08529777024240257,
+        "ci_low": 0.039299227876864684,
+        "point_difference": 0.06257812657525408,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": 0.07106867157472005,
-        "ci_low": 0.0361309395115469,
-        "point_difference": 0.053555750658472345,
+        "ci_high": 0.07097733185503204,
+        "ci_low": 0.035984839611894366,
+        "point_difference": 0.0534386889083992,
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": 0.08563118559179503,
-        "ci_low": 0.040028326831962745,
-        "point_difference": 0.0621773545944706,
+        "ci_high": 0.08535324002429463,
+        "ci_low": 0.03932532736788754,
+        "point_difference": 0.06183319949523913,
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": -0.03945912422609394,
-        "ci_low": -0.08545394441109437,
-        "point_difference": -0.06274048779250108,
+        "ci_high": -0.039299227876864684,
+        "ci_low": -0.08529777024240251,
+        "point_difference": -0.06257812657525413,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -387,9 +387,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": 0.08857819085938973,
-        "ci_low": 0.04817530028645545,
-        "point_difference": 0.0683640620427276,
+        "ci_high": 0.0885444728629714,
+        "ci_low": 0.047888678862538274,
+        "point_difference": 0.0681884694176178,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -399,9 +399,9 @@
         "valid_resamples": 1000
       },
       "MCR": {
-        "ci_high": 0.09723431442907327,
-        "ci_low": 0.05244990320307246,
-        "point_difference": 0.07500208084348348,
+        "ci_high": 0.09699744361285578,
+        "ci_low": 0.05221920205191853,
+        "point_difference": 0.07476973883604854,
         "valid_resamples": 1000
       },
       "OAR": {
@@ -417,9 +417,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": -0.02414735499831713,
-        "ci_low": -0.061039467985307634,
-        "point_difference": -0.04214223002633888,
+        "ci_high": -0.023914877024666294,
+        "ci_low": -0.06092253694442297,
+        "point_difference": -0.042025168276265734,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -429,13 +429,13 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": 0.09500407055380163,
+        "ci_high": 0.09500407055380157,
         "ci_low": 0.053324251464661035,
         "point_difference": 0.07480879541108987,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
-        "ci_high": 0.07962699234399732,
+        "ci_high": 0.07962699234399721,
         "ci_low": 0.029334705960595724,
         "point_difference": 0.05536849981294423,
         "valid_resamples": 1000
@@ -504,27 +504,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": -0.03165336322010045,
-        "ci_low": -0.06697636806961658,
-        "point_difference": -0.050013472122004576,
+        "ci_high": -0.031435348251293314,
+        "ci_low": -0.06672313081037264,
+        "point_difference": -0.049754074089256584,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": -0.12762337863876502,
-        "ci_low": -0.16101955637023535,
-        "point_difference": -0.14515657009072286,
+        "ci_high": -0.12745220588595604,
+        "ci_low": -0.1608668763084919,
+        "point_difference": -0.14498097746561306,
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": -0.08548838516552885,
-        "ci_low": -0.1231548981733433,
-        "point_difference": -0.10599977056326715,
+        "ci_high": -0.08563081142882163,
+        "ci_low": -0.12316093229658069,
+        "point_difference": -0.10611448892967767,
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": 0.06697636806961658,
-        "ci_low": 0.031653363220100504,
-        "point_difference": 0.050013472122004576,
+        "ci_high": 0.06672313081037264,
+        "ci_low": 0.03143534825129337,
+        "point_difference": 0.04975407408925664,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -552,9 +552,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": -0.07592916651662686,
+        "ci_high": -0.07586925816731645,
         "ci_low": -0.10978896899321054,
-        "point_difference": -0.09364940005853084,
+        "point_difference": -0.09347380743342115,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -582,9 +582,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": -0.009676814373828158,
-        "ci_low": -0.04252579770289184,
-        "point_difference": -0.02493415276558386,
+        "ci_high": -0.009951293039015409,
+        "ci_low": -0.0425581757577645,
+        "point_difference": -0.025109745390693605,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -594,21 +594,21 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": -0.05894995195481448,
-        "ci_low": -0.09990659929699246,
-        "point_difference": -0.0807839388145315,
+        "ci_high": -0.058072350945136755,
+        "ci_low": -0.09943099602884335,
+        "point_difference": -0.08030592734225617,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
-        "ci_high": 0.00037226731419450756,
-        "ci_low": -0.048213701599158505,
-        "point_difference": -0.023943135054246167,
+        "ci_high": 0.0007615550990845268,
+        "ci_low": -0.047839878538038484,
+        "point_difference": -0.023569023569023573,
         "valid_resamples": 1000
       },
       "TRR_independent": {
-        "ci_high": -0.08342962866400654,
-        "ci_low": -0.1293697014573592,
-        "point_difference": -0.10746268656716418,
+        "ci_high": -0.08259370435876275,
+        "ci_low": -0.12884186708960643,
+        "point_difference": -0.10693590869183495,
         "valid_resamples": 1000
       },
       "VFAR": {
@@ -669,27 +669,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": 0.032409179860310694,
+        "ci_high": 0.032549598959046425,
         "ci_low": -0.0024359843281036423,
-        "point_difference": 0.013851018202130083,
+        "point_difference": 0.013996995988420746,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": 0.040580032823444176,
-        "ci_low": 0.01130757666244097,
-        "point_difference": 0.025168276265730205,
+        "ci_high": 0.04072771939688688,
+        "ci_low": 0.011497106612581054,
+        "point_difference": 0.02528533801580335,
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": -0.018654386440495677,
-        "ci_low": -0.05331993466496156,
-        "point_difference": -0.035906848686474646,
+        "ci_high": -0.018707757253275094,
+        "ci_low": -0.053663598822478974,
+        "point_difference": -0.0361362854192957,
         "valid_resamples": 1000
       },
       "CRG": {
         "ci_high": 0.0024359843281036965,
-        "ci_low": -0.03240917986031075,
-        "point_difference": -0.013851018202130194,
+        "ci_low": -0.032549598959046376,
+        "point_difference": -0.013996995988420746,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -717,9 +717,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": 0.025114703669407233,
-        "ci_low": -0.00462296441524118,
-        "point_difference": 0.009950248756218971,
+        "ci_high": 0.024969675613899903,
+        "ci_low": -0.004738513836560345,
+        "point_difference": 0.009891717881182371,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -729,9 +729,9 @@
         "valid_resamples": 1000
       },
       "MCR": {
-        "ci_high": 0.0012645630212858186,
-        "ci_low": -0.0444968657464352,
-        "point_difference": -0.022361319822573833,
+        "ci_high": 0.0012069856105144997,
+        "ci_low": -0.04467106396772897,
+        "point_difference": -0.023020515603720815,
         "valid_resamples": 1000
       },
       "OAR": {
@@ -747,9 +747,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": 0.015060790079192626,
-        "ci_low": -0.013800833814580965,
-        "point_difference": 0.0007023705004389758,
+        "ci_high": 0.014824611324153063,
+        "ci_low": -0.01392324570926706,
+        "point_difference": 0.0005853087503658316,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -759,21 +759,21 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": 0.07606448378475678,
-        "ci_low": 0.0397644468719125,
-        "point_difference": 0.057719885277246696,
+        "ci_high": 0.07629804469025446,
+        "ci_low": 0.0398697225902053,
+        "point_difference": 0.05783938814531547,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
-        "ci_high": 0.04070438265380603,
+        "ci_high": 0.040704382653805916,
         "ci_low": -0.01013666612231562,
         "point_difference": 0.01608679386457168,
         "valid_resamples": 1000
       },
       "TRR_independent": {
-        "ci_high": 0.09675166213240617,
-        "ci_low": 0.05878619195546576,
-        "point_difference": 0.07726075504828794,
+        "ci_high": 0.09691629748143808,
+        "ci_low": 0.059064286022885756,
+        "point_difference": 0.07743634767339769,
         "valid_resamples": 1000
       },
       "VFAR": {
@@ -834,27 +834,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": 0.0017440772034014308,
-        "ci_low": -0.01903194033231471,
-        "point_difference": -0.008314272033013492,
+        "ci_high": 0.002063776535727689,
+        "ci_low": -0.0187169973649708,
+        "point_difference": -0.007998296299949859,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": 0.005010618337810856,
-        "ci_low": -0.014903391050204062,
-        "point_difference": -0.004682470002926542,
+        "ci_high": 0.005338903066652453,
+        "ci_low": -0.014713234590631478,
+        "point_difference": -0.004389815627743654,
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": 0.012530362974002396,
-        "ci_low": -0.008592271188729777,
-        "point_difference": 0.0018354938625673167,
+        "ci_high": 0.013107134309984092,
+        "ci_low": -0.008138488321487811,
+        "point_difference": 0.0021796489617987858,
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": 0.019031940332314763,
-        "ci_low": -0.0017440772034014321,
-        "point_difference": 0.008314272033013603,
+        "ci_high": 0.018716997364970796,
+        "ci_low": -0.0020637765357276877,
+        "point_difference": 0.007998296299949859,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -882,9 +882,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": 0.0004707485878589644,
-        "ci_low": -0.019272858407542847,
-        "point_difference": -0.009130816505706796,
+        "ci_high": 0.0008882215970823258,
+        "ci_low": -0.01909817261953233,
+        "point_difference": -0.008838162130523797,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -912,9 +912,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": 0.019690405474390157,
-        "ci_low": -5.8511711848537035e-05,
-        "point_difference": 0.00936494000585314,
+        "ci_high": 0.019463171684070038,
+        "ci_low": -0.0006499692599623425,
+        "point_difference": 0.009072285630670196,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -924,9 +924,9 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": -0.007155041757651747,
-        "ci_low": -0.03349916900247235,
-        "point_difference": -0.020554493307839428,
+        "ci_high": -0.006771363223941891,
+        "ci_low": -0.03320676200197579,
+        "point_difference": -0.020315487571701762,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
@@ -936,9 +936,9 @@
         "valid_resamples": 1000
       },
       "TRR_independent": {
-        "ci_high": -0.00809923616518287,
-        "ci_low": -0.039080996430647254,
-        "point_difference": -0.023880597014925398,
+        "ci_high": -0.007747095462348814,
+        "ci_low": -0.038857742347679684,
+        "point_difference": -0.02352941176470591,
         "valid_resamples": 1000
       },
       "VFAR": {
@@ -999,27 +999,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": 0.1449289414015267,
-        "ci_low": 0.09161460637306518,
-        "point_difference": 0.11891832376626421,
+        "ci_high": 0.14491130139815833,
+        "ci_low": 0.09152478154878373,
+        "point_difference": 0.11868661152499094,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": 0.22391391469865532,
-        "ci_low": 0.1778576176209117,
-        "point_difference": 0.20228270412642668,
+        "ci_high": 0.22388811274703213,
+        "ci_low": 0.1777362994863154,
+        "point_difference": 0.20216564237635354,
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": 0.21375907166660946,
-        "ci_low": 0.15858519017602668,
-        "point_difference": 0.18572903521853845,
+        "ci_high": 0.21361097351981648,
+        "ci_low": 0.15824866936982288,
+        "point_difference": 0.18561431685212804,
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": -0.09161460637306512,
-        "ci_low": -0.14492894140152665,
-        "point_difference": -0.11891832376626421,
+        "ci_high": -0.09152478154878373,
+        "ci_low": -0.14491130139815828,
+        "point_difference": -0.11868661152499105,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -1047,9 +1047,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": 0.18516755867758128,
-        "ci_low": 0.13717613953184574,
-        "point_difference": 0.16218905472636813,
+        "ci_high": 0.18487436969451781,
+        "ci_low": 0.13698505802092079,
+        "point_difference": 0.16201346210125844,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -1059,9 +1059,9 @@
         "valid_resamples": 1000
       },
       "MCR": {
-        "ci_high": 0.17694132636407928,
-        "ci_low": 0.10291234555501892,
-        "point_difference": 0.13968784731537193,
+        "ci_high": 0.17665708522768256,
+        "ci_low": 0.10270364346910302,
+        "point_difference": 0.139455505307937,
         "valid_resamples": 1000
       },
       "OAR": {
@@ -1077,9 +1077,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": 0.0014065044897101947,
-        "ci_low": -0.04745643813595741,
-        "point_difference": -0.02417325139010823,
+        "ci_high": 0.00152930810261661,
+        "ci_low": -0.04729329767357614,
+        "point_difference": -0.02405618964003514,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -1089,21 +1089,21 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": 0.1629499692385499,
-        "ci_low": 0.10969470811336043,
-        "point_difference": 0.13766730401529637,
+        "ci_high": 0.16277328277532196,
+        "ci_low": 0.10918685556220256,
+        "point_difference": 0.1374282982791587,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
-        "ci_high": 0.10451969095695839,
-        "ci_low": 0.04091229155397058,
-        "point_difference": 0.07407407407407407,
+        "ci_high": 0.10451679878062135,
+        "ci_low": 0.04075606158859027,
+        "point_difference": 0.07369996258885148,
         "valid_resamples": 1000
       },
       "TRR_independent": {
         "ci_high": 0.19423879613356762,
-        "ci_low": 0.13782509359727302,
-        "point_difference": 0.16751536435469705,
+        "ci_low": 0.1376519142011807,
+        "point_difference": 0.1673397717295873,
         "valid_resamples": 1000
       },
       "VFAR": {
@@ -1164,27 +1164,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": 0.02191989670455043,
-        "ci_low": -0.007566990379638703,
-        "point_difference": 0.00616436385175867,
+        "ci_high": 0.022115200227053412,
+        "ci_low": -0.0073926738510483965,
+        "point_difference": 0.006354410860480275,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": 0.018697765984555734,
-        "ci_low": -0.009873038724376624,
-        "point_difference": 0.0035703833772314786,
+        "ci_high": 0.01870085299035018,
+        "ci_low": -0.009693691964045736,
+        "point_difference": 0.003745976002341278,
         "valid_resamples": 1000
       },
       "CAPR": {
         "ci_high": 0.0342508584274812,
-        "ci_low": 0.0030631593486821307,
-        "point_difference": 0.0175519100608007,
+        "ci_low": 0.0032184776372716616,
+        "point_difference": 0.01766662842721123,
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": 0.0075669903796386495,
-        "ci_low": -0.021919896704550433,
-        "point_difference": -0.006164363851758559,
+        "ci_high": 0.007392673851048287,
+        "ci_low": -0.022115200227053412,
+        "point_difference": -0.006354410860480275,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -1212,9 +1212,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": 0.016228924566144932,
-        "ci_low": -0.013755544204283805,
-        "point_difference": 0.00017559262510968843,
+        "ci_high": 0.016310961186430346,
+        "ci_low": -0.013599491048675931,
+        "point_difference": 0.0003511852502194879,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -1242,9 +1242,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": 0.0061145020886921,
-        "ci_low": -0.02095269404773327,
-        "point_difference": -0.006965174129353213,
+        "ci_high": 0.00593391315160811,
+        "ci_low": -0.02130288383613438,
+        "point_difference": -0.007140766754463013,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -1254,9 +1254,9 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": 0.001082784420181809,
-        "ci_low": -0.03563977838759043,
-        "point_difference": -0.017925430210325,
+        "ci_high": 0.0013212940865507926,
+        "ci_low": -0.035326087712508884,
+        "point_difference": -0.017686424474187334,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
@@ -1266,9 +1266,9 @@
         "valid_resamples": 1000
       },
       "TRR_independent": {
-        "ci_high": -0.0022770893635172015,
-        "ci_low": -0.041874369583343105,
-        "point_difference": -0.023880597014925398,
+        "ci_high": -0.002268393711343296,
+        "ci_low": -0.041654024211770196,
+        "point_difference": -0.02352941176470591,
         "valid_resamples": 1000
       },
       "VFAR": {
@@ -1329,15 +1329,15 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": 0.08733139978966256,
-        "ci_low": 0.05212967165179438,
-        "point_difference": 0.07002885417589333,
+        "ci_high": 0.08740463407557854,
+        "ci_low": 0.052153905857916134,
+        "point_difference": 0.0701054809381576,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": 0.19251680087267078,
-        "ci_low": 0.15475207791315998,
-        "point_difference": 0.17389522973368454,
+        "ci_high": 0.1925325287561552,
+        "ci_low": 0.15490161450785675,
+        "point_difference": 0.1740122914837577,
         "valid_resamples": 1000
       },
       "CAPR": {
@@ -1347,9 +1347,9 @@
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": -0.05212967165179443,
-        "ci_low": -0.0873313997896625,
-        "point_difference": -0.07002885417589333,
+        "ci_high": -0.05215390585791603,
+        "ci_low": -0.08740463407557854,
+        "point_difference": -0.07010548093815766,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -1377,9 +1377,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": 0.12054720509808811,
-        "ci_low": 0.08719919361744216,
-        "point_difference": 0.1037752414398595,
+        "ci_high": 0.12054573597897193,
+        "ci_low": 0.08719484256080486,
+        "point_difference": 0.10371671056482301,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -1389,9 +1389,9 @@
         "valid_resamples": 1000
       },
       "MCR": {
-        "ci_high": 0.0767502095333558,
-        "ci_low": 0.006629586919763243,
-        "point_difference": 0.04232444664931462,
+        "ci_high": 0.07581419634331135,
+        "ci_low": 0.005997066249661108,
+        "point_difference": 0.041665250868167636,
         "valid_resamples": 1000
       },
       "OAR": {
@@ -1407,9 +1407,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": 0.03671036863527139,
-        "ci_low": 0.0017475872030883368,
-        "point_difference": 0.018671349136669624,
+        "ci_high": 0.03664863091332666,
+        "ci_low": 0.0016334052145651355,
+        "point_difference": 0.018554287386596424,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -1419,19 +1419,19 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": 0.14393914596790314,
-        "ci_low": 0.09795186792266633,
-        "point_difference": 0.1205783938814532,
+        "ci_high": 0.14369965153988545,
+        "ci_low": 0.09783783522965143,
+        "point_difference": 0.1204588910133843,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
-        "ci_high": 0.05810510732790519,
-        "ci_low": 0.012433331120258451,
-        "point_difference": 0.03479236812570152,
+        "ci_high": 0.057739950857499306,
+        "ci_low": 0.011688631434515075,
+        "point_difference": 0.03441825664047893,
         "valid_resamples": 1000
       },
       "TRR_independent": {
-        "ci_high": 0.18815366079319062,
+        "ci_high": 0.18815366079319068,
         "ci_low": 0.13454254320984027,
         "point_difference": 0.16084284460052672,
         "valid_resamples": 1000
@@ -1494,27 +1494,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": 0.15345684526552444,
-        "ci_low": 0.0984191650241853,
-        "point_difference": 0.1272325957992777,
+        "ci_high": 0.15316625726639665,
+        "ci_low": 0.09745106374910723,
+        "point_difference": 0.1266849078249408,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": 0.2305156166524938,
-        "ci_low": 0.181271760616362,
-        "point_difference": 0.20696517412935322,
+        "ci_high": 0.2303484692892174,
+        "ci_low": 0.18044962783458232,
+        "point_difference": 0.2065554580040972,
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": 0.21407418729951927,
-        "ci_low": 0.1545477739161177,
-        "point_difference": 0.18389354135597114,
+        "ci_high": 0.21361708823433706,
+        "ci_low": 0.15399478047067794,
+        "point_difference": 0.18343466789032925,
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": -0.09841916502418524,
-        "ci_low": -0.15345684526552444,
-        "point_difference": -0.12723259579927781,
+        "ci_high": -0.09745106374910717,
+        "ci_low": -0.15316625726639677,
+        "point_difference": -0.1266849078249409,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -1542,9 +1542,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": 0.19572686002763717,
-        "ci_low": 0.1444911261973156,
-        "point_difference": 0.17131987123207493,
+        "ci_high": 0.19562497512407112,
+        "ci_low": 0.14448679751843527,
+        "point_difference": 0.17085162423178224,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -1554,9 +1554,9 @@
         "valid_resamples": 1000
       },
       "MCR": {
-        "ci_high": 0.2107100245583028,
-        "ci_low": 0.12920559560658673,
-        "point_difference": 0.171146137405088,
+        "ci_high": 0.2104849553625272,
+        "ci_low": 0.12919416180827895,
+        "point_difference": 0.17091379539765306,
         "valid_resamples": 1000
       },
       "OAR": {
@@ -1572,9 +1572,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": -0.007083753548591948,
-        "ci_low": -0.05740916345084537,
-        "point_difference": -0.03353819139596137,
+        "ci_high": -0.006592180195683591,
+        "ci_low": -0.05701470204709537,
+        "point_difference": -0.03312847527070534,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -1585,20 +1585,20 @@
       },
       "TRR": {
         "ci_high": 0.18561171205655455,
-        "ci_low": 0.13028715704674063,
-        "point_difference": 0.1582217973231358,
+        "ci_low": 0.12959340074057799,
+        "point_difference": 0.15774378585086046,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
-        "ci_high": 0.11997680399980767,
-        "ci_low": 0.05393071733289847,
-        "point_difference": 0.08754208754208748,
+        "ci_high": 0.11957133202853419,
+        "ci_low": 0.05341950725332189,
+        "point_difference": 0.08716797605686488,
         "valid_resamples": 1000
       },
       "TRR_independent": {
-        "ci_high": 0.2183395857888638,
-        "ci_low": 0.16187140143488735,
-        "point_difference": 0.19139596136962245,
+        "ci_high": 0.21822643023001523,
+        "ci_low": 0.1611057022597121,
+        "point_difference": 0.19086918349429322,
         "valid_resamples": 1000
       },
       "VFAR": {
@@ -1659,27 +1659,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": 0.03126553618470963,
-        "ci_low": -0.0018493038801834334,
-        "point_difference": 0.014478635884772162,
+        "ci_high": 0.03110723836349408,
+        "ci_low": -0.002046635769744225,
+        "point_difference": 0.014352707160430134,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": 0.02470499446348533,
-        "ci_low": -0.0064852570443778715,
-        "point_difference": 0.00825285338015802,
+        "ci_high": 0.024502882367535977,
+        "ci_low": -0.006669884165557661,
+        "point_difference": 0.008135791630084932,
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": 0.0339145203200069,
-        "ci_low": -0.0016159148884037162,
-        "point_difference": 0.015716416198233385,
+        "ci_high": 0.03348704724426985,
+        "ci_low": -0.0017157285298115496,
+        "point_difference": 0.015486979465412443,
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": 0.0018493038801834362,
-        "ci_low": -0.03126553618470952,
-        "point_difference": -0.014478635884772162,
+        "ci_high": 0.002046635769744227,
+        "ci_low": -0.031107238363494022,
+        "point_difference": -0.014352707160430134,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -1707,9 +1707,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": 0.0261232612056431,
-        "ci_low": -0.006355360608180453,
-        "point_difference": 0.009306409130816484,
+        "ci_high": 0.02591946890672866,
+        "ci_low": -0.006469958633568271,
+        "point_difference": 0.009189347380743285,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -1737,9 +1737,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": -0.0004710835668032598,
+        "ci_high": -0.0004635665350863028,
         "ci_low": -0.0319560817347045,
-        "point_difference": -0.016330114135206353,
+        "point_difference": -0.01621305238513321,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -1824,27 +1824,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": 0.09835897876407725,
-        "ci_low": 0.06038306664446733,
-        "point_difference": 0.07834312620890682,
+        "ci_high": 0.09805285320473299,
+        "ci_low": 0.06035590299560597,
+        "point_difference": 0.07810377723810746,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": 0.19927104816318728,
-        "ci_low": 0.15936713089819257,
-        "point_difference": 0.17857769973661108,
+        "ci_high": 0.19909540913080404,
+        "ci_low": 0.15923607394195632,
+        "point_difference": 0.17840210711150134,
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": 0.10606779406534751,
-        "ci_low": 0.06641330910175601,
-        "point_difference": 0.08580933807502589,
+        "ci_high": 0.10590917038694891,
+        "ci_low": 0.0657118758500994,
+        "point_difference": 0.08546518297579442,
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": -0.06038306664446722,
-        "ci_low": -0.0983589787640773,
-        "point_difference": -0.07834312620890693,
+        "ci_high": -0.06035590299560591,
+        "ci_low": -0.09805285320473288,
+        "point_difference": -0.07810377723810752,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -1872,9 +1872,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": 0.13245366161754107,
-        "ci_low": 0.09440984619161798,
-        "point_difference": 0.1129060579455663,
+        "ci_high": 0.13214336212367175,
+        "ci_low": 0.09399207478403025,
+        "point_difference": 0.11255487269534681,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -1884,9 +1884,9 @@
         "valid_resamples": 1000
       },
       "MCR": {
-        "ci_high": 0.11013621173251116,
-        "ci_low": 0.03488042141243509,
-        "point_difference": 0.07378273673903069,
+        "ci_high": 0.10961087926608869,
+        "ci_low": 0.03403357464624769,
+        "point_difference": 0.0731235409578837,
         "valid_resamples": 1000
       },
       "OAR": {
@@ -1902,9 +1902,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": 0.027288555675385965,
-        "ci_low": -0.0095001057698997,
-        "point_difference": 0.009306409130816484,
+        "ci_high": 0.02754913135458741,
+        "ci_low": -0.009293792639099139,
+        "point_difference": 0.009482001755926228,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -1914,21 +1914,21 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": 0.16564379787577,
-        "ci_low": 0.11668540618193249,
-        "point_difference": 0.14113288718929262,
+        "ci_high": 0.16504983256698272,
+        "ci_low": 0.11667646803391676,
+        "point_difference": 0.14077437858508607,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
-        "ci_high": 0.07749365012666433,
-        "ci_low": 0.02003034431290555,
-        "point_difference": 0.04826038159371493,
+        "ci_high": 0.07678761878575024,
+        "ci_low": 0.019455937823495546,
+        "point_difference": 0.047886270108492335,
         "valid_resamples": 1000
       },
       "TRR_independent": {
-        "ci_high": 0.2115293282617732,
-        "ci_low": 0.15783640517057612,
-        "point_difference": 0.18472344161545212,
+        "ci_high": 0.21146425774069272,
+        "ci_low": 0.15749233264586804,
+        "point_difference": 0.18437225636523263,
         "valid_resamples": 1000
       },
       "VFAR": {
@@ -1986,28 +1986,28 @@
       "metrics": {
         "M0_exact": {
           "ARS": {
-            "L": -0.12666081357916298,
-            "U": 0.08264559555165352
+            "L": -0.1263681592039801,
+            "U": 0.0829382499268364
           },
           "C3_recovery": {
-            "L": -0.05611672278338942,
-            "U": 0.23868312757201648
+            "L": -0.05574261129816682,
+            "U": 0.23905723905723908
           },
           "C4_recovery": {
-            "L": -0.09587357330992097,
-            "U": 0.13889376646180857
+            "L": -0.09534679543459174,
+            "U": 0.13942054433713785
           },
           "FAA": {
-            "L": -0.10278021656423764,
-            "U": 0.14720515071700319
+            "L": -0.10248756218905469,
+            "U": 0.14749780509218607
           },
           "TRR": {
-            "L": -0.08317399617590826,
-            "U": 0.17076959847036333
+            "L": -0.08269598470363293,
+            "U": 0.17124760994263866
           },
           "preservation": {
-            "L": -0.12160146839509006,
-            "U": 0.12458414592176209
+            "L": -0.12148675002867959,
+            "U": 0.1246988642881725
           },
           "unresolved_rate": {
             "point_difference": 0.04559555165349723
@@ -2015,28 +2015,28 @@
         },
         "M1_numeric": {
           "ARS": {
-            "L": -0.12431957857769971,
-            "U": 0.06713491366695934
+            "L": -0.12402692420251682,
+            "U": 0.06742756804214228
           },
           "C3_recovery": {
-            "L": -0.05050505050505055,
-            "U": 0.22446689113355783
+            "L": -0.05013093901982796,
+            "U": 0.22484100261878043
           },
           "C4_recovery": {
-            "L": -0.09517120280948199,
-            "U": 0.124846356453029
+            "L": -0.09464442493415276,
+            "U": 0.12537313432835823
           },
           "FAA": {
-            "L": -0.09956101843722565,
-            "U": 0.13128475270705292
+            "L": -0.0992683640620427,
+            "U": 0.13157740708223592
           },
           "TRR": {
-            "L": -0.08090344168260039,
-            "U": 0.15666826003824091
+            "L": -0.08042543021032506,
+            "U": 0.15714627151051624
           },
           "preservation": {
-            "L": -0.11747160720431343,
-            "U": 0.10691751749455086
+            "L": -0.11735688883790302,
+            "U": 0.10703223586096139
           },
           "unresolved_rate": {
             "point_difference": 0.047761194029850754
@@ -2045,88 +2045,88 @@
         "M2_ordered_containment": {
           "ARS": {
             "L": -0.29903424056189637,
-            "U": 0.13397717295873574
+            "U": 0.13426982733391868
           },
           "C3_recovery": {
-            "L": -0.22446689113355783,
-            "U": 0.304900860456416
+            "L": -0.22409277964833524,
+            "U": 0.3052749719416386
           },
           "C4_recovery": {
-            "L": -0.275153643546971,
-            "U": 0.2108867427568042
+            "L": -0.2749780509218613,
+            "U": 0.21141352063213342
           },
           "FAA": {
-            "L": -0.2837576821773486,
-            "U": 0.21691542288557214
+            "L": -0.28375768217734854,
+            "U": 0.21720807726075503
           },
           "TRR": {
-            "L": -0.2589627151051625,
-            "U": 0.24091778202676867
+            "L": -0.25872370936902483,
+            "U": 0.241395793499044
           },
           "preservation": {
-            "L": -0.30755994034644946,
-            "U": 0.19387403923368135
+            "L": -0.3077893770792704,
+            "U": 0.19398875760009177
           },
           "unresolved_rate": {
-            "point_difference": -0.050804799531753014
+            "point_difference": -0.0510974539069359
           }
         },
         "M3_guarded_containment": {
           "ARS": {
             "L": -0.28170910155106815,
-            "U": 0.12572431957857771
+            "U": 0.12601697395376066
           },
           "C3_recovery": {
-            "L": -0.20014964459408907,
-            "U": 0.29442573887018325
+            "L": -0.19977553310886648,
+            "U": 0.29479985035540585
           },
           "C4_recovery": {
-            "L": -0.24231782265144863,
-            "U": 0.19086918349429322
+            "L": -0.2421422300263389,
+            "U": 0.19139596136962245
           },
           "FAA": {
-            "L": -0.26450102429031314,
-            "U": 0.20415569212759727
+            "L": -0.2645010242903131,
+            "U": 0.20444834650278026
           },
           "TRR": {
-            "L": -0.22884799235181646,
-            "U": 0.22394837476099422
+            "L": -0.2286089866156788,
+            "U": 0.22442638623326955
           },
           "preservation": {
-            "L": -0.2987266261328438,
-            "U": 0.1851554433864862
+            "L": -0.29895606286566484,
+            "U": 0.18527016175289662
           },
           "unresolved_rate": {
-            "point_difference": -0.04430787240269243
+            "point_difference": -0.04460052677787532
           }
         },
         "M4_operational": {
           "ARS": {
             "L": -0.31793971319871234,
-            "U": 0.14585894059116183
+            "U": 0.14615159496634472
           },
           "C3_recovery": {
-            "L": -0.2398054620276842,
-            "U": 0.3206135428357651
+            "L": -0.23943135054246162,
+            "U": 0.3209876543209877
           },
           "C4_recovery": {
-            "L": -0.2942932396839333,
-            "U": 0.22932396839332747
+            "L": -0.29411764705882354,
+            "U": 0.2298507462686567
           },
           "FAA": {
-            "L": -0.30330699443956693,
-            "U": 0.23435762364647356
+            "L": -0.3033069944395669,
+            "U": 0.23465027802165644
           },
           "TRR": {
-            "L": -0.2768881453154875,
-            "U": 0.25848470363288717
+            "L": -0.27664913957934983,
+            "U": 0.2589627151051625
           },
           "preservation": {
-            "L": -0.3286681197659745,
-            "U": 0.2111965125616611
+            "L": -0.32889755649879543,
+            "U": 0.21131123092807164
           },
           "unresolved_rate": {
-            "point_difference": -0.052911911033069914
+            "point_difference": -0.05320456540825286
           }
         }
       },
@@ -2138,28 +2138,28 @@
       "metrics": {
         "M0_exact": {
           "ARS": {
-            "L": -0.24167398302604626,
-            "U": 0.02903131401814457
+            "L": -0.24138132865086337,
+            "U": 0.02932396839332746
           },
           "C3_recovery": {
-            "L": -0.1728395061728395,
-            "U": 0.18518518518518523
+            "L": -0.1724653946876169,
+            "U": 0.18555929667040783
           },
           "C4_recovery": {
-            "L": -0.23318700614574184,
-            "U": 0.04354697102721683
+            "L": -0.2326602282704126,
+            "U": 0.04407374890254612
           },
           "FAA": {
-            "L": -0.2259291776412058,
-            "U": 0.08920105355575064
+            "L": -0.22563652326602285,
+            "U": 0.08949370793093353
           },
           "TRR": {
-            "L": -0.21391013384321228,
-            "U": 0.08879063097514339
+            "L": -0.21343212237093695,
+            "U": 0.08926864244741872
           },
           "preservation": {
-            "L": -0.23746701846965695,
-            "U": 0.08959504416657105
+            "L": -0.23735230010324648,
+            "U": 0.08970976253298146
           },
           "unresolved_rate": {
             "point_difference": -0.019549312262218316
@@ -2167,28 +2167,28 @@
         },
         "M1_numeric": {
           "ARS": {
-            "L": -0.23980099502487556,
-            "U": 0.0012876792508048074
+            "L": -0.23950834064969267,
+            "U": 0.001580333625987751
           },
           "C3_recovery": {
-            "L": -0.16722783389450052,
-            "U": 0.15675271230826793
+            "L": -0.16685372240927793,
+            "U": 0.15712682379349052
           },
           "C4_recovery": {
-            "L": -0.23037752414398593,
-            "U": 0.021949078138718214
+            "L": -0.2298507462686567,
+            "U": 0.022475856014047446
           },
           "FAA": {
-            "L": -0.22306116476441323,
-            "U": 0.06046239391278896
+            "L": -0.2227685103892303,
+            "U": 0.06075504828797196
           },
           "TRR": {
-            "L": -0.21020554493307836,
-            "U": 0.06500956022944554
+            "L": -0.20972753346080303,
+            "U": 0.06548757170172087
           },
           "preservation": {
-            "L": -0.2354020878742687,
-            "U": 0.05609728117471602
+            "L": -0.23528736950785828,
+            "U": 0.056211999541126545
           },
           "unresolved_rate": {
             "point_difference": -0.004916593503072858
@@ -2196,28 +2196,28 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.33754755633596717,
-            "U": 0.0681299385425812
+            "L": -0.3372549019607843,
+            "U": 0.06842259291776415
           },
           "C3_recovery": {
-            "L": -0.26561915450804335,
-            "U": 0.2371866816311261
+            "L": -0.26524504302282076,
+            "U": 0.2375607931163487
           },
           "C4_recovery": {
-            "L": -0.32133450395083407,
-            "U": 0.10798946444249341
+            "L": -0.32080772607550484,
+            "U": 0.10851624231782264
           },
           "FAA": {
-            "L": -0.3282996780801873,
-            "U": 0.14609306409130818
+            "L": -0.32800702370500434,
+            "U": 0.14638571846649107
           },
           "TRR": {
-            "L": -0.3035372848948375,
-            "U": 0.1492590822179733
+            "L": -0.30305927342256217,
+            "U": 0.14973709369024862
           },
           "preservation": {
-            "L": -0.35207066651370883,
-            "U": 0.1430538029138465
+            "L": -0.3519559481472984,
+            "U": 0.14316852128025692
           },
           "unresolved_rate": {
             "point_difference": -0.024524436640327774
@@ -2225,28 +2225,28 @@
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.32057360257535844,
-            "U": 0.05987708516242318
+            "L": -0.32028094820017555,
+            "U": 0.060169739537606126
           },
           "C3_recovery": {
-            "L": -0.2405536849981294,
-            "U": 0.22671156004489335
+            "L": -0.2401795735129068,
+            "U": 0.22708567153011594
           },
           "C4_recovery": {
-            "L": -0.30184372256365233,
-            "U": 0.08797190517998243
+            "L": -0.3013169446883231,
+            "U": 0.08849868305531167
           },
           "FAA": {
-            "L": -0.30904302019315194,
-            "U": 0.1333333333333333
+            "L": -0.308750365817969,
+            "U": 0.1336259877085163
           },
           "TRR": {
-            "L": -0.2822657743785851,
-            "U": 0.13228967495219884
+            "L": -0.28178776290630975,
+            "U": 0.13276768642447417
           },
           "preservation": {
-            "L": -0.33474819318572896,
-            "U": 0.13433520706665136
+            "L": -0.33463347481931854,
+            "U": 0.13444992543306178
           },
           "unresolved_rate": {
             "point_difference": -0.018027509511267192
@@ -2254,28 +2254,28 @@
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.34702955809189345,
-            "U": 0.0800117061750073
+            "L": -0.34673690371671056,
+            "U": 0.08030436055019019
           },
           "C3_recovery": {
-            "L": -0.27497194163860833,
-            "U": 0.2528993640104752
+            "L": -0.27459783015338574,
+            "U": 0.2532734754956978
           },
           "C4_recovery": {
-            "L": -0.3352063213345039,
-            "U": 0.1264266900790167
+            "L": -0.33467954345917467,
+            "U": 0.12695346795434592
           },
           "FAA": {
-            "L": -0.33854258121158914,
-            "U": 0.1635352648522096
+            "L": -0.3382499268364062,
+            "U": 0.16382791922739248
           },
           "TRR": {
-            "L": -0.3159655831739962,
-            "U": 0.1668260038240918
+            "L": -0.31548757170172087,
+            "U": 0.16730401529636713
           },
           "preservation": {
-            "L": -0.3602156705288517,
-            "U": 0.16037627624182627
+            "L": -0.36010095216244126,
+            "U": 0.1604909946082368
           },
           "unresolved_rate": {
             "point_difference": -0.017325139010828217
@@ -2290,8 +2290,8 @@
       "metrics": {
         "M0_exact": {
           "ARS": {
-            "L": -0.16341820310213634,
-            "U": 0.08036289142522679
+            "L": -0.16353526485220954,
+            "U": 0.08024582967515359
           },
           "C3_recovery": {
             "L": -0.2671156004489338,
@@ -2299,19 +2299,19 @@
           },
           "C4_recovery": {
             "L": -0.17576821773485513,
-            "U": 0.10149253731343283
+            "U": 0.10149253731343288
           },
           "FAA": {
-            "L": -0.20989171788118233,
-            "U": 0.10348258706467661
+            "L": -0.21006731050629207,
+            "U": 0.10330699443956681
           },
           "TRR": {
             "L": -0.20494741873804972,
             "U": 0.10157743785850859
           },
           "preservation": {
-            "L": -0.21463806355397502,
-            "U": 0.10531146036480443
+            "L": -0.21498221865320644,
+            "U": 0.10496730526557296
           },
           "unresolved_rate": {
             "point_difference": -0.01779338601112085
@@ -2319,8 +2319,8 @@
         },
         "M1_numeric": {
           "ARS": {
-            "L": -0.15569212759730755,
-            "U": 0.07515364354697102
+            "L": -0.15580918934738075,
+            "U": 0.07503658179689787
           },
           "C3_recovery": {
             "L": -0.2570145903479237,
@@ -2331,16 +2331,16 @@
             "U": 0.09973661106233539
           },
           "FAA": {
-            "L": -0.20111208662569507,
-            "U": 0.09809774656131104
+            "L": -0.20128767925080482,
+            "U": 0.0979221539362014
           },
           "TRR": {
             "L": -0.19658221797323133,
             "U": 0.09858986615678778
           },
           "preservation": {
-            "L": -0.205460594241138,
-            "U": 0.09762532981530336
+            "L": -0.20580474934036946,
+            "U": 0.09728117471607206
           },
           "unresolved_rate": {
             "point_difference": -0.02060286801287678
@@ -2348,8 +2348,8 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.16441322797775826,
-            "U": 0.1419959028387474
+            "L": -0.16453028972783146,
+            "U": 0.14187884108867427
           },
           "C3_recovery": {
             "L": -0.2615039281705948,
@@ -2360,16 +2360,16 @@
             "U": 0.18577699736611059
           },
           "FAA": {
-            "L": -0.21112086625695053,
-            "U": 0.18372841673983026
+            "L": -0.21129645888206028,
+            "U": 0.18355282411472051
           },
           "TRR": {
             "L": -0.2026768642447419,
             "U": 0.18283938814531553
           },
           "preservation": {
-            "L": -0.21922679821039343,
-            "U": 0.18458185155443385
+            "L": -0.2195709533096249,
+            "U": 0.18423769645520244
           },
           "unresolved_rate": {
             "point_difference": 0.0550190225343869
@@ -2377,8 +2377,8 @@
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.16412057360257537,
-            "U": 0.1337430494585894
+            "L": -0.16423763535264851,
+            "U": 0.13362598770851625
           },
           "C3_recovery": {
             "L": -0.2618780396558174,
@@ -2389,16 +2389,16 @@
             "U": 0.1657594381035996
           },
           "FAA": {
-            "L": -0.21071115013169445,
-            "U": 0.17096868598185538
+            "L": -0.2108867427568042,
+            "U": 0.17079309335674575
           },
           "TRR": {
             "L": -0.2023183556405354,
             "U": 0.16586998087954108
           },
           "preservation": {
-            "L": -0.21876792474475165,
-            "U": 0.1758632557072387
+            "L": -0.219112079843983,
+            "U": 0.1755191006080073
           },
           "unresolved_rate": {
             "point_difference": 0.04266900790166814
@@ -2406,8 +2406,8 @@
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.16856892010535557,
-            "U": 0.1538776704711735
+            "L": -0.16868598185542877,
+            "U": 0.1537606087211003
           },
           "C3_recovery": {
             "L": -0.26487093153759816,
@@ -2418,16 +2418,16 @@
             "U": 0.20421422300263387
           },
           "FAA": {
-            "L": -0.21919812701199887,
-            "U": 0.20117061750073167
+            "L": -0.2193737196371086,
+            "U": 0.20099502487562193
           },
           "TRR": {
             "L": -0.2106835564053537,
             "U": 0.20040630975143403
           },
           "preservation": {
-            "L": -0.22737180222553627,
-            "U": 0.2019043248824136
+            "L": -0.22771595732476774,
+            "U": 0.2015601697831823
           },
           "unresolved_rate": {
             "point_difference": 0.06438396254023998
@@ -2442,28 +2442,28 @@
       "metrics": {
         "M0_exact": {
           "ARS": {
-            "L": -0.25414105940883813,
-            "U": -0.021012584138132895
+            "L": -0.25384840503365524,
+            "U": -0.020719929762950007
           },
           "C3_recovery": {
-            "L": -0.2368125701459035,
-            "U": 0.09090909090909094
+            "L": -0.23643845866068092,
+            "U": 0.09128320239431353
           },
           "C4_recovery": {
-            "L": -0.29534679543459175,
-            "U": -0.02019315188762072
+            "L": -0.2948200175592625,
+            "U": -0.019666374012291432
           },
           "FAA": {
-            "L": -0.24401521802750947,
-            "U": 0.033713784021071114
+            "L": -0.24372256365232653,
+            "U": 0.034006438396254
           },
           "TRR": {
-            "L": -0.27664913957934995,
-            "U": 0.015296367112810738
+            "L": -0.2761711281070746,
+            "U": 0.01577437858508607
           },
           "preservation": {
-            "L": -0.21268785132499718,
-            "U": 0.05139382815188709
+            "L": -0.2125731329585867,
+            "U": 0.051508546518297504
           },
           "unresolved_rate": {
             "point_difference": 0.01785191688615745
@@ -2471,28 +2471,28 @@
         },
         "M1_numeric": {
           "ARS": {
-            "L": -0.24653204565408254,
-            "U": -0.027802165642376364
+            "L": -0.24623939127889966,
+            "U": -0.02750951126719342
           },
           "C3_recovery": {
-            "L": -0.2267115600448934,
-            "U": 0.08454919566030683
+            "L": -0.2263374485596708,
+            "U": 0.08492330714552943
           },
           "C4_recovery": {
-            "L": -0.2883230904302019,
-            "U": -0.024582967515364318
+            "L": -0.28779631255487265,
+            "U": -0.024056189640035086
           },
           "FAA": {
-            "L": -0.23541117939713202,
-            "U": 0.0265730172666081
+            "L": -0.23511852502194908,
+            "U": 0.0268656716417911
           },
           "TRR": {
-            "L": -0.26864244741873805,
-            "U": 0.010277246653919714
+            "L": -0.2681644359464627,
+            "U": 0.010755258126195044
           },
           "preservation": {
-            "L": -0.20351038201216015,
-            "U": 0.04221635883905006
+            "L": -0.20339566364574974,
+            "U": 0.04233107720546059
           },
           "unresolved_rate": {
             "point_difference": 0.01662276851038924
@@ -2500,89 +2500,89 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.33549897570968684,
-            "U": 0.03904009364940003
+            "L": -0.33532338308457715,
+            "U": 0.039332748024582975
           },
           "C3_recovery": {
-            "L": -0.28133183688739244,
-            "U": 0.164983164983165
+            "L": -0.28095772540216984,
+            "U": 0.1653572764683876
           },
           "C4_recovery": {
-            "L": -0.35522388059701493,
-            "U": 0.06145741878841088
+            "L": -0.3546971027216857,
+            "U": 0.06198419666374011
           },
           "FAA": {
-            "L": -0.3277143693298215,
-            "U": 0.11220368744512732
+            "L": -0.32753877670471176,
+            "U": 0.11249634182031021
           },
           "TRR": {
-            "L": -0.3316204588910134,
-            "U": 0.09452676864244747
+            "L": -0.33114244741873805,
+            "U": 0.0950047801147228
           },
           "preservation": {
-            "L": -0.32396466674314556,
-            "U": 0.12917288057818055
+            "L": -0.3240793851095561,
+            "U": 0.12928759894459096
           },
           "unresolved_rate": {
-            "point_difference": 0.009950248756218916
+            "point_difference": 0.009833187006145744
           }
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.32326602282704126,
-            "U": 0.03078724026924201
+            "L": -0.32303189932689497,
+            "U": 0.031079894644424955
           },
           "C3_recovery": {
-            "L": -0.2678638234193789,
-            "U": 0.15450804339693225
+            "L": -0.2674897119341563,
+            "U": 0.15488215488215484
           },
           "C4_recovery": {
-            "L": -0.3318700614574188,
-            "U": 0.0414398595258999
+            "L": -0.3313432835820896,
+            "U": 0.041966637401229134
           },
           "FAA": {
-            "L": -0.31448639157155406,
-            "U": 0.09944395668715245
+            "L": -0.3142522680714076,
+            "U": 0.09973661106233545
           },
           "TRR": {
-            "L": -0.31142447418738045,
-            "U": 0.07755736137667302
+            "L": -0.3109464627151051,
+            "U": 0.07803537284894835
           },
           "preservation": {
             "L": -0.3174257198577492,
-            "U": 0.1204542847309854
+            "U": 0.12056900309739582
           },
           "unresolved_rate": {
-            "point_difference": 0.010418495756511575
+            "point_difference": 0.010359964881475003
           }
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.35059994146912493,
-            "U": 0.05092186128182613
+            "L": -0.35042434884401524,
+            "U": 0.05121451565700902
           },
           "C3_recovery": {
-            "L": -0.2933034044145156,
-            "U": 0.1806958473625141
+            "L": -0.292929292929293,
+            "U": 0.1810699588477367
           },
           "C4_recovery": {
-            "L": -0.36698858647936783,
-            "U": 0.07989464442493416
+            "L": -0.3664618086040386,
+            "U": 0.08042142230026339
           },
           "FAA": {
-            "L": -0.3435177055896986,
-            "U": 0.12964588820602874
+            "L": -0.34334211296458883,
+            "U": 0.12993854258121162
           },
           "TRR": {
-            "L": -0.3434512428298279,
-            "U": 0.11209369024856597
+            "L": -0.3429732313575526,
+            "U": 0.1125717017208413
           },
           "preservation": {
-            "L": -0.34358150739933463,
-            "U": 0.1464953539061603
+            "L": -0.34369622576574516,
+            "U": 0.14661007227257083
           },
           "unresolved_rate": {
-            "point_difference": 0.011589113257243211
+            "point_difference": 0.011472051507170039
           }
         }
       },
@@ -2594,28 +2594,28 @@
       "metrics": {
         "M0_exact": {
           "ARS": {
-            "L": -0.11454492244659054,
-            "U": 0.10974539069359085
+            "L": -0.11442786069651739,
+            "U": 0.109862452443664
           },
           "C3_recovery": {
             "L": -0.2087542087542088,
             "U": 0.13879536101758327
           },
           "C4_recovery": {
-            "L": -0.12361720807726073,
-            "U": 0.14855136084284457
+            "L": -0.12344161545215099,
+            "U": 0.14872695346795436
           },
           "FAA": {
-            "L": -0.17588527948492827,
-            "U": 0.1185835528241147
+            "L": -0.17594381035996481,
+            "U": 0.1185250219490781
           },
           "TRR": {
-            "L": -0.15081261950286806,
-            "U": 0.14543499043977054
+            "L": -0.15069311663479923,
+            "U": 0.14555449330783937
           },
           "preservation": {
-            "L": -0.19995411265343582,
-            "U": 0.09280715842606402
+            "L": -0.2001835493862567,
+            "U": 0.09257772169324302
           },
           "unresolved_rate": {
             "point_difference": 0.0011120866256950634
@@ -2623,28 +2623,28 @@
         },
         "M1_numeric": {
           "ARS": {
-            "L": -0.10769681006731047,
-            "U": 0.1038337723148961
+            "L": -0.10757974831723732,
+            "U": 0.1039508340649693
           },
           "C3_recovery": {
             "L": -0.19940142162364388,
             "U": 0.13355780022446695
           },
           "C4_recovery": {
-            "L": -0.1185250219490781,
-            "U": 0.14345917471466202
+            "L": -0.11834942932396836,
+            "U": 0.14363476733977176
           },
           "FAA": {
-            "L": -0.16815920398009948,
-            "U": 0.11161837869476143
+            "L": -0.16821773485513603,
+            "U": 0.11155984781972494
           },
           "TRR": {
-            "L": -0.14435946462715105,
-            "U": 0.14029636711281074
+            "L": -0.1442399617590822,
+            "U": 0.14041586998087957
           },
           "preservation": {
-            "L": -0.19100608007341974,
-            "U": 0.08408856257886882
+            "L": -0.19123551680624068,
+            "U": 0.08385912584604799
           },
           "unresolved_rate": {
             "point_difference": -0.0011706175007316355
@@ -2652,28 +2652,28 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.158852794849283,
-            "U": 0.1706760316066725
+            "L": -0.15873573309920985,
+            "U": 0.1707930933567457
           },
           "C3_recovery": {
             "L": -0.25327347549569773,
             "U": 0.21399176954732513
           },
           "C4_recovery": {
-            "L": -0.1617208077260755,
-            "U": 0.22949956101843721
+            "L": -0.16154521510096576,
+            "U": 0.22967515364354696
           },
           "FAA": {
-            "L": -0.23090430201931517,
-            "U": 0.19724904887328065
+            "L": -0.2309628328943517,
+            "U": 0.19719051799824405
           },
           "TRR": {
-            "L": -0.1909655831739962,
-            "U": 0.2245458891013385
+            "L": -0.19084608030592737,
+            "U": 0.22466539196940732
           },
           "preservation": {
-            "L": -0.26924400596535497,
-            "U": 0.1710450843179993
+            "L": -0.269473442698176,
+            "U": 0.17081564758517837
           },
           "unresolved_rate": {
             "point_difference": 0.021714954638571843
@@ -2681,28 +2681,28 @@
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.156745683347966,
-            "U": 0.16242317822651448
+            "L": -0.15662862159789287,
+            "U": 0.16254023997658767
           },
           "C3_recovery": {
             "L": -0.2476618032173588,
             "U": 0.20351664796109237
           },
           "C4_recovery": {
-            "L": -0.15662862159789287,
-            "U": 0.20948200175592624
+            "L": -0.15645302897278313,
+            "U": 0.20965759438103598
           },
           "FAA": {
-            "L": -0.2274509803921569,
-            "U": 0.18448931811530578
+            "L": -0.22750951126719343,
+            "U": 0.1844307872402693
           },
           "TRR": {
-            "L": -0.18570745697896746,
-            "U": 0.20757648183556404
+            "L": -0.18558795411089862,
+            "U": 0.20769598470363287
           },
           "preservation": {
-            "L": -0.26752323046919807,
-            "U": 0.16232648847080416
+            "L": -0.267752667202019,
+            "U": 0.16209705173798322
           },
           "unresolved_rate": {
             "point_difference": 0.012408545507755359
@@ -2710,28 +2710,28 @@
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.1702663154814164,
-            "U": 0.1825577992390986
+            "L": -0.17014925373134326,
+            "U": 0.18267486098917174
           },
           "C3_recovery": {
             "L": -0.26636737747848854,
             "U": 0.2297044519266742
           },
           "C4_recovery": {
-            "L": -0.1761194029850746,
-            "U": 0.2479367866549605
+            "L": -0.17594381035996487,
+            "U": 0.24811237928007024
           },
           "FAA": {
-            "L": -0.24834650278021658,
-            "U": 0.21469124963418207
+            "L": -0.24840503365525313,
+            "U": 0.21463271875914547
           },
           "TRR": {
-            "L": -0.20494741873804972,
-            "U": 0.242112810707457
+            "L": -0.2048279158699809,
+            "U": 0.24223231357552583
           },
           "preservation": {
-            "L": -0.29000803028564875,
-            "U": 0.18836755764597907
+            "L": -0.2902374670184697,
+            "U": 0.18813812091315824
           },
           "unresolved_rate": {
             "point_difference": 0.02171495463857187
@@ -2805,7 +2805,7 @@
         "M2_ordered_containment": {
           "ARS": {
             "L": -0.29909277143693297,
-            "U": 0.19473222124670764
+            "U": 0.19502487562189053
           },
           "C3_recovery": {
             "L": -0.3179947624392068,
@@ -2813,28 +2813,28 @@
           },
           "C4_recovery": {
             "L": -0.31343283582089554,
-            "U": 0.16435469710272171
+            "U": 0.1647058823529412
           },
           "FAA": {
             "L": -0.32028094820017555,
-            "U": 0.2049165935030729
+            "U": 0.20520924787825578
           },
           "TRR": {
             "L": -0.3148900573613767,
-            "U": 0.17865678776290633
+            "U": 0.178895793499044
           },
           "preservation": {
             "L": -0.3254560055064816,
-            "U": 0.2301250430193874
+            "U": 0.23046919811861877
           },
           "unresolved_rate": {
-            "point_difference": 0.02628036289142524
+            "point_difference": 0.02657301726660813
           }
         },
         "M3_guarded_containment": {
           "ARS": {
             "L": -0.28211881767632424,
-            "U": 0.17740708223587942
+            "U": 0.1776997366110623
           },
           "C3_recovery": {
             "L": -0.2929292929292929,
@@ -2842,28 +2842,28 @@
           },
           "C4_recovery": {
             "L": -0.2939420544337138,
-            "U": 0.13151887620719932
+            "U": 0.1318700614574188
           },
           "FAA": {
             "L": -0.3010242903131402,
-            "U": 0.18565993561603744
+            "U": 0.18595258999122033
           },
           "TRR": {
             "L": -0.2936185468451243,
-            "U": 0.1485420650095603
+            "U": 0.14878107074569796
           },
           "preservation": {
             "L": -0.30813353217850176,
-            "U": 0.22129172880578174
+            "U": 0.2216358839050132
           },
           "unresolved_rate": {
-            "point_difference": 0.02628036289142524
+            "point_difference": 0.02657301726660813
           }
         },
         "M4_operational": {
           "ARS": {
             "L": -0.30857477319285925,
-            "U": 0.2136376938835236
+            "U": 0.2139303482587065
           },
           "C3_recovery": {
             "L": -0.3273475495697718,
@@ -2871,22 +2871,22 @@
           },
           "C4_recovery": {
             "L": -0.32730465320456537,
-            "U": 0.18349429323968397
+            "U": 0.18384547848990346
           },
           "FAA": {
             "L": -0.3305238513315774,
-            "U": 0.22446590576529124
+            "U": 0.22475856014047413
           },
           "TRR": {
             "L": -0.3273183556405354,
-            "U": 0.19658221797323133
+            "U": 0.196821223709369
           },
           "preservation": {
             "L": -0.33360100952162447,
-            "U": 0.25123322243891244
+            "U": 0.2515773775381438
           },
           "unresolved_rate": {
-            "point_difference": 0.0355867720222417
+            "point_difference": 0.03587942639742464
           }
         }
       },
@@ -2898,28 +2898,28 @@
       "metrics": {
         "M0_exact": {
           "ARS": {
-            "L": -0.13292361720807727,
-            "U": 0.09388352355867718
+            "L": -0.13333333333333336,
+            "U": 0.0934738074334211
           },
           "C3_recovery": {
-            "L": -0.3239805462027684,
-            "U": -0.023943135054246167
+            "L": -0.324354657687991,
+            "U": -0.024317246539468762
           },
           "C4_recovery": {
-            "L": -0.1748902546093064,
-            "U": 0.05759438103599651
+            "L": -0.17541703248463564,
+            "U": 0.05706760316066728
           },
           "FAA": {
-            "L": -0.2093064091308165,
-            "U": 0.05847234416154523
+            "L": -0.20977465613110918,
+            "U": 0.058004097161252544
           },
           "TRR": {
-            "L": -0.22251434034416828,
-            "U": 0.03154875717017208
+            "L": -0.2229923518164436,
+            "U": 0.03107074569789675
           },
           "preservation": {
-            "L": -0.19662728002753244,
-            "U": 0.08431799931168982
+            "L": -0.19708615349317432,
+            "U": 0.08385912584604793
           },
           "unresolved_rate": {
             "point_difference": -0.06338893766461808
@@ -2927,28 +2927,28 @@
         },
         "M1_numeric": {
           "ARS": {
-            "L": -0.11723734269827335,
-            "U": 0.09388352355867718
+            "L": -0.11764705882352944,
+            "U": 0.0934738074334211
           },
           "C3_recovery": {
-            "L": -0.30939019827908715,
-            "U": -0.025439580995136546
+            "L": -0.30976430976430974,
+            "U": -0.02581369248035914
           },
           "C4_recovery": {
-            "L": -0.16031606672519755,
-            "U": 0.062159789288849854
+            "L": -0.16084284460052678,
+            "U": 0.06163301141352062
           },
           "FAA": {
-            "L": -0.19309335674568334,
-            "U": 0.05835528241147203
+            "L": -0.19356160374597603,
+            "U": 0.0578870354111794
           },
           "TRR": {
-            "L": -0.20793499043977054,
-            "U": 0.034177820267686454
+            "L": -0.20841300191204587,
+            "U": 0.033699808795411124
           },
           "preservation": {
-            "L": -0.1788459332339108,
-            "U": 0.08156475851783873
+            "L": -0.17930480669955268,
+            "U": 0.0811058850521969
           },
           "unresolved_rate": {
             "point_difference": -0.06836406204272753
@@ -2956,89 +2956,89 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.12595844307872406,
-            "U": 0.26859818554287385
+            "L": -0.12636815920398015,
+            "U": 0.26848112379280065
           },
           "C3_recovery": {
-            "L": -0.3138795361017583,
-            "U": 0.14852225963337073
+            "L": -0.3142536475869809,
+            "U": 0.14814814814814814
           },
           "C4_recovery": {
-            "L": -0.16716417910447762,
-            "U": 0.2421422300263389
+            "L": -0.16769095697980685,
+            "U": 0.24196663740122915
           },
           "FAA": {
-            "L": -0.2031021363769388,
-            "U": 0.24255194615159498
+            "L": -0.2035703833772315,
+            "U": 0.24237635352648523
           },
           "TRR": {
-            "L": -0.2140296367112811,
-            "U": 0.21223709369024857
+            "L": -0.21450764818355644,
+            "U": 0.2119980879541109
           },
           "preservation": {
-            "L": -0.19261213720316622,
-            "U": 0.27165309165997475
+            "L": -0.1930710106688081,
+            "U": 0.2715383732935643
           },
           "unresolved_rate": {
-            "point_difference": 0.10582382206613991
+            "point_difference": 0.1061164764413228
           }
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.12566578870354117,
-            "U": 0.25127304653204563
+            "L": -0.1260755048287972,
+            "U": 0.25115598478197243
           },
           "C3_recovery": {
-            "L": -0.3142536475869809,
-            "U": 0.12420501309390197
+            "L": -0.3146277590722035,
+            "U": 0.12383090160867938
           },
           "C4_recovery": {
-            "L": -0.16646180860403864,
-            "U": 0.2093064091308165
+            "L": -0.16698858647936787,
+            "U": 0.20913081650570675
           },
           "FAA": {
-            "L": -0.20269242025168271,
-            "U": 0.22329528826455952
+            "L": -0.2031606672519754,
+            "U": 0.22311969563944978
           },
           "TRR": {
-            "L": -0.21367112810707461,
-            "U": 0.18212237093690253
+            "L": -0.21414913957934995,
+            "U": 0.18188336520076487
           },
           "preservation": {
-            "L": -0.19215326373752445,
-            "U": 0.2628197774463691
+            "L": -0.19261213720316622,
+            "U": 0.2627050590799587
           },
           "unresolved_rate": {
-            "point_difference": 0.08697688030436057
+            "point_difference": 0.08726953467954346
           }
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.13011413520632137,
-            "U": 0.2875036581796898
+            "L": -0.13052385133157746,
+            "U": 0.2873865964296166
           },
           "C3_recovery": {
-            "L": -0.31724653946876163,
-            "U": 0.16386083052749711
+            "L": -0.31762065095398423,
+            "U": 0.16348671904227452
           },
           "C4_recovery": {
-            "L": -0.17734855136084282,
-            "U": 0.26128182616330115
+            "L": -0.17787532923617205,
+            "U": 0.2611062335381914
           },
           "FAA": {
-            "L": -0.21117939713198713,
-            "U": 0.2621012584138133
+            "L": -0.21164764413227982,
+            "U": 0.2619256657887036
           },
           "TRR": {
-            "L": -0.2220363288718929,
-            "U": 0.23016252390057357
+            "L": -0.22251434034416823,
+            "U": 0.2299235181644359
           },
           "preservation": {
-            "L": -0.20075714121830907,
-            "U": 0.2927612710794998
+            "L": -0.20121601468395095,
+            "U": 0.2926465527130893
           },
           "unresolved_rate": {
-            "point_difference": 0.1172958735733099
+            "point_difference": 0.11758852794849284
           }
         }
       },
@@ -3108,8 +3108,8 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.29704419081065264,
-            "U": 0.16564237635352647
+            "L": -0.29716125256072584,
+            "U": 0.16593503072870935
           },
           "C3_recovery": {
             "L": -0.3337074448185559,
@@ -3117,28 +3117,28 @@
           },
           "C4_recovery": {
             "L": -0.3473222124670764,
-            "U": 0.11782265144863918
+            "U": 0.11817383669885867
           },
           "FAA": {
-            "L": -0.3196956394498098,
-            "U": 0.17102721685689204
+            "L": -0.319812701199883,
+            "U": 0.17131987123207493
           },
           "TRR": {
             "L": -0.3429732313575526,
-            "U": 0.1239244741873805
+            "U": 0.12416347992351817
           },
           "preservation": {
-            "L": -0.29735000573591835,
-            "U": 0.21624412068372145
+            "L": -0.2975794424687393,
+            "U": 0.2165882757829528
           },
           "unresolved_rate": {
-            "point_difference": 0.06075504828797193
+            "point_difference": 0.060930640913081646
           }
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.28481123792800705,
-            "U": 0.14831723734269825
+            "L": -0.28486976880304365,
+            "U": 0.14860989171788114
           },
           "C3_recovery": {
             "L": -0.3202394313505424,
@@ -3146,28 +3146,28 @@
           },
           "C4_recovery": {
             "L": -0.3239683933274803,
-            "U": 0.08498683055311679
+            "U": 0.08533801580333628
           },
           "FAA": {
-            "L": -0.3064676616915423,
-            "U": 0.15177055896985658
+            "L": -0.3065261925665788,
+            "U": 0.15206321334503947
           },
           "TRR": {
             "L": -0.32277724665391966,
-            "U": 0.09380975143403447
+            "U": 0.09404875717017214
           },
           "preservation": {
-            "L": -0.290811058850522,
-            "U": 0.20741080647011578
+            "L": -0.2909257772169324,
+            "U": 0.20775496156934725
           },
           "unresolved_rate": {
-            "point_difference": 0.05472636815920401
+            "point_difference": 0.054960491659350325
           }
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.31214515657009073,
-            "U": 0.18454784899034243
+            "L": -0.31226221832016393,
+            "U": 0.18484050336552532
           },
           "C3_recovery": {
             "L": -0.34567901234567905,
@@ -3175,22 +3175,22 @@
           },
           "C4_recovery": {
             "L": -0.3590869183494293,
-            "U": 0.13696224758560144
+            "U": 0.13731343283582093
           },
           "FAA": {
-            "L": -0.33549897570968684,
-            "U": 0.19057652911911038
+            "L": -0.33561603745976004,
+            "U": 0.19086918349429327
           },
           "TRR": {
             "L": -0.3548040152963671,
-            "U": 0.1418499043977055
+            "U": 0.14208891013384317
           },
           "preservation": {
-            "L": -0.3169668463921074,
-            "U": 0.23735230010324648
+            "L": -0.31719628312492837,
+            "U": 0.23769645520247784
           },
           "unresolved_rate": {
-            "point_difference": 0.06450102429031312
+            "point_difference": 0.0646766169154229
           }
         }
       },
@@ -3202,28 +3202,28 @@
       "metrics": {
         "M0_exact": {
           "ARS": {
-            "L": -0.08405033655253147,
-            "U": 0.12326602282704124
+            "L": -0.08422592917764121,
+            "U": 0.1230904302019315
           },
           "C3_recovery": {
-            "L": -0.2656191545080434,
-            "U": 0.013093901982790812
+            "L": -0.265993265993266,
+            "U": 0.012719790497568217
           },
           "C4_recovery": {
-            "L": -0.12273924495171201,
-            "U": 0.10465320456540825
+            "L": -0.1230904302019315,
+            "U": 0.10430201931518876
           },
           "FAA": {
-            "L": -0.17529997073456244,
-            "U": 0.07357330992098332
+            "L": -0.17565115598478193,
+            "U": 0.07322212467076383
           },
           "TRR": {
-            "L": -0.16837954110898662,
-            "U": 0.07540630975143403
+            "L": -0.16873804971319312,
+            "U": 0.07504780114722753
           },
           "preservation": {
-            "L": -0.18194332912699324,
-            "U": 0.0718136973729494
+            "L": -0.1822874842262246,
+            "U": 0.07146954227371799
           },
           "unresolved_rate": {
             "point_difference": -0.04448346502780216
@@ -3231,28 +3231,28 @@
         },
         "M1_numeric": {
           "ARS": {
-            "L": -0.06924202516827627,
-            "U": 0.12256365232660227
+            "L": -0.06941761779338601,
+            "U": 0.12238805970149252
           },
           "C3_recovery": {
-            "L": -0.25177702955480735,
-            "U": 0.01197156752712314
+            "L": -0.25215114104002995,
+            "U": 0.011597456041900545
           },
           "C4_recovery": {
-            "L": -0.11062335381913957,
-            "U": 0.10588235294117648
+            "L": -0.11097453906935906,
+            "U": 0.105531167690957
           },
           "FAA": {
-            "L": -0.16014047410008775,
-            "U": 0.07187591454492243
+            "L": -0.16049165935030724,
+            "U": 0.07152472929470294
           },
           "TRR": {
-            "L": -0.15571223709369025,
-            "U": 0.07588432122370942
+            "L": -0.15607074569789675,
+            "U": 0.07552581261950292
           },
           "preservation": {
-            "L": -0.16439141906619253,
-            "U": 0.06802799128140419
+            "L": -0.1647355741654239,
+            "U": 0.06768383618217283
           },
           "unresolved_rate": {
             "point_difference": -0.04893181153058239
@@ -3260,89 +3260,89 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.1203980099502488,
-            "U": 0.29727831431079893
+            "L": -0.12057360257535854,
+            "U": 0.2973953760608721
           },
           "C3_recovery": {
-            "L": -0.3056490834268612,
-            "U": 0.18593340815563042
+            "L": -0.3060231949120838,
+            "U": 0.18555929667040783
           },
           "C4_recovery": {
-            "L": -0.15381913959613697,
+            "L": -0.15417032484635645,
             "U": 0.2858647936786655
           },
           "FAA": {
-            "L": -0.22288557213930343,
-            "U": 0.25607257828504537
+            "L": -0.22323675738952292,
+            "U": 0.25601404741000877
           },
           "TRR": {
-            "L": -0.2023183556405354,
-            "U": 0.25394359464627153
+            "L": -0.2026768642447419,
+            "U": 0.2538240917782027
           },
           "preservation": {
-            "L": -0.24262934495812777,
+            "L": -0.24297350005735924,
             "U": 0.2581163244235402
           },
           "unresolved_rate": {
-            "point_difference": 0.07251975417032486
+            "point_difference": 0.07281240854550775
           }
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.11829089844893181,
-            "U": 0.2799531752999707
+            "L": -0.11846649107404156,
+            "U": 0.28007023705004386
           },
           "C3_recovery": {
-            "L": -0.3000374111485223,
-            "U": 0.16161616161616166
+            "L": -0.3004115226337449,
+            "U": 0.16124205013093906
           },
           "C4_recovery": {
-            "L": -0.14872695346795434,
+            "L": -0.14907813871817382,
             "U": 0.2530289727831431
           },
           "FAA": {
-            "L": -0.21943225051214515,
-            "U": 0.23681592039800992
+            "L": -0.21978343576236464,
+            "U": 0.23675738952297332
           },
           "TRR": {
-            "L": -0.19706022944550666,
-            "U": 0.2238288718929255
+            "L": -0.19741873804971316,
+            "U": 0.22370936902485666
           },
           "preservation": {
-            "L": -0.24090856946197087,
-            "U": 0.24928301020993454
+            "L": -0.24125272456120223,
+            "U": 0.24928301020993465
           },
           "unresolved_rate": {
-            "point_difference": 0.05671641791044779
+            "point_difference": 0.05700907228563068
           }
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.1318115305823822,
-            "U": 0.3161837869476149
+            "L": -0.13198712320749195,
+            "U": 0.31630084869768804
           },
           "C3_recovery": {
-            "L": -0.318742985409652,
-            "U": 0.2012719790497568
+            "L": -0.3191170968948746,
+            "U": 0.2008978675645342
           },
           "C4_recovery": {
-            "L": -0.16821773485513608,
+            "L": -0.16856892010535557,
             "U": 0.3050043898156278
           },
           "FAA": {
-            "L": -0.24032777290020485,
-            "U": 0.2756218905472637
+            "L": -0.24067895815042434,
+            "U": 0.2755633596722271
           },
           "TRR": {
-            "L": -0.21630019120458893,
-            "U": 0.27186902485659653
+            "L": -0.21665869980879543,
+            "U": 0.2717495219885277
           },
           "preservation": {
-            "L": -0.26339336927842155,
+            "L": -0.2637375243776529,
             "U": 0.27922450384306524
           },
           "unresolved_rate": {
-            "point_difference": 0.07462686567164178
+            "point_difference": 0.07491952004682473
           }
         }
       },
@@ -3354,28 +3354,28 @@
       "metrics": {
         "M0_exact": {
           "ARS": {
-            "L": -0.07930933567456833,
-            "U": 0.20889669300556046
+            "L": -0.07971905179982441,
+            "U": 0.20848697688030438
           },
           "C3_recovery": {
-            "L": -0.27048260381593714,
-            "U": 0.09277964833520391
+            "L": -0.27085671530115973,
+            "U": 0.09240553684998132
           },
           "C4_recovery": {
-            "L": -0.07954345917471467,
-            "U": 0.19490781387181738
+            "L": -0.0800702370500439,
+            "U": 0.19438103599648815
           },
           "FAA": {
-            "L": -0.15130231196956395,
-            "U": 0.1816213052385134
+            "L": -0.15177055896985664,
+            "U": 0.1811530582382207
           },
           "TRR": {
-            "L": -0.14053537284894835,
-            "U": 0.1622848948374761
+            "L": -0.14101338432122368,
+            "U": 0.16180688336520077
           },
           "preservation": {
-            "L": -0.1616381782723414,
-            "U": 0.2001835493862567
+            "L": -0.16209705173798328,
+            "U": 0.19972467592061482
           },
           "unresolved_rate": {
             "point_difference": 0.0017559262510974671
@@ -3383,28 +3383,28 @@
         },
         "M1_numeric": {
           "ARS": {
-            "L": -0.05139010828211882,
-            "U": 0.20936494000585304
+            "L": -0.051799824407374906,
+            "U": 0.20895522388059695
           },
           "C3_recovery": {
-            "L": -0.24167601945379724,
-            "U": 0.09128320239431342
+            "L": -0.24205013093901984,
+            "U": 0.09090909090909083
           },
           "C4_recovery": {
-            "L": -0.05741878841088677,
-            "U": 0.1973661106233538
+            "L": -0.057945566286216,
+            "U": 0.19683933274802456
           },
           "FAA": {
-            "L": -0.12227099795141938,
-            "U": 0.18185542873865962
+            "L": -0.12273924495171207,
+            "U": 0.181387181738367
           },
           "TRR": {
-            "L": -0.11627629063097517,
-            "U": 0.16347992351816443
+            "L": -0.1167543021032505,
+            "U": 0.1630019120458891
           },
           "preservation": {
-            "L": -0.12802569691407595,
-            "U": 0.199495239187794
+            "L": -0.12848457037971783,
+            "U": 0.19903636572215216
           },
           "unresolved_rate": {
             "point_difference": -0.01568627450980392
@@ -3412,28 +3412,28 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.060111208662569526,
-            "U": 0.30711150131694465
+            "L": -0.060520924787825614,
+            "U": 0.30670178519168856
           },
           "C3_recovery": {
-            "L": -0.24616535727646838,
-            "U": 0.18967452300785625
+            "L": -0.24653946876169097,
+            "U": 0.18930041152263366
           },
           "C4_recovery": {
-            "L": -0.06426690079016684,
-            "U": 0.28832309043020193
+            "L": -0.06479367866549607,
+            "U": 0.2877963125548727
           },
           "FAA": {
-            "L": -0.13227977758267484,
-            "U": 0.28709394205443367
+            "L": -0.13274802458296753,
+            "U": 0.28662569505414104
           },
           "TRR": {
-            "L": -0.12237093690248574,
-            "U": 0.25681166347992357
+            "L": -0.12284894837476107,
+            "U": 0.25633365200764824
           },
           "preservation": {
-            "L": -0.14179190088333138,
-            "U": 0.31616381782723413
+            "L": -0.14225077434897326,
+            "U": 0.3157049443615923
           },
           "unresolved_rate": {
             "point_difference": 0.07954345917471467
@@ -3441,28 +3441,28 @@
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.05981855428738664,
-            "U": 0.2901375475563359
+            "L": -0.06022827041264267,
+            "U": 0.28972783143107983
           },
           "C3_recovery": {
-            "L": -0.24653946876169097,
-            "U": 0.1646090534979423
+            "L": -0.24691358024691357,
+            "U": 0.1642349420127197
           },
           "C4_recovery": {
-            "L": -0.06356453028972786,
-            "U": 0.2688323090430202
+            "L": -0.06409130816505709,
+            "U": 0.26830553116769096
           },
           "FAA": {
-            "L": -0.13187006145741875,
-            "U": 0.2678372841673983
+            "L": -0.13233830845771144,
+            "U": 0.2673690371671057
           },
           "TRR": {
-            "L": -0.12201242829827924,
-            "U": 0.23554015296367115
+            "L": -0.12249043977055457,
+            "U": 0.23506214149139582
           },
           "preservation": {
-            "L": -0.1413330274176896,
-            "U": 0.29884134449925426
+            "L": -0.14179190088333138,
+            "U": 0.29838247103361243
           },
           "unresolved_rate": {
             "point_difference": 0.06069651741293533
@@ -3470,28 +3470,28 @@
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.06426690079016684,
-            "U": 0.31659350307287093
+            "L": -0.06467661691542292,
+            "U": 0.31618378694761484
           },
           "C3_recovery": {
-            "L": -0.24953236064347173,
-            "U": 0.19902731013842123
+            "L": -0.24990647212869432,
+            "U": 0.19865319865319864
           },
           "C4_recovery": {
-            "L": -0.07445127304653204,
-            "U": 0.30219490781387176
+            "L": -0.07497805092186127,
+            "U": 0.30166812993854253
           },
           "FAA": {
-            "L": -0.14035703833772317,
-            "U": 0.29733684518583553
+            "L": -0.14082528533801586,
+            "U": 0.2968685981855429
           },
           "TRR": {
-            "L": -0.13037762906309752,
-            "U": 0.26923996175908227
+            "L": -0.13085564053537285,
+            "U": 0.26876195028680694
           },
           "preservation": {
-            "L": -0.14993690489847422,
-            "U": 0.32430882184237697
+            "L": -0.1503957783641161,
+            "U": 0.32384994837673514
           },
           "unresolved_rate": {
             "point_difference": 0.0817091015510682
@@ -3564,7 +3564,7 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.2311969563944981,
+            "L": -0.2313140181445713,
             "U": 0.20415569212759727
           },
           "C3_recovery": {
@@ -3576,7 +3576,7 @@
             "U": 0.16400351185250223
           },
           "FAA": {
-            "L": -0.24887328065554581,
+            "L": -0.24899034240561901,
             "U": 0.21556921275973073
           },
           "TRR": {
@@ -3584,16 +3584,16 @@
             "U": 0.1684990439770555
           },
           "preservation": {
-            "L": -0.2465297694160835,
+            "L": -0.24675920614890445,
             "U": 0.2607548468509808
           },
           "unresolved_rate": {
-            "point_difference": 0.03447468539654669
+            "point_difference": 0.03435762364647352
           }
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.21896400351185252,
+            "L": -0.21902253438688912,
             "U": 0.18718173836698854
           },
           "C3_recovery": {
@@ -3605,7 +3605,7 @@
             "U": 0.14451273046532048
           },
           "FAA": {
-            "L": -0.23564530289727836,
+            "L": -0.23570383377231485,
             "U": 0.1963125548726954
           },
           "TRR": {
@@ -3613,16 +3613,16 @@
             "U": 0.14722753346080308
           },
           "preservation": {
-            "L": -0.23999082253068715,
+            "L": -0.24010554089709757,
             "U": 0.24343237352300096
           },
           "unresolved_rate": {
-            "point_difference": 0.028446005267778768
+            "point_difference": 0.028387474392742196
           }
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.2462979221539362,
+            "L": -0.2464149839040094,
             "U": 0.21363769388352355
           },
           "C3_recovery": {
@@ -3634,7 +3634,7 @@
             "U": 0.17787532923617205
           },
           "FAA": {
-            "L": -0.2646766169154229,
+            "L": -0.2647936786654961,
             "U": 0.2258121158911326
           },
           "TRR": {
@@ -3642,11 +3642,11 @@
             "U": 0.1809273422562142
           },
           "preservation": {
-            "L": -0.2661466100722726,
+            "L": -0.2663760468050935,
             "U": 0.26889985086612367
           },
           "unresolved_rate": {
-            "point_difference": 0.028914252268071428
+            "point_difference": 0.028797190517998256
           }
         }
       },
@@ -3658,28 +3658,28 @@
       "metrics": {
         "M0_exact": {
           "ARS": {
-            "L": -0.030436055019022523,
-            "U": 0.23827919227392452
+            "L": -0.030611647644132267,
+            "U": 0.23810359964881478
           },
           "C3_recovery": {
-            "L": -0.21212121212121215,
-            "U": 0.1298166853722409
+            "L": -0.21249532360643475,
+            "U": 0.1294425738870183
           },
           "C4_recovery": {
-            "L": -0.027392449517120276,
-            "U": 0.24196663740122912
+            "L": -0.027743634767339764,
+            "U": 0.24161545215100963
           },
           "FAA": {
-            "L": -0.1172958735733099,
-            "U": 0.19672227099795148
+            "L": -0.11764705882352938,
+            "U": 0.196371085747732
           },
           "TRR": {
-            "L": -0.08640057361376668,
-            "U": 0.20614244741873805
+            "L": -0.08675908221797318,
+            "U": 0.20578393881453155
           },
           "preservation": {
-            "L": -0.1469542273718022,
-            "U": 0.1876792474475163
+            "L": -0.14729838247103355,
+            "U": 0.18733509234828488
           },
           "unresolved_rate": {
             "point_difference": 0.02066139888791338
@@ -3687,28 +3687,28 @@
         },
         "M1_numeric": {
           "ARS": {
-            "L": -0.0033947907521217346,
-            "U": 0.23804506877377812
+            "L": -0.0035703833772314786,
+            "U": 0.23786947614866838
           },
           "C3_recovery": {
-            "L": -0.18406285072951745,
-            "U": 0.1286943509165731
+            "L": -0.18443696221474004,
+            "U": 0.1283202394313505
           },
           "C4_recovery": {
-            "L": -0.007726075504828789,
-            "U": 0.24108867427568043
+            "L": -0.008077260755048277,
+            "U": 0.24073748902546094
           },
           "FAA": {
-            "L": -0.08931811530582379,
-            "U": 0.19537606087211
+            "L": -0.08966930055604327,
+            "U": 0.19502487562189053
           },
           "TRR": {
-            "L": -0.06405353728489488,
-            "U": 0.2051864244741874
+            "L": -0.06441204588910138,
+            "U": 0.2048279158699809
           },
           "preservation": {
-            "L": -0.11357118274635769,
-            "U": 0.18595847195135945
+            "L": -0.11391533784558905,
+            "U": 0.1856143168521281
           },
           "unresolved_rate": {
             "point_difference": 0.0037459760023412225
@@ -3716,28 +3716,28 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.054550775534094265,
-            "U": 0.33579163008486973
+            "L": -0.05472636815920401,
+            "U": 0.33561603745976
           },
           "C3_recovery": {
-            "L": -0.2379349046015713,
-            "U": 0.22708567153011594
+            "L": -0.2383090160867939,
+            "U": 0.22671156004489335
           },
           "C4_recovery": {
-            "L": -0.050921861281826186,
-            "U": 0.33204565408252856
+            "L": -0.051273046532045674,
+            "U": 0.3316944688323091
           },
           "FAA": {
-            "L": -0.15206321334503947,
-            "U": 0.30061457418788406
+            "L": -0.15241439859525896,
+            "U": 0.3002633889376646
           },
           "TRR": {
-            "L": -0.11065965583174003,
-            "U": 0.29851816443594653
+            "L": -0.11101816443594653,
+            "U": 0.29815965583174003
           },
           "preservation": {
-            "L": -0.19180910863829292,
-            "U": 0.3026270505907996
+            "L": -0.1921532637375244,
+            "U": 0.3022828954915682
           },
           "unresolved_rate": {
             "point_difference": 0.046239391278899616
@@ -3745,28 +3745,28 @@
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.05244366403277728,
-            "U": 0.318817676324261
+            "L": -0.052619256657887026,
+            "U": 0.31864208369915126
           },
           "C3_recovery": {
-            "L": -0.23232323232323238,
-            "U": 0.202020202020202
+            "L": -0.23269734380845497,
+            "U": 0.2016460905349794
           },
           "C4_recovery": {
-            "L": -0.045829675153643556,
-            "U": 0.3125548726953468
+            "L": -0.046180860403863044,
+            "U": 0.31220368744512733
           },
           "FAA": {
-            "L": -0.1486098917178812,
-            "U": 0.2813579163008487
+            "L": -0.14896107696810068,
+            "U": 0.28100673105062923
           },
           "TRR": {
-            "L": -0.10540152963671129,
-            "U": 0.2772466539196941
+            "L": -0.10576003824091779,
+            "U": 0.2768881453154876
           },
           "preservation": {
-            "L": -0.19008833314213602,
-            "U": 0.2853045772628197
+            "L": -0.19043248824136738,
+            "U": 0.28496042216358836
           },
           "unresolved_rate": {
             "point_difference": 0.03043605501902255
@@ -3774,28 +3774,28 @@
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.06596429616622768,
-            "U": 0.345273631840796
+            "L": -0.06613988879133742,
+            "U": 0.34509803921568627
           },
           "C3_recovery": {
-            "L": -0.2510288065843621,
-            "U": 0.23643845866068092
+            "L": -0.2514029180695847,
+            "U": 0.23606434717545832
           },
           "C4_recovery": {
-            "L": -0.0653204565408253,
-            "U": 0.3459174714661984
+            "L": -0.06567164179104479,
+            "U": 0.3455662862159789
           },
           "FAA": {
-            "L": -0.1695054141059409,
-            "U": 0.3108574773192859
+            "L": -0.16985659935616038,
+            "U": 0.31050629206906644
           },
           "TRR": {
-            "L": -0.12464149139579356,
-            "U": 0.31094646271510523
+            "L": -0.12500000000000006,
+            "U": 0.31058795411089873
           },
           "preservation": {
-            "L": -0.2125731329585867,
-            "U": 0.3107720546059424
+            "L": -0.21291728805781807,
+            "U": 0.31042789950671107
           },
           "unresolved_rate": {
             "point_difference": 0.03904009364940009
@@ -3810,28 +3810,28 @@
       "metrics": {
         "M0_exact": {
           "ARS": {
-            "L": -0.22136376938835234,
-            "U": 0.02926543751829086
+            "L": -0.22095405326309625,
+            "U": 0.029675153643546948
           },
           "C3_recovery": {
-            "L": -0.15675271230826793,
-            "U": 0.17620650953984285
+            "L": -0.15637860082304533,
+            "U": 0.17658062102506544
           },
           "C4_recovery": {
-            "L": -0.2570676031606673,
-            "U": 0.01580333625987712
+            "L": -0.25654082528533806,
+            "U": 0.016330114135206353
           },
           "FAA": {
-            "L": -0.19970734562481707,
-            "U": 0.09581504243488442
+            "L": -0.19923909862452438,
+            "U": 0.09628328943517711
           },
           "TRR": {
-            "L": -0.22502390057361377,
-            "U": 0.0670411089866157
+            "L": -0.22454588910133844,
+            "U": 0.06751912045889102
           },
           "preservation": {
-            "L": -0.17540438224159693,
-            "U": 0.12343696225765743
+            "L": -0.17494550877595505,
+            "U": 0.12389583572329932
           },
           "unresolved_rate": {
             "point_difference": 0.0356453028972783
@@ -3839,28 +3839,28 @@
         },
         "M1_numeric": {
           "ARS": {
-            "L": -0.21609599063506002,
-            "U": 0.022300263388937647
+            "L": -0.21568627450980393,
+            "U": 0.022709979514193734
           },
           "C3_recovery": {
-            "L": -0.1507669285447063,
-            "U": 0.16947250280583614
+            "L": -0.1503928170594837,
+            "U": 0.16984661429105874
           },
           "C4_recovery": {
-            "L": -0.25531167690956974,
-            "U": 0.010886742756804235
+            "L": -0.2547848990342405,
+            "U": 0.011413520632133467
           },
           "FAA": {
-            "L": -0.1942054433713784,
-            "U": 0.08838162130523852
+            "L": -0.19373719637108577,
+            "U": 0.08884986830553121
           },
           "TRR": {
-            "L": -0.22191682600382412,
-            "U": 0.06154397705544934
+            "L": -0.2214388145315488,
+            "U": 0.06202198852772467
           },
           "preservation": {
-            "L": -0.16760353332568545,
-            "U": 0.11414477457840999
+            "L": -0.16714465986004362,
+            "U": 0.11460364804405188
           },
           "unresolved_rate": {
             "point_difference": 0.03722563652326602
@@ -3868,89 +3868,89 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.3050629206906643,
-            "U": 0.031021363769388355
+            "L": -0.30477026631548143,
+            "U": 0.03143107989464444
           },
           "C3_recovery": {
-            "L": -0.20538720538720534,
-            "U": 0.17396184062850728
+            "L": -0.20501309390198275,
+            "U": 0.17433595211372988
           },
           "C4_recovery": {
-            "L": -0.3222124670763828,
-            "U": 0.017734855136084304
+            "L": -0.32168568920105356,
+            "U": 0.018261633011413536
           },
           "FAA": {
-            "L": -0.2865086333040679,
-            "U": 0.09839040093649398
+            "L": -0.28615744805384846,
+            "U": 0.09885864793678667
           },
           "TRR": {
-            "L": -0.28489483747609945,
-            "U": 0.06763862332695991
+            "L": -0.2844168260038241,
+            "U": 0.06811663479923524
           },
           "preservation": {
-            "L": -0.28805781805667086,
-            "U": 0.12791097854766542
+            "L": -0.28782838132384997,
+            "U": 0.1283698520133073
           },
           "unresolved_rate": {
-            "point_difference": -0.04506877377816798
+            "point_difference": -0.04518583552824115
           }
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.29282996780801873,
-            "U": 0.030728709394205467
+            "L": -0.29247878255779924,
+            "U": 0.0311384255194615
           },
           "C3_recovery": {
-            "L": -0.19191919191919182,
-            "U": 0.17433595211372988
+            "L": -0.19154508043396923,
+            "U": 0.17471006359895247
           },
           "C4_recovery": {
-            "L": -0.2988586479367867,
-            "U": 0.01703248463564533
+            "L": -0.29833187006145745,
+            "U": 0.01755926251097456
           },
           "FAA": {
-            "L": -0.27328065554580044,
-            "U": 0.0979806848112379
+            "L": -0.2728709394205443,
+            "U": 0.09844893181153058
           },
           "TRR": {
-            "L": -0.2646988527724665,
-            "U": 0.06728011472275341
+            "L": -0.2642208413001912,
+            "U": 0.06775812619502875
           },
           "preservation": {
-            "L": -0.2815188711712745,
-            "U": 0.12745210508202365
+            "L": -0.2811747160720431,
+            "U": 0.12791097854766542
           },
           "unresolved_rate": {
-            "point_difference": -0.03225051214515656
+            "point_difference": -0.032309043020193134
           }
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.3201638864501024,
-            "U": 0.035177055896985665
+            "L": -0.3198712320749195,
+            "U": 0.03558677202224175
           },
           "C3_recovery": {
-            "L": -0.21735877291432848,
-            "U": 0.17732884399551063
+            "L": -0.21698466142910589,
+            "U": 0.17770295548073323
           },
           "C4_recovery": {
-            "L": -0.3339771729587357,
-            "U": 0.027919227392449508
+            "L": -0.33345039508340646,
+            "U": 0.02844600526777874
           },
           "FAA": {
-            "L": -0.30231196956394496,
-            "U": 0.10646766169154231
+            "L": -0.3019607843137255,
+            "U": 0.106935908691835
           },
           "TRR": {
-            "L": -0.296725621414914,
-            "U": 0.0756453154875717
+            "L": -0.29624760994263866,
+            "U": 0.07612332695984703
           },
           "preservation": {
-            "L": -0.3076746587128599,
-            "U": 0.13605598256280826
+            "L": -0.30744522198003904,
+            "U": 0.13651485602845015
           },
           "unresolved_rate": {
-            "point_difference": -0.05279484928299677
+            "point_difference": -0.05291191103306994
           }
         }
       },
@@ -3962,28 +3962,28 @@
       "metrics": {
         "M0_exact": {
           "ARS": {
-            "L": -0.08176763242610474,
-            "U": 0.1600234123500146
+            "L": -0.0815335089259584,
+            "U": 0.16025753585016095
           },
           "C3_recovery": {
             "L": -0.12869435091657322,
             "U": 0.22409277964833518
           },
           "C4_recovery": {
-            "L": -0.08533801580333628,
-            "U": 0.1845478489903424
+            "L": -0.08516242317822653,
+            "U": 0.18472344161545215
           },
           "FAA": {
-            "L": -0.13157740708223586,
-            "U": 0.180684811237928
+            "L": -0.13146034533216266,
+            "U": 0.1808018729880012
           },
           "TRR": {
-            "L": -0.09918738049713188,
-            "U": 0.1971797323135755
+            "L": -0.09906787762906305,
+            "U": 0.19729923518164433
           },
           "preservation": {
-            "L": -0.16267064357003558,
-            "U": 0.16485029253183436
+            "L": -0.16255592520362505,
+            "U": 0.16496501089824483
           },
           "unresolved_rate": {
             "point_difference": 0.018905472636815912
@@ -3991,28 +3991,28 @@
         },
         "M1_numeric": {
           "ARS": {
-            "L": -0.07726075504828794,
-            "U": 0.1539362013462101
+            "L": -0.0770266315481416,
+            "U": 0.15417032484635645
           },
           "C3_recovery": {
             "L": -0.12345679012345678,
             "U": 0.21848110736999626
           },
           "C4_recovery": {
-            "L": -0.08551360842844596,
-            "U": 0.17892888498683057
+            "L": -0.08533801580333622,
+            "U": 0.17910447761194032
           },
           "FAA": {
-            "L": -0.12695346795434587,
-            "U": 0.17342698273339185
+            "L": -0.12683640620427272,
+            "U": 0.17354404448346505
           },
           "TRR": {
-            "L": -0.09763384321223711,
-            "U": 0.19156309751434036
+            "L": -0.09751434034416828,
+            "U": 0.1916826003824092
           },
           "preservation": {
-            "L": -0.15509923138694504,
-            "U": 0.15601697831822875
+            "L": -0.15498451302053456,
+            "U": 0.15613169668463928
           },
           "unresolved_rate": {
             "point_difference": 0.019432250512145144
@@ -4020,28 +4020,28 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.12841673983026047,
-            "U": 0.16265730172666082
+            "L": -0.12818261633011413,
+            "U": 0.16289142522680716
           },
           "C3_recovery": {
             "L": -0.17732884399551063,
             "U": 0.2229704451926674
           },
           "C4_recovery": {
-            "L": -0.12870939420544336,
-            "U": 0.18577699736611064
+            "L": -0.12853380158033362,
+            "U": 0.18595258999122039
           },
           "FAA": {
-            "L": -0.18969856599356155,
-            "U": 0.18343576236464731
+            "L": -0.1895815042434884,
+            "U": 0.18355282411472051
           },
           "TRR": {
-            "L": -0.14423996175908227,
-            "U": 0.19765774378585094
+            "L": -0.14412045889101344,
+            "U": 0.19777724665391977
           },
           "preservation": {
-            "L": -0.23333715727888027,
-            "U": 0.16978318228748418
+            "L": -0.2332224389124699,
+            "U": 0.1698979006538947
           },
           "unresolved_rate": {
             "point_difference": -0.033304067895815054
@@ -4049,28 +4049,28 @@
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.1263096283289435,
-            "U": 0.16236464735147793
+            "L": -0.12607550482879715,
+            "U": 0.16259877085162422
           },
           "C3_recovery": {
             "L": -0.1717171717171717,
             "U": 0.22334455667789
           },
           "C4_recovery": {
-            "L": -0.12361720807726073,
-            "U": 0.18507462686567167
+            "L": -0.12344161545215099,
+            "U": 0.1852502194907814
           },
           "FAA": {
-            "L": -0.18624524436640327,
-            "U": 0.18302604623939123
+            "L": -0.18612818261633013,
+            "U": 0.18314310798946443
           },
           "TRR": {
-            "L": -0.13898183556405352,
-            "U": 0.19729923518164444
+            "L": -0.1388623326959847,
+            "U": 0.19741873804971327
           },
           "preservation": {
-            "L": -0.23161638178272337,
-            "U": 0.1693243088218424
+            "L": -0.2315016634163129,
+            "U": 0.16943902718825282
           },
           "unresolved_rate": {
             "point_difference": -0.03026046239391278
@@ -4078,28 +4078,28 @@
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.13983026046239388,
-            "U": 0.16681299385425813
+            "L": -0.13959613696224754,
+            "U": 0.16704711735440447
           },
           "C3_recovery": {
             "L": -0.19042274597830144,
             "U": 0.22633744855967075
           },
           "C4_recovery": {
-            "L": -0.14310798946444248,
-            "U": 0.19596136962247585
+            "L": -0.14293239683933273,
+            "U": 0.1961369622475856
           },
           "FAA": {
-            "L": -0.20714076675446297,
-            "U": 0.19151302311969565
+            "L": -0.20702370500438982,
+            "U": 0.19163008486976885
           },
           "TRR": {
-            "L": -0.1582217973231358,
-            "U": 0.20566443594646272
+            "L": -0.15810229445506696,
+            "U": 0.20578393881453155
           },
           "preservation": {
-            "L": -0.25410118159917405,
-            "U": 0.17792818630262702
+            "L": -0.2539864632327636,
+            "U": 0.17804290466903755
           },
           "unresolved_rate": {
             "point_difference": -0.04266900790166811
@@ -4114,28 +4114,28 @@
       "metrics": {
         "M0_exact": {
           "ARS": {
-            "L": 0.019607843137254943,
-            "U": 0.2507462686567164
+            "L": 0.0194322505121452,
+            "U": 0.25057067603160665
           },
           "C3_recovery": {
-            "L": -0.11784511784511786,
-            "U": 0.1937897493453049
+            "L": -0.11821922933034046,
+            "U": 0.1934156378600823
           },
           "C4_recovery": {
-            "L": 0.03634767339771727,
-            "U": 0.30412642669007905
+            "L": 0.035996488147497785,
+            "U": 0.30377524143985957
           },
           "FAA": {
-            "L": -0.061808604038630366,
-            "U": 0.21480831138425516
+            "L": -0.062159789288849854,
+            "U": 0.21445712613403567
           },
           "TRR": {
-            "L": -0.01290630975143403,
-            "U": 0.2688814531548757
+            "L": -0.013264818355640529,
+            "U": 0.2685229445506692
           },
           "preservation": {
-            "L": -0.10875301135711823,
-            "U": 0.16290008030285652
+            "L": -0.10909716645634959,
+            "U": 0.1625559252036251
           },
           "unresolved_rate": {
             "point_difference": -0.016739830260462385
@@ -4143,28 +4143,28 @@
         },
         "M1_numeric": {
           "ARS": {
-            "L": 0.025695054141059437,
-            "U": 0.2447761194029851
+            "L": 0.025519461515949693,
+            "U": 0.24460052677787536
           },
           "C3_recovery": {
-            "L": -0.11185933408155635,
-            "U": 0.188178077066966
+            "L": -0.11223344556677894,
+            "U": 0.1878039655817434
           },
           "C4_recovery": {
-            "L": 0.03880597014925374,
-            "U": 0.29903424056189637
+            "L": 0.038454784899034256,
+            "U": 0.2986830553116769
           },
           "FAA": {
-            "L": -0.05542873865964293,
-            "U": 0.2077260755048288
+            "L": -0.05577992390986242,
+            "U": 0.2073748902546093
           },
           "TRR": {
-            "L": -0.009321223709369053,
-            "U": 0.2636233269598471
+            "L": -0.00967973231357555,
+            "U": 0.2632648183556406
           },
           "preservation": {
-            "L": -0.09969026041069173,
-            "U": 0.1540667660892509
+            "L": -0.10003441550992309,
+            "U": 0.15372261099001955
           },
           "unresolved_rate": {
             "point_difference": -0.017793386011120876
@@ -4172,89 +4172,89 @@
         },
         "M2_ordered_containment": {
           "ARS": {
-            "L": -0.025460930640913093,
-            "U": 0.3337430494585894
+            "L": -0.025636523266022837,
+            "U": 0.33368451858355286
           },
           "C3_recovery": {
-            "L": -0.1657313879536102,
-            "U": 0.24279835390946503
+            "L": -0.1661054994388328,
+            "U": 0.24242424242424243
           },
           "C4_recovery": {
-            "L": -0.004389815627743654,
-            "U": 0.3659350307287094
+            "L": -0.004741000877963142,
+            "U": 0.36558384547848993
           },
           "FAA": {
-            "L": -0.11817383669885861,
-            "U": 0.3000292654375183
+            "L": -0.1185250219490781,
+            "U": 0.299795141937372
           },
           "TRR": {
-            "L": -0.05592734225621421,
-            "U": 0.3266013384321224
+            "L": -0.056285850860420705,
+            "U": 0.3262428298279159
           },
           "preservation": {
-            "L": -0.17792818630262697,
-            "U": 0.2745210508202363
+            "L": -0.17827234140185844,
+            "U": 0.2744063324538259
           },
           "unresolved_rate": {
-            "point_difference": 0.011764705882352927
+            "point_difference": 0.011881767632426099
           }
         },
         "M3_guarded_containment": {
           "ARS": {
-            "L": -0.02335381913959611,
-            "U": 0.3215100965759438
+            "L": -0.023529411764705854,
+            "U": 0.32139303482587067
           },
           "C3_recovery": {
-            "L": -0.16011971567527128,
-            "U": 0.2293303404414515
+            "L": -0.16049382716049387,
+            "U": 0.2289562289562289
           },
           "C4_recovery": {
-            "L": 0.0007023705004389758,
-            "U": 0.3425812115891133
+            "L": 0.0003511852502194879,
+            "U": 0.3422300263388938
           },
           "FAA": {
-            "L": -0.11472051507170034,
-            "U": 0.28680128767925084
+            "L": -0.11507170032191982,
+            "U": 0.28650863330406784
           },
           "TRR": {
-            "L": -0.05066921606118546,
-            "U": 0.3064053537284895
+            "L": -0.05102772466539196,
+            "U": 0.306046845124283
           },
           "preservation": {
-            "L": -0.17620741080647007,
-            "U": 0.26798210393483995
+            "L": -0.17655156590570142,
+            "U": 0.267752667202019
           },
           "unresolved_rate": {
-            "point_difference": 0.001990049751243783
+            "point_difference": 0.002048580626280355
           }
         },
         "M4_operational": {
           "ARS": {
-            "L": -0.036874451273046505,
-            "U": 0.3488440152180275
+            "L": -0.03705004389815625,
+            "U": 0.34878548434299095
           },
           "C3_recovery": {
-            "L": -0.178825289936401,
-            "U": 0.25476992143658816
+            "L": -0.1791994014216236,
+            "U": 0.25439580995136557
           },
           "C4_recovery": {
-            "L": -0.018788410886742768,
-            "U": 0.3776997366110623
+            "L": -0.019139596136962256,
+            "U": 0.37734855136084283
           },
           "FAA": {
-            "L": -0.13561603745976003,
-            "U": 0.31583260169739535
+            "L": -0.13596722270997952,
+            "U": 0.31559847819724907
           },
           "TRR": {
-            "L": -0.06990917782026773,
-            "U": 0.33843212237093695
+            "L": -0.07026768642447423,
+            "U": 0.33807361376673045
           },
           "preservation": {
-            "L": -0.19869221062292075,
-            "U": 0.2941378914764254
+            "L": -0.1990363657221521,
+            "U": 0.29402317311001497
           },
           "unresolved_rate": {
-            "point_difference": 0.01012584138132866
+            "point_difference": 0.010242903131401832
           }
         }
       },
@@ -4267,64 +4267,64 @@
       "left_model": "Ministral-3-14B",
       "metrics": {
         "M1_ARS_L": {
-          "ci_high": -0.01737529211933265,
-          "ci_low": -0.060852598200827814,
-          "point_difference": -0.0384547848990342
+          "ci_high": -0.017084637201106277,
+          "ci_low": -0.060754344803490686,
+          "point_difference": -0.03816213052385131
         },
         "M1_FAA_L": {
-          "ci_high": 0.013986918930450752,
-          "ci_low": -0.0314794276514939,
-          "point_difference": -0.008018729880011732
+          "ci_high": 0.01449126439330487,
+          "ci_low": -0.031064630012682205,
+          "point_difference": -0.007726075504828789
         },
         "M1_TRR_L": {
-          "ci_high": 0.03481149747552533,
-          "ci_low": -0.013904266758172114,
-          "point_difference": 0.011352772466539207
+          "ci_high": 0.03546422697614847,
+          "ci_low": -0.01344244654094051,
+          "point_difference": 0.011830783938814537
         },
         "M3_ARS_L": {
-          "ci_high": -0.01737529211933265,
-          "ci_low": -0.060852598200827814,
-          "point_difference": -0.0384547848990342
+          "ci_high": -0.017084637201106277,
+          "ci_low": -0.060754344803490686,
+          "point_difference": -0.03816213052385131
         },
         "M3_ARS_U": {
-          "ci_high": -0.10040528877200265,
-          "ci_low": -0.13459366369717254,
-          "point_difference": -0.11752999707345624
+          "ci_high": -0.10040528877200271,
+          "ci_low": -0.1345936636971725,
+          "point_difference": -0.11752999707345618
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": 0.13409173743883845,
-          "ci_low": 0.05882387698471706,
-          "point_difference": 0.09592257895838036
+          "ci_high": 0.1342867095711936,
+          "ci_low": 0.058833572185933096,
+          "point_difference": 0.0961210978184932
         },
         "M3_C3_minus_C4_U": {
-          "ci_high": 0.07845110449706134,
-          "ci_low": 0.022432694007529133,
-          "point_difference": 0.04980215447486924
+          "ci_high": 0.07833362057398226,
+          "ci_low": 0.022271350262812774,
+          "point_difference": 0.049649488084762605
         },
         "M3_FAA_L": {
-          "ci_high": 0.013986918930450752,
-          "ci_low": -0.0314794276514939,
-          "point_difference": -0.008018729880011732
+          "ci_high": 0.01449126439330487,
+          "ci_low": -0.031064630012682205,
+          "point_difference": -0.007726075504828789
         },
         "M3_FAA_U": {
           "ci_high": -0.03436201020097483,
-          "ci_low": -0.07035937237292295,
-          "point_difference": -0.05232660228270414
+          "ci_low": -0.07035937237292283,
+          "point_difference": -0.05232660228270403
         },
         "M3_TRR_L": {
-          "ci_high": 0.03481149747552533,
-          "ci_low": -0.013904266758172114,
-          "point_difference": 0.011352772466539207
+          "ci_high": 0.03546422697614847,
+          "ci_low": -0.01344244654094051,
+          "point_difference": 0.011830783938814537
         },
         "M3_TRR_U": {
-          "ci_high": 0.005423416762950039,
-          "ci_low": -0.03664393673580225,
-          "point_difference": -0.016252390057361454
+          "ci_high": 0.0054455265918791325,
+          "ci_low": -0.036551930322922525,
+          "point_difference": -0.01601338432122379
         },
         "M3_unresolved_rate": {
-          "ci_high": -0.01813941048813892,
-          "ci_low": -0.06926323472790122,
-          "point_difference": -0.04430787240269243
+          "ci_high": -0.018246957843278556,
+          "ci_low": -0.06940299509862485,
+          "point_difference": -0.04460052677787532
         }
       },
       "right_model": "deepseek"
@@ -4334,59 +4334,59 @@
       "left_model": "Ministral-3-14B",
       "metrics": {
         "M1_ARS_L": {
-          "ci_high": -0.08189300661218717,
+          "ci_high": -0.08165330069602224,
           "ci_low": -0.12753540355686305,
-          "point_difference": -0.10430201931518873
+          "point_difference": -0.10400936494000584
         },
         "M1_FAA_L": {
-          "ci_high": -0.054121228426454365,
-          "ci_low": -0.10335876890096006,
-          "point_difference": -0.0788410886742757
+          "ci_high": -0.053821260438208576,
+          "ci_low": -0.10314908967045519,
+          "point_difference": -0.07854843429909275
         },
         "M1_TRR_L": {
-          "ci_high": -0.05310961970992355,
-          "ci_low": -0.10777637494542563,
-          "point_difference": -0.08030592734225617
+          "ci_high": -0.052499082188536286,
+          "ci_low": -0.10763243025997239,
+          "point_difference": -0.07982791586998084
         },
         "M3_ARS_L": {
-          "ci_high": -0.08189300661218717,
+          "ci_high": -0.08165330069602224,
           "ci_low": -0.12753540355686305,
-          "point_difference": -0.10430201931518873
+          "point_difference": -0.10400936494000584
         },
         "M3_ARS_U": {
-          "ci_high": -0.1380588076237394,
-          "ci_low": -0.17525816883905482,
-          "point_difference": -0.15639449809774653
+          "ci_high": -0.1377603493974454,
+          "ci_low": -0.17493800746996493,
+          "point_difference": -0.15610184372256358
         },
         "M3_C3_minus_C4_L": {
           "ci_high": 0.1303291267921622,
-          "ci_low": 0.05027265671165564,
-          "point_difference": 0.08773430004529414
+          "ci_low": 0.05022297922890602,
+          "point_difference": 0.08758163365518751
         },
         "M3_C3_minus_C4_U": {
-          "ci_high": 0.1494357600688884,
-          "ci_low": 0.07943505117722142,
-          "point_difference": 0.11229539238513969
+          "ci_high": 0.14928897861515955,
+          "ci_low": 0.0791447275596451,
+          "point_difference": 0.11214272599503305
         },
         "M3_FAA_L": {
-          "ci_high": -0.054121228426454365,
-          "ci_low": -0.10335876890096006,
-          "point_difference": -0.0788410886742757
+          "ci_high": -0.053821260438208576,
+          "ci_low": -0.10314908967045519,
+          "point_difference": -0.07854843429909275
         },
         "M3_FAA_U": {
-          "ci_high": -0.07738742078056417,
-          "ci_low": -0.11701254585058136,
-          "point_difference": -0.09686859818554294
+          "ci_high": -0.07701970219888714,
+          "ci_low": -0.11667444862952062,
+          "point_difference": -0.09657594381035994
         },
         "M3_TRR_L": {
-          "ci_high": -0.05310961970992355,
-          "ci_low": -0.10777637494542563,
-          "point_difference": -0.08030592734225617
+          "ci_high": -0.052499082188536286,
+          "ci_low": -0.10763243025997239,
+          "point_difference": -0.07982791586998084
         },
         "M3_TRR_U": {
-          "ci_high": -0.04910166883776481,
-          "ci_low": -0.09255728064194237,
-          "point_difference": -0.06967017208413007
+          "ci_high": -0.04848194822998086,
+          "ci_low": -0.09193559827851958,
+          "point_difference": -0.06919216061185474
         },
         "M3_unresolved_rate": {
           "ci_high": 0.01256913664645846,
@@ -4401,57 +4401,57 @@
       "left_model": "Ministral-3-14B",
       "metrics": {
         "M1_ARS_L": {
-          "ci_high": -0.011162645093047508,
-          "ci_low": -0.05064308649634174,
-          "point_difference": -0.030436055019022523
+          "ci_high": -0.011390688596731237,
+          "ci_low": -0.050883094278990994,
+          "point_difference": -0.030553116769095723
         },
         "M1_FAA_L": {
-          "ci_high": -0.01854983056929779,
-          "ci_low": -0.06492732849515523,
-          "point_difference": -0.041205736025753614
+          "ci_high": -0.01855657694400659,
+          "ci_low": -0.06501954630123286,
+          "point_difference": -0.0413813286508633
         },
         "M1_TRR_L": {
           "ci_high": -0.021826017734523875,
-          "ci_low": -0.07375423888624286,
+          "ci_low": -0.07375423888624291,
           "point_difference": -0.04672562141491393
         },
         "M3_ARS_L": {
-          "ci_high": -0.011162645093047508,
-          "ci_low": -0.05064308649634174,
-          "point_difference": -0.030436055019022523
+          "ci_high": -0.011390688596731237,
+          "ci_low": -0.050883094278990994,
+          "point_difference": -0.030553116769095723
         },
         "M3_ARS_U": {
-          "ci_high": 0.017253269365473018,
-          "ci_low": -0.01695806120294632,
-          "point_difference": 5.8530875036544305e-05
+          "ci_high": 0.017135930147011154,
+          "ci_low": -0.01699299404288912,
+          "point_difference": -5.8530875036544305e-05
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": -0.06504184262364252,
-          "ci_low": -0.14173199900722902,
+          "ci_high": -0.06504184262364246,
+          "ci_low": -0.1417319990072291,
           "point_difference": -0.10035200639044167
         },
         "M3_C3_minus_C4_U": {
-          "ci_high": 0.04611833098912506,
+          "ci_high": 0.04611833098912495,
           "ci_low": -0.016983355480460264,
           "point_difference": 0.013183504803834512
         },
         "M3_FAA_L": {
-          "ci_high": -0.01854983056929779,
-          "ci_low": -0.06492732849515523,
-          "point_difference": -0.041205736025753614
+          "ci_high": -0.01855657694400659,
+          "ci_low": -0.06501954630123286,
+          "point_difference": -0.0413813286508633
         },
         "M3_FAA_U": {
-          "ci_high": 0.021529782016179076,
+          "ci_high": 0.02148007046373005,
           "ci_low": -0.018561669502992994,
-          "point_difference": 0.0014632718759145513
+          "point_difference": 0.001287679250804863
         },
         "M3_TRR_L": {
           "ci_high": -0.021826017734523875,
-          "ci_low": -0.07375423888624286,
+          "ci_low": -0.07375423888624291,
           "point_difference": -0.04672562141491393
         },
         "M3_TRR_U": {
-          "ci_high": 0.03336124440852637,
+          "ci_high": 0.03336124440852648,
           "ci_low": -0.014294599820578367,
           "point_difference": 0.010277246653919603
         },
@@ -4468,64 +4468,64 @@
       "left_model": "Ministral-3-14B",
       "metrics": {
         "M1_ARS_L": {
-          "ci_high": -0.11275488463817084,
-          "ci_low": -0.1540356748707222,
-          "point_difference": -0.1333918642083699
+          "ci_high": -0.1122647746458675,
+          "ci_low": -0.15362327316445643,
+          "point_difference": -0.13309920983318702
         },
         "M1_FAA_L": {
-          "ci_high": -0.08947678509953219,
-          "ci_low": -0.13525418844910542,
-          "point_difference": -0.11273046532045655
+          "ci_high": -0.08932066387645637,
+          "ci_low": -0.13497617539162282,
+          "point_difference": -0.11243781094527361
         },
         "M1_TRR_L": {
-          "ci_high": -0.10833029008996833,
-          "ci_low": -0.1612350985988203,
-          "point_difference": -0.135038240917782
+          "ci_high": -0.10784810055202788,
+          "ci_low": -0.1602825555814977,
+          "point_difference": -0.13456022944550666
         },
         "M3_ARS_L": {
-          "ci_high": -0.11275488463817084,
-          "ci_low": -0.1540356748707222,
-          "point_difference": -0.1333918642083699
+          "ci_high": -0.1122647746458675,
+          "ci_low": -0.15362327316445643,
+          "point_difference": -0.13309920983318702
         },
         "M3_ARS_U": {
-          "ci_high": -0.14178751313444043,
-          "ci_low": -0.17573059508966477,
-          "point_difference": -0.15908691834942934
+          "ci_high": -0.1415135173677885,
+          "ci_low": -0.1753357203850334,
+          "point_difference": -0.158852794849283
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": 0.08263259699115795,
-          "ci_low": 0.009017607431665428,
-          "point_difference": 0.04555712229109954
+          "ci_high": 0.08262297223380337,
+          "ci_low": 0.008759974340527473,
+          "point_difference": 0.0454044559009929
         },
         "M3_C3_minus_C4_U": {
-          "ci_high": 0.16506673574052516,
-          "ci_low": 0.09972396193565562,
-          "point_difference": 0.1315172996179727
+          "ci_high": 0.1650240945044436,
+          "ci_low": 0.09955910361357809,
+          "point_difference": 0.13136463322786607
         },
         "M3_FAA_L": {
-          "ci_high": -0.08947678509953219,
-          "ci_low": -0.13525418844910542,
-          "point_difference": -0.11273046532045655
+          "ci_high": -0.08932066387645637,
+          "ci_low": -0.13497617539162282,
+          "point_difference": -0.11243781094527361
         },
         "M3_FAA_U": {
-          "ci_high": -0.08424013886198843,
+          "ci_high": -0.08400354830442178,
           "ci_low": -0.12039608470523816,
-          "point_difference": -0.10231196956394506
+          "point_difference": -0.10207784606379855
         },
         "M3_TRR_L": {
-          "ci_high": -0.10833029008996833,
-          "ci_low": -0.1612350985988203,
-          "point_difference": -0.135038240917782
+          "ci_high": -0.10784810055202788,
+          "ci_low": -0.1602825555814977,
+          "point_difference": -0.13456022944550666
         },
         "M3_TRR_U": {
-          "ci_high": -0.07639700934143545,
-          "ci_low": -0.1194676470480852,
-          "point_difference": -0.09882887189292544
+          "ci_high": -0.07590662274678289,
+          "ci_low": -0.11876048921628082,
+          "point_difference": -0.09835086042065011
         },
         "M3_unresolved_rate": {
-          "ci_high": 0.03475995684956565,
-          "ci_low": -0.012526012675005858,
-          "point_difference": 0.010418495756511575
+          "ci_high": 0.03464179225716968,
+          "ci_low": -0.012579868087297797,
+          "point_difference": 0.010359964881475003
         }
       },
       "right_model": "qwen3_8_flash"
@@ -4535,59 +4535,59 @@
       "left_model": "Ministral-3-14B",
       "metrics": {
         "M1_ARS_L": {
-          "ci_high": 0.01246729940127553,
-          "ci_low": -0.0171446712638404,
-          "point_difference": -0.0017559262510974394
+          "ci_high": 0.012549467929894429,
+          "ci_low": -0.016957999451446257,
+          "point_difference": -0.0016388645010242953
         },
         "M1_FAA_L": {
-          "ci_high": -0.011355361126430829,
-          "ci_low": -0.04578075807349337,
-          "point_difference": -0.02768510389230322
+          "ci_high": -0.011358286642784463,
+          "ci_low": -0.045783667418308915,
+          "point_difference": -0.027743634767339764
         },
         "M1_TRR_L": {
-          "ci_high": 0.016051276883436567,
-          "ci_low": -0.026329331949240697,
-          "point_difference": -0.005019120458890969
+          "ci_high": 0.016052291348426263,
+          "ci_low": -0.02585629614768791,
+          "point_difference": -0.004899617590822136
         },
         "M3_ARS_L": {
-          "ci_high": 0.01246729940127553,
-          "ci_low": -0.0171446712638404,
-          "point_difference": -0.0017559262510974394
+          "ci_high": 0.012549467929894429,
+          "ci_low": -0.016957999451446257,
+          "point_difference": -0.0016388645010242953
         },
         "M3_ARS_U": {
-          "ci_high": 0.023075026894364827,
-          "ci_low": -0.007388973067186945,
-          "point_difference": 0.007433421129645901
+          "ci_high": 0.023228300435230984,
+          "ci_low": -0.007225333711937324,
+          "point_difference": 0.0075504828797191
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": -0.04822369463136804,
-          "ci_low": -0.11415931464920624,
-          "point_difference": -0.08067571300426629
+          "ci_high": -0.048284018864730896,
+          "ci_low": -0.11450141991236419,
+          "point_difference": -0.08085130562937604
         },
         "M3_C3_minus_C4_U": {
-          "ci_high": 0.011174534013520258,
-          "ci_low": -0.043855091892910134,
-          "point_difference": -0.016322822410033522
+          "ci_high": 0.011143679192645405,
+          "ci_low": -0.04399971689021295,
+          "point_difference": -0.016498415035143266
         },
         "M3_FAA_L": {
-          "ci_high": -0.011355361126430829,
-          "ci_low": -0.04578075807349337,
-          "point_difference": -0.02768510389230322
+          "ci_high": -0.011358286642784463,
+          "ci_low": -0.045783667418308915,
+          "point_difference": -0.027743634767339764
         },
         "M3_FAA_U": {
-          "ci_high": 0.0008267602779929193,
-          "ci_low": -0.031069012834328773,
-          "point_difference": -0.01527655838454789
+          "ci_high": 0.0007581319268096075,
+          "ci_low": -0.03112222807288478,
+          "point_difference": -0.015335089259584378
         },
         "M3_TRR_L": {
-          "ci_high": 0.016051276883436567,
-          "ci_low": -0.026329331949240697,
-          "point_difference": -0.005019120458890969
+          "ci_high": 0.016052291348426263,
+          "ci_low": -0.02585629614768791,
+          "point_difference": -0.004899617590822136
         },
         "M3_TRR_U": {
-          "ci_high": 0.04853407291358271,
-          "ci_low": 0.006514359972707363,
-          "point_difference": 0.026888145315487555
+          "ci_high": 0.04856478386809273,
+          "ci_low": 0.006636326462197201,
+          "point_difference": 0.027007648183556388
         },
         "M3_unresolved_rate": {
           "ci_high": 0.030052853192249235,
@@ -4622,14 +4622,14 @@
           "point_difference": -0.06584723441615453
         },
         "M3_ARS_U": {
-          "ci_high": -0.023694510927515178,
-          "ci_low": -0.05559606793335386,
-          "point_difference": -0.03886450102429029
+          "ci_high": -0.023521044667514195,
+          "ci_low": -0.055308725612050615,
+          "point_difference": -0.0385718466491074
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": 0.023312149419311777,
-          "ci_low": -0.040252352799317624,
-          "point_difference": -0.008188278913086211
+          "ci_high": 0.02319861819739483,
+          "ci_low": -0.04061263742179109,
+          "point_difference": -0.008539464163305699
         },
         "M3_C3_minus_C4_U": {
           "ci_high": 0.09223899422843107,
@@ -4642,9 +4642,9 @@
           "point_difference": -0.07082235879426396
         },
         "M3_FAA_U": {
-          "ci_high": -0.02931994416529166,
-          "ci_low": -0.06206778684901787,
-          "point_difference": -0.044541995902838805
+          "ci_high": -0.028634543505193562,
+          "ci_low": -0.061777771874542205,
+          "point_difference": -0.04424934152765592
         },
         "M3_TRR_L": {
           "ci_high": -0.07042368593250489,
@@ -4652,14 +4652,14 @@
           "point_difference": -0.09165869980879537
         },
         "M3_TRR_U": {
-          "ci_high": -0.03621576412247241,
-          "ci_low": -0.07151702987949116,
-          "point_difference": -0.05341778202676861
+          "ci_high": -0.03586742577647513,
+          "ci_low": -0.07118389637406809,
+          "point_difference": -0.05317877629063095
         },
         "M3_unresolved_rate": {
           "ci_high": 0.05059630067483584,
-          "ci_low": 0.00021657886086252966,
-          "point_difference": 0.02628036289142524
+          "ci_low": 0.0005670440823906879,
+          "point_difference": 0.02657301726660813
         }
       },
       "right_model": "gpt_5_6_luna"
@@ -4669,64 +4669,64 @@
       "left_model": "deepseek",
       "metrics": {
         "M1_ARS_L": {
-          "ci_high": 0.03793023019113486,
-          "ci_low": -0.01963520219310329,
-          "point_difference": 0.008018729880011677
+          "ci_high": 0.03751132585135912,
+          "ci_low": -0.020704880931510895,
+          "point_difference": 0.007609013754755589
         },
         "M1_FAA_L": {
-          "ci_high": -0.00016624880983350069,
-          "ci_low": -0.06420888437204973,
-          "point_difference": -0.03318700614574188
+          "ci_high": -0.00046548705044160423,
+          "ci_low": -0.06545630347701371,
+          "point_difference": -0.033655253146034514
         },
         "M1_TRR_L": {
-          "ci_high": -0.024008368936876287,
-          "ci_low": -0.08872798920723286,
-          "point_difference": -0.05807839388145314
+          "ci_high": -0.02455386119089054,
+          "ci_low": -0.08957636123404011,
+          "point_difference": -0.05855640535372847
         },
         "M3_ARS_L": {
-          "ci_high": 0.03793023019113486,
-          "ci_low": -0.01963520219310329,
-          "point_difference": 0.008018729880011677
+          "ci_high": 0.03751132585135912,
+          "ci_low": -0.020704880931510895,
+          "point_difference": 0.007609013754755589
         },
         "M3_ARS_U": {
-          "ci_high": 0.14099037304498221,
-          "ci_low": 0.09247009297362367,
-          "point_difference": 0.11758852794849278
+          "ci_high": 0.14086930239339174,
+          "ci_low": 0.09232488937219664,
+          "point_difference": 0.11747146619841964
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": -0.1515324539381555,
-          "ci_low": -0.2387404007091134,
-          "point_difference": -0.19627458534882203
+          "ci_high": -0.1517386850502741,
+          "ci_low": -0.2389335659410679,
+          "point_difference": -0.19647310420893488
         },
         "M3_C3_minus_C4_U": {
-          "ci_high": 0.00037506864864364725,
-          "ci_low": -0.07234599311470136,
-          "point_difference": -0.03661864967103473
+          "ci_high": 0.0004580229344234116,
+          "ci_low": -0.07225634352064507,
+          "point_difference": -0.036465983280928094
         },
         "M3_FAA_L": {
-          "ci_high": -0.00016624880983350069,
-          "ci_low": -0.06420888437204973,
-          "point_difference": -0.03318700614574188
+          "ci_high": -0.00046548705044160423,
+          "ci_low": -0.06545630347701371,
+          "point_difference": -0.033655253146034514
         },
         "M3_FAA_U": {
           "ci_high": 0.07904291322331451,
-          "ci_low": 0.02803999226618145,
-          "point_difference": 0.05378987415861869
+          "ci_low": 0.027725400005614506,
+          "point_difference": 0.05361428153350889
         },
         "M3_TRR_L": {
-          "ci_high": -0.024008368936876287,
-          "ci_low": -0.08872798920723286,
-          "point_difference": -0.05807839388145314
+          "ci_high": -0.02455386119089054,
+          "ci_low": -0.08957636123404011,
+          "point_difference": -0.05855640535372847
         },
         "M3_TRR_U": {
-          "ci_high": 0.05547690140081823,
-          "ci_low": -0.003451999641748854,
-          "point_difference": 0.026529636711281057
+          "ci_high": 0.055231460869639634,
+          "ci_low": -0.003921638580512463,
+          "point_difference": 0.026290630975143392
         },
         "M3_unresolved_rate": {
-          "ci_high": 0.11763999920377867,
-          "ci_low": 0.05489199290560196,
-          "point_difference": 0.08697688030436057
+          "ci_high": 0.11810892720531986,
+          "ci_low": 0.05546460165801816,
+          "point_difference": 0.08726953467954346
         }
       },
       "right_model": "qwen3_4b_local"
@@ -4757,13 +4757,13 @@
         },
         "M3_ARS_U": {
           "ci_high": -0.027926374081164378,
-          "ci_low": -0.05421208114126236,
-          "point_difference": -0.0415569212759731
+          "ci_low": -0.05397667012528957,
+          "point_difference": -0.041322797775826814
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": -0.016176657298236037,
-          "ci_low": -0.08333812515587735,
-          "point_difference": -0.05036545666728082
+          "ci_high": -0.0168711299771383,
+          "ci_low": -0.08403695230487644,
+          "point_difference": -0.050716641917500305
         },
         "M3_C3_minus_C4_U": {
           "ci_high": 0.11446688548183935,
@@ -4776,9 +4776,9 @@
           "point_difference": -0.10471173544044482
         },
         "M3_FAA_U": {
-          "ci_high": -0.036186253258262246,
-          "ci_low": -0.06389973890443211,
-          "point_difference": -0.04998536728124092
+          "ci_high": -0.03595928474286915,
+          "ci_low": -0.06386600426582378,
+          "point_difference": -0.04975124378109452
         },
         "M3_TRR_L": {
           "ci_high": -0.12024928617050129,
@@ -4786,14 +4786,14 @@
           "point_difference": -0.1463910133843212
         },
         "M3_TRR_U": {
-          "ci_high": -0.062173223125424976,
-          "ci_low": -0.10127410656136404,
-          "point_difference": -0.08257648183556399
+          "ci_high": -0.06212242883363211,
+          "ci_low": -0.10125500948485902,
+          "point_difference": -0.08233747609942632
         },
         "M3_unresolved_rate": {
-          "ci_high": 0.07739850177644002,
-          "ci_low": 0.030210186819404215,
-          "point_difference": 0.05472636815920401
+          "ci_high": 0.07740437756232638,
+          "ci_low": 0.030229326378691853,
+          "point_difference": 0.054960491659350325
         }
       },
       "right_model": "qwen3_8_flash"
@@ -4803,64 +4803,64 @@
       "left_model": "deepseek",
       "metrics": {
         "M1_ARS_L": {
-          "ci_high": 0.058803850085501236,
-          "ci_low": 0.013118206997474216,
-          "point_difference": 0.03669885864793676
+          "ci_high": 0.0587227186296222,
+          "ci_low": 0.013074341757267115,
+          "point_difference": 0.03652326602282702
         },
         "M1_FAA_L": {
-          "ci_high": 0.004078474632569134,
-          "ci_low": -0.0444684885102064,
-          "point_difference": -0.019666374012291488
+          "ci_high": 0.0037378632788573622,
+          "ci_low": -0.04507188258829604,
+          "point_difference": -0.020017559262510976
         },
         "M1_TRR_L": {
-          "ci_high": 0.009832824439702691,
-          "ci_low": -0.042566039447953154,
-          "point_difference": -0.016371892925430176
+          "ci_high": 0.009337455787436598,
+          "ci_low": -0.042575103987474536,
+          "point_difference": -0.016730401529636674
         },
         "M3_ARS_L": {
-          "ci_high": 0.058803850085501236,
-          "ci_low": 0.013118206997474216,
-          "point_difference": 0.03669885864793676
+          "ci_high": 0.0587227186296222,
+          "ci_low": 0.013074341757267115,
+          "point_difference": 0.03652326602282702
         },
         "M3_ARS_U": {
-          "ci_high": 0.14216577719848225,
-          "ci_low": 0.10504903585678844,
-          "point_difference": 0.12496341820310214
+          "ci_high": 0.14228265523458872,
+          "ci_low": 0.10528121018933784,
+          "point_difference": 0.12508047995317528
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": -0.13657342771729025,
-          "ci_low": -0.21512907947376197,
-          "point_difference": -0.17659829196264665
+          "ci_high": -0.1369416458443325,
+          "ci_low": -0.21531871844639955,
+          "point_difference": -0.17697240344786924
         },
         "M3_C3_minus_C4_U": {
-          "ci_high": -0.034812103461162903,
-          "ci_low": -0.09726372704321984,
-          "point_difference": -0.06612497688490276
+          "ci_high": -0.03483615572804048,
+          "ci_low": -0.09731024339836117,
+          "point_difference": -0.06614790311990587
         },
         "M3_FAA_L": {
-          "ci_high": 0.004078474632569134,
-          "ci_low": -0.0444684885102064,
-          "point_difference": -0.019666374012291488
+          "ci_high": 0.0037378632788573622,
+          "ci_low": -0.04507188258829604,
+          "point_difference": -0.020017559262510976
         },
         "M3_FAA_U": {
-          "ci_high": 0.054855110213355755,
-          "ci_low": 0.01916117298066103,
-          "point_difference": 0.03705004389815625
+          "ci_high": 0.05485241796628324,
+          "ci_low": 0.019158569672372023,
+          "point_difference": 0.03699151302311965
         },
         "M3_TRR_L": {
-          "ci_high": 0.009832824439702691,
-          "ci_low": -0.042566039447953154,
-          "point_difference": -0.016371892925430176
+          "ci_high": 0.009337455787436598,
+          "ci_low": -0.042575103987474536,
+          "point_difference": -0.016730401529636674
         },
         "M3_TRR_U": {
-          "ci_high": 0.06894005868563147,
-          "ci_low": 0.016724622907337606,
-          "point_difference": 0.04314053537284901
+          "ci_high": 0.06881802954770619,
+          "ci_low": 0.016572278686026756,
+          "point_difference": 0.04302103250478018
         },
         "M3_unresolved_rate": {
-          "ci_high": 0.08359454819950791,
-          "ci_low": 0.02931070691550164,
-          "point_difference": 0.05671641791044779
+          "ci_high": 0.0838872361585784,
+          "ci_low": 0.03016159689348864,
+          "point_difference": 0.05700907228563068
         }
       },
       "right_model": "qwen3_8b_local"
@@ -4870,59 +4870,59 @@
       "left_model": "gpt_5_6_luna",
       "metrics": {
         "M1_ARS_L": {
-          "ci_high": 0.10395439527542139,
-          "ci_low": 0.04551689722203985,
-          "point_difference": 0.07386596429616621
+          "ci_high": 0.10394423680325561,
+          "ci_low": 0.044919712627514194,
+          "point_difference": 0.07345624817091012
         },
         "M1_FAA_L": {
-          "ci_high": 0.07059500041463877,
-          "ci_low": 0.0061060321570012,
-          "point_difference": 0.03763535264852208
+          "ci_high": 0.07011766990501644,
+          "ci_low": 0.005730935379968102,
+          "point_difference": 0.03716710564822945
         },
         "M1_TRR_L": {
-          "ci_high": 0.06503197352204092,
-          "ci_low": 0.001425400362799771,
-          "point_difference": 0.033580305927342236
+          "ci_high": 0.06407403592114923,
+          "ci_low": 0.0013924640794197411,
+          "point_difference": 0.033102294455066905
         },
         "M3_ARS_L": {
-          "ci_high": 0.10395439527542139,
-          "ci_low": 0.04551689722203985,
-          "point_difference": 0.07386596429616621
+          "ci_high": 0.10394423680325561,
+          "ci_low": 0.044919712627514194,
+          "point_difference": 0.07345624817091012
         },
         "M3_ARS_U": {
-          "ci_high": 0.1787135443285448,
-          "ci_low": 0.13338758450359797,
-          "point_difference": 0.15645302897278307
+          "ci_high": 0.17772946336930925,
+          "ci_low": 0.13297765659887734,
+          "point_difference": 0.15604331284752704
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": -0.1454845400624814,
-          "ci_low": -0.228289852528052,
-          "point_difference": -0.18808630643573582
+          "ci_high": -0.1453322653533391,
+          "ci_low": -0.2281260811476157,
+          "point_difference": -0.18793364004562918
         },
         "M3_C3_minus_C4_U": {
-          "ci_high": -0.06264902505357724,
-          "ci_low": -0.13291660629600893,
-          "point_difference": -0.09911188758130518
+          "ci_high": -0.06249536268239206,
+          "ci_low": -0.13275530675948902,
+          "point_difference": -0.09895922119119854
         },
         "M3_FAA_L": {
-          "ci_high": 0.07059500041463877,
-          "ci_low": 0.0061060321570012,
-          "point_difference": 0.03763535264852208
+          "ci_high": 0.07011766990501644,
+          "ci_low": 0.005730935379968102,
+          "point_difference": 0.03716710564822945
         },
         "M3_FAA_U": {
-          "ci_high": 0.12325721967002744,
-          "ci_low": 0.07417839313646563,
-          "point_difference": 0.0983318700614575
+          "ci_high": 0.12287760078733043,
+          "ci_low": 0.07379608797562985,
+          "point_difference": 0.0978636230611648
         },
         "M3_TRR_L": {
-          "ci_high": 0.06503197352204092,
-          "ci_low": 0.001425400362799771,
-          "point_difference": 0.033580305927342236
+          "ci_high": 0.06407403592114923,
+          "ci_low": 0.0013924640794197411,
+          "point_difference": 0.033102294455066905
         },
         "M3_TRR_U": {
-          "ci_high": 0.10823052669273246,
-          "ci_low": 0.05216896641499613,
-          "point_difference": 0.07994741873804967
+          "ci_high": 0.10775069028648755,
+          "ci_low": 0.05135542952893383,
+          "point_difference": 0.07946940726577434
         },
         "M3_unresolved_rate": {
           "ci_high": 0.09389006067552917,
@@ -4957,9 +4957,9 @@
           "point_difference": -0.02908984489318117
         },
         "M3_ARS_U": {
-          "ci_high": 0.014814773313294232,
-          "ci_low": -0.018349060383781635,
-          "point_difference": -0.0026924202516828144
+          "ci_high": 0.01481330952735829,
+          "ci_low": -0.018441285946243058,
+          "point_difference": -0.0027509511267194142
         },
         "M3_C3_minus_C4_L": {
           "ci_high": -0.008308500488301014,
@@ -4977,9 +4977,9 @@
           "point_difference": -0.03388937664618086
         },
         "M3_FAA_U": {
-          "ci_high": 0.012127974200077543,
-          "ci_low": -0.02180248782399351,
-          "point_difference": -0.005443371378402118
+          "ci_high": 0.012019318701231338,
+          "ci_low": -0.02186120301030864,
+          "point_difference": -0.005501902253438606
         },
         "M3_TRR_L": {
           "ci_high": -0.029734842709269557,
@@ -4992,9 +4992,9 @@
           "point_difference": -0.029158699808795374
         },
         "M3_unresolved_rate": {
-          "ci_high": 0.05534779687945021,
-          "ci_low": 0.003358223183612014,
-          "point_difference": 0.028446005267778768
+          "ci_high": 0.0552912325121009,
+          "ci_low": 0.003300643309992465,
+          "point_difference": 0.028387474392742196
         }
       },
       "right_model": "qwen3_8_flash"
@@ -5004,59 +5004,59 @@
       "left_model": "gpt_5_6_luna",
       "metrics": {
         "M1_ARS_L": {
-          "ci_high": 0.1276970382699854,
-          "ci_low": 0.07805443467461218,
-          "point_difference": 0.10254609306409129
+          "ci_high": 0.12757851661171846,
+          "ci_low": 0.07753241470785112,
+          "point_difference": 0.10237050043898155
         },
         "M1_FAA_L": {
-          "ci_high": 0.07627702045864333,
-          "ci_low": 0.026185707808674217,
-          "point_difference": 0.051155984781972474
+          "ci_high": 0.07592870362179002,
+          "ci_low": 0.02583650724778558,
+          "point_difference": 0.05080479953175299
         },
         "M1_TRR_L": {
-          "ci_high": 0.10300405264088996,
-          "ci_low": 0.04752965935938251,
-          "point_difference": 0.0752868068833652
+          "ci_high": 0.10264723821688136,
+          "ci_low": 0.04713274755246093,
+          "point_difference": 0.0749282982791587
         },
         "M3_ARS_L": {
-          "ci_high": 0.1276970382699854,
-          "ci_low": 0.07805443467461218,
-          "point_difference": 0.10254609306409129
+          "ci_high": 0.12757851661171846,
+          "ci_low": 0.07753241470785112,
+          "point_difference": 0.10237050043898155
         },
         "M3_ARS_U": {
-          "ci_high": 0.18289140118468525,
-          "ci_low": 0.1450012678535816,
-          "point_difference": 0.16382791922739243
+          "ci_high": 0.1827204884816351,
+          "ci_low": 0.14484412851681727,
+          "point_difference": 0.16365232660228268
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": -0.12744586283156323,
-          "ci_low": -0.20627926469810498,
-          "point_difference": -0.16841001304956044
+          "ci_high": -0.12744650810089864,
+          "ci_low": -0.2062798475165005,
+          "point_difference": -0.16843293928456354
         },
         "M3_C3_minus_C4_U": {
-          "ci_high": -0.09591607958725963,
-          "ci_low": -0.15942328862999458,
-          "point_difference": -0.1286182147951732
+          "ci_high": -0.09596138833650598,
+          "ci_low": -0.15944352530815498,
+          "point_difference": -0.12864114103017632
         },
         "M3_FAA_L": {
-          "ci_high": 0.07627702045864333,
-          "ci_low": 0.026185707808674217,
-          "point_difference": 0.051155984781972474
+          "ci_high": 0.07592870362179002,
+          "ci_low": 0.02583650724778558,
+          "point_difference": 0.05080479953175299
         },
         "M3_FAA_U": {
-          "ci_high": 0.10056360363017834,
-          "ci_low": 0.06325958005434533,
-          "point_difference": 0.08159203980099505
+          "ci_high": 0.1001775834225382,
+          "ci_low": 0.06258725673311225,
+          "point_difference": 0.08124085455077557
         },
         "M3_TRR_L": {
-          "ci_high": 0.10300405264088996,
-          "ci_low": 0.04752965935938251,
-          "point_difference": 0.0752868068833652
+          "ci_high": 0.10264723821688136,
+          "ci_low": 0.04713274755246093,
+          "point_difference": 0.0749282982791587
         },
         "M3_TRR_U": {
-          "ci_high": 0.12167265821713459,
-          "ci_low": 0.07396436718892072,
-          "point_difference": 0.09655831739961762
+          "ci_high": 0.12164981966862863,
+          "ci_low": 0.07338632378248251,
+          "point_difference": 0.09619980879541112
         },
         "M3_unresolved_rate": {
           "ci_high": 0.059895508180572675,
@@ -5071,64 +5071,64 @@
       "left_model": "qwen3_4b_local",
       "metrics": {
         "M1_ARS_L": {
-          "ci_high": -0.07756861344119396,
-          "ci_low": -0.1282399288467702,
-          "point_difference": -0.10295580918934738
+          "ci_high": -0.07700804614471371,
+          "ci_low": -0.12760151857547494,
+          "point_difference": -0.10254609306409129
         },
         "M1_FAA_L": {
-          "ci_high": -0.04465051198009372,
-          "ci_low": -0.0975235196206795,
-          "point_difference": -0.07152472929470294
+          "ci_high": -0.04418539171254173,
+          "ci_low": -0.09676086694619333,
+          "point_difference": -0.0710564822944103
         },
         "M1_TRR_L": {
-          "ci_high": -0.06152495817597815,
-          "ci_low": -0.11532335339648532,
-          "point_difference": -0.08831261950286806
+          "ci_high": -0.06141983069244125,
+          "ci_low": -0.11485729221101681,
+          "point_difference": -0.08783460803059273
         },
         "M3_ARS_L": {
-          "ci_high": -0.07756861344119396,
-          "ci_low": -0.1282399288467702,
-          "point_difference": -0.10295580918934738
+          "ci_high": -0.07700804614471371,
+          "ci_low": -0.12760151857547494,
+          "point_difference": -0.10254609306409129
         },
         "M3_ARS_U": {
-          "ci_high": -0.13608127617651747,
-          "ci_low": -0.17996315221870982,
-          "point_difference": -0.15914544922446588
+          "ci_high": -0.13550045050118256,
+          "ci_low": -0.17961211590392967,
+          "point_difference": -0.15879426397424645
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": 0.17860199420075037,
-          "ci_low": 0.11183771732871649,
-          "point_difference": 0.1459091286815412
+          "ci_high": 0.17850156439252168,
+          "ci_low": 0.1116799776232812,
+          "point_difference": 0.14575646229143457
         },
         "M3_C3_minus_C4_U": {
-          "ci_high": 0.15368064373488521,
-          "ci_low": 0.08354066838100521,
-          "point_difference": 0.1183337948141382
+          "ci_high": 0.15365655998520786,
+          "ci_low": 0.08324710062652999,
+          "point_difference": 0.11818112842403156
         },
         "M3_FAA_L": {
-          "ci_high": -0.04465051198009372,
-          "ci_low": -0.0975235196206795,
-          "point_difference": -0.07152472929470294
+          "ci_high": -0.04418539171254173,
+          "ci_low": -0.09676086694619333,
+          "point_difference": -0.0710564822944103
         },
         "M3_FAA_U": {
-          "ci_high": -0.07973017878139814,
-          "ci_low": -0.12698607650482824,
-          "point_difference": -0.10377524143985961
+          "ci_high": -0.07901969262926153,
+          "ci_low": -0.12619275009821934,
+          "point_difference": -0.10336552531460341
         },
         "M3_TRR_L": {
-          "ci_high": -0.06152495817597815,
-          "ci_low": -0.11532335339648532,
-          "point_difference": -0.08831261950286806
+          "ci_high": -0.06141983069244125,
+          "ci_low": -0.11485729221101681,
+          "point_difference": -0.08783460803059273
         },
         "M3_TRR_U": {
-          "ci_high": -0.08171492319504693,
-          "ci_low": -0.1355439425176828,
-          "point_difference": -0.10910611854684504
+          "ci_high": -0.08091390796365704,
+          "ci_low": -0.13536311588840064,
+          "point_difference": -0.10862810707456971
         },
         "M3_unresolved_rate": {
-          "ci_high": -0.008663919028755258,
-          "ci_low": -0.05530837528738899,
-          "point_difference": -0.03225051214515656
+          "ci_high": -0.008723977933437219,
+          "ci_low": -0.055366843903420254,
+          "point_difference": -0.032309043020193134
         }
       },
       "right_model": "qwen3_8_flash"
@@ -5138,59 +5138,59 @@
       "left_model": "qwen3_4b_local",
       "metrics": {
         "M1_ARS_L": {
-          "ci_high": 0.046948454603954116,
-          "ci_low": 0.009967892468387163,
-          "point_difference": 0.028680128767925084
+          "ci_high": 0.04715397722360333,
+          "ci_low": 0.00997583797472355,
+          "point_difference": 0.028914252268071428
         },
         "M1_FAA_L": {
-          "ci_high": 0.03448965799259501,
-          "ci_low": -0.008045813156308363,
-          "point_difference": 0.013520632133450394
+          "ci_high": 0.03484270141088316,
+          "ci_low": -0.008039730213471256,
+          "point_difference": 0.013637693883523538
         },
         "M1_TRR_L": {
-          "ci_high": 0.062038556429590684,
+          "ci_high": 0.062155085651534034,
           "ci_low": 0.02016607767105406,
-          "point_difference": 0.04170650095602296
+          "point_difference": 0.041826003824091795
         },
         "M3_ARS_L": {
-          "ci_high": 0.046948454603954116,
-          "ci_low": 0.009967892468387163,
-          "point_difference": 0.028680128767925084
+          "ci_high": 0.04715397722360333,
+          "ci_low": 0.00997583797472355,
+          "point_difference": 0.028914252268071428
         },
         "M3_ARS_U": {
-          "ci_high": 0.022538533973245036,
-          "ci_low": -0.008730807471688777,
-          "point_difference": 0.007374890254609356
+          "ci_high": 0.023137900658114816,
+          "ci_low": -0.008726597897826871,
+          "point_difference": 0.007609013754755645
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": 0.05051331935920214,
-          "ci_low": -0.011835284029254885,
-          "point_difference": 0.01967629338617538
+          "ci_high": 0.0503432513319913,
+          "ci_low": -0.012188464654575036,
+          "point_difference": 0.019500700761065637
         },
         "M3_C3_minus_C4_U": {
-          "ci_high": -0.004393038065284561,
-          "ci_low": -0.05543838751349937,
-          "point_difference": -0.029506327213868033
+          "ci_high": -0.004569604283935342,
+          "ci_low": -0.055616188788152304,
+          "point_difference": -0.029681919838977777
         },
         "M3_FAA_L": {
-          "ci_high": 0.03448965799259501,
-          "ci_low": -0.008045813156308363,
-          "point_difference": 0.013520632133450394
+          "ci_high": 0.03484270141088316,
+          "ci_low": -0.008039730213471256,
+          "point_difference": 0.013637693883523538
         },
         "M3_FAA_U": {
-          "ci_high": 0.0005308589540964026,
-          "ci_low": -0.03509823687412417,
-          "point_difference": -0.01673983026046244
+          "ci_high": 0.0007670744733661696,
+          "ci_low": -0.034878405254923854,
+          "point_difference": -0.01662276851038924
         },
         "M3_TRR_L": {
-          "ci_high": 0.062038556429590684,
+          "ci_high": 0.062155085651534034,
           "ci_low": 0.02016607767105406,
-          "point_difference": 0.04170650095602296
+          "point_difference": 0.041826003824091795
         },
         "M3_TRR_U": {
-          "ci_high": 0.03600432517054552,
-          "ci_low": -0.0020268270562685403,
-          "point_difference": 0.016610898661567952
+          "ci_high": 0.03619276080254622,
+          "ci_low": -0.002024045875295038,
+          "point_difference": 0.016730401529636785
         },
         "M3_unresolved_rate": {
           "ci_high": -0.010922419135947646,
@@ -5205,64 +5205,64 @@
       "left_model": "qwen3_8_flash",
       "metrics": {
         "M1_ARS_L": {
-          "ci_high": 0.15069576656049902,
-          "ci_low": 0.1122353085615703,
-          "point_difference": 0.13163593795727246
+          "ci_high": 0.15052409753539953,
+          "ci_low": 0.11206287444024746,
+          "point_difference": 0.13146034533216272
         },
         "M1_FAA_L": {
-          "ci_high": 0.1044440118851202,
-          "ci_low": 0.06539288629697343,
-          "point_difference": 0.08504536142815333
+          "ci_high": 0.10373982539294278,
+          "ci_low": 0.06495930182838672,
+          "point_difference": 0.08469417617793384
         },
         "M1_TRR_L": {
-          "ci_high": 0.15365439235579742,
-          "ci_low": 0.10604736870828016,
-          "point_difference": 0.13001912045889102
+          "ci_high": 0.15337407512073634,
+          "ci_low": 0.10554126531891504,
+          "point_difference": 0.12966061185468453
         },
         "M3_ARS_L": {
-          "ci_high": 0.15069576656049902,
-          "ci_low": 0.1122353085615703,
-          "point_difference": 0.13163593795727246
+          "ci_high": 0.15052409753539953,
+          "ci_low": 0.11206287444024746,
+          "point_difference": 0.13146034533216272
         },
         "M3_ARS_U": {
-          "ci_high": 0.18340527554094632,
-          "ci_low": 0.14949097137691847,
-          "point_difference": 0.16652033947907524
+          "ci_high": 0.1832887629809968,
+          "ci_low": 0.14937583882688013,
+          "point_difference": 0.1664032777290021
         },
         "M3_C3_minus_C4_L": {
-          "ci_high": -0.09315595603680511,
-          "ci_low": -0.15763855789153522,
-          "point_difference": -0.12623283529536583
+          "ci_high": -0.09318603501426785,
+          "ci_low": -0.15766650529484422,
+          "point_difference": -0.12625576153036894
         },
         "M3_C3_minus_C4_U": {
-          "ci_high": -0.11751692631519398,
-          "ci_low": -0.1798861333537237,
-          "point_difference": -0.14784012202800623
+          "ci_high": -0.11754161401120171,
+          "ci_low": -0.1799072119686187,
+          "point_difference": -0.14786304826300933
         },
         "M3_FAA_L": {
-          "ci_high": 0.1044440118851202,
-          "ci_low": 0.06539288629697343,
-          "point_difference": 0.08504536142815333
+          "ci_high": 0.10373982539294278,
+          "ci_low": 0.06495930182838672,
+          "point_difference": 0.08469417617793384
         },
         "M3_FAA_U": {
-          "ci_high": 0.10385735931573097,
-          "ci_low": 0.06920120403367305,
-          "point_difference": 0.08703541117939717
+          "ci_high": 0.10335173292029878,
+          "ci_low": 0.06891312676803242,
+          "point_difference": 0.08674275680421417
         },
         "M3_TRR_L": {
-          "ci_high": 0.15365439235579742,
-          "ci_low": 0.10604736870828016,
-          "point_difference": 0.13001912045889102
+          "ci_high": 0.15337407512073634,
+          "ci_low": 0.10554126531891504,
+          "point_difference": 0.12966061185468453
         },
         "M3_TRR_U": {
-          "ci_high": 0.14973683800330362,
-          "ci_low": 0.10209186685913382,
-          "point_difference": 0.125717017208413
+          "ci_high": 0.14932409839904484,
+          "ci_low": 0.10162870828900784,
+          "point_difference": 0.1253585086042065
         },
         "M3_unresolved_rate": {
-          "ci_high": 0.018644946423411808,
+          "ci_high": 0.018648381148689053,
           "ci_low": -0.01591713656400814,
-          "point_difference": 0.001990049751243783
+          "point_difference": 0.002048580626280355
         }
       },
       "right_model": "qwen3_8b_local"
@@ -5278,27 +5278,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": -0.08892803720483178,
-        "ci_low": -0.13588460601140828,
-        "point_difference": -0.11275395991450554,
+        "ci_high": -0.08853967817074766,
+        "ci_low": -0.1357615038425223,
+        "point_difference": -0.11233220066451066,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": -0.1769476468058567,
-        "ci_low": -0.21898868249063427,
-        "point_difference": -0.1987123207491952,
+        "ci_high": -0.1769411760082919,
+        "ci_low": -0.21878782869917104,
+        "point_difference": -0.19841966637401226,
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": -0.14239545496179665,
-        "ci_low": -0.1936136799001062,
-        "point_difference": -0.16817712515773775,
+        "ci_high": -0.1423861580082056,
+        "ci_low": -0.19360791222217333,
+        "point_difference": -0.1679476884249168,
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": 0.13588460601140828,
-        "ci_low": 0.08892803720483178,
-        "point_difference": 0.11275395991450565,
+        "ci_high": 0.13576150384252225,
+        "ci_low": 0.08853967817074772,
+        "point_difference": 0.11233220066451077,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -5326,9 +5326,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": -0.1389884792562398,
-        "ci_low": -0.1838028120254409,
-        "point_difference": -0.16201346210125844,
+        "ci_high": -0.1386275084261699,
+        "ci_low": -0.18345213241987995,
+        "point_difference": -0.16166227685103896,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -5338,9 +5338,9 @@
         "valid_resamples": 1000
       },
       "MCR": {
-        "ci_high": -0.1678705148489133,
-        "ci_low": -0.2486453853406162,
-        "point_difference": -0.2082792553931157,
+        "ci_high": -0.16722346046025907,
+        "ci_low": -0.24818854439384758,
+        "point_difference": -0.20804691338568077,
         "valid_resamples": 1000
       },
       "OAR": {
@@ -5356,9 +5356,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": 0.03740723151785478,
-        "ci_low": -0.0065807293032077155,
-        "point_difference": 0.017208077260755017,
+        "ci_high": 0.03720866860651417,
+        "ci_low": -0.006866787277623828,
+        "point_difference": 0.01691542288557213,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -5368,21 +5368,21 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": -0.13024730283631558,
-        "ci_low": -0.17935836771546262,
-        "point_difference": -0.15559273422562137,
+        "ci_high": -0.1297652572606985,
+        "ci_low": -0.17924623447448315,
+        "point_difference": -0.15511472275334603,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
-        "ci_high": -0.051741909053145047,
-        "ci_low": -0.10671736652932416,
-        "point_difference": -0.0793116348671904,
+        "ci_high": -0.051289223271569324,
+        "ci_low": -0.10658525831036804,
+        "point_difference": -0.0789375233819678,
         "valid_resamples": 1000
       },
       "TRR_independent": {
-        "ci_high": -0.16273393136850747,
-        "ci_low": -0.21662953836844517,
-        "point_difference": -0.19139596136962245,
+        "ci_high": -0.16182507746449246,
+        "ci_low": -0.21601024222630497,
+        "point_difference": -0.19086918349429322,
         "valid_resamples": 1000
       },
       "VFAR": {
@@ -5443,27 +5443,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": -0.028556908185678728,
+        "ci_high": -0.02831295569485011,
         "ci_low": -0.06950407292144378,
-        "point_difference": -0.04888946959037088,
+        "point_difference": -0.04858113058683333,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": -0.01274883056335528,
-        "ci_low": -0.043829456353343614,
-        "point_difference": -0.02838747439274214,
+        "ci_high": -0.012539320986416615,
+        "ci_low": -0.04382007069013652,
+        "point_difference": -0.028153350892595852,
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": -0.07755570832489588,
-        "ci_low": -0.11935712829699167,
-        "point_difference": -0.09808420328094525,
+        "ci_high": -0.07747509814912873,
+        "ci_low": -0.11921807614986323,
+        "point_difference": -0.09796948491453483,
         "valid_resamples": 1000
       },
       "CRG": {
         "ci_high": 0.06950407292144378,
-        "ci_low": 0.028556908185678787,
-        "point_difference": 0.04888946959037088,
+        "ci_low": 0.028312955694850053,
+        "point_difference": 0.04858113058683339,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -5491,9 +5491,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": -0.03991640619999573,
-        "ci_low": -0.077424104655577,
-        "point_difference": -0.05841381328650863,
+        "ci_high": -0.039693060457160145,
+        "ci_low": -0.07741832601604025,
+        "point_difference": -0.05829675153643543,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -5503,9 +5503,9 @@
         "valid_resamples": 1000
       },
       "MCR": {
-        "ci_high": -0.07577125985146971,
-        "ci_low": -0.11857064193016575,
-        "point_difference": -0.09736340066605731,
+        "ci_high": -0.0762714996115177,
+        "ci_low": -0.11931405975027545,
+        "point_difference": -0.09779025443976935,
         "valid_resamples": 1000
       },
       "OAR": {
@@ -5521,9 +5521,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": 0.059614176033300395,
-        "ci_low": 0.026588138363525325,
-        "point_difference": 0.042844600526777854,
+        "ci_high": 0.059347997802616057,
+        "ci_low": 0.02635205939197126,
+        "point_difference": 0.042610477026631566,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -5533,21 +5533,21 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": 0.0034936633190140475,
-        "ci_low": -0.037332175117297896,
-        "point_difference": -0.01708891013384317,
+        "ci_high": 0.0036141344679455644,
+        "ci_low": -0.03731814461819482,
+        "point_difference": -0.016969407265774394,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
-        "ci_high": -0.013201201168434719,
+        "ci_high": -0.013201201168434824,
         "ci_low": -0.06640188445458037,
         "point_difference": -0.03928170594837255,
         "valid_resamples": 1000
       },
       "TRR_independent": {
-        "ci_high": 0.013319429758001829,
-        "ci_low": -0.026280847492087183,
-        "point_difference": -0.006672519754170325,
+        "ci_high": 0.013497161103265012,
+        "ci_low": -0.025930215705776343,
+        "point_difference": -0.006496927129060581,
         "valid_resamples": 1000
       },
       "VFAR": {
@@ -5608,27 +5608,27 @@
     "method": "paired base-question clustered nonparametric bootstrap",
     "metrics": {
       "ACR": {
-        "ci_high": 0.07737870622276714,
-        "ci_low": 0.05018722771319558,
-        "point_difference": 0.06386449032413466,
+        "ci_high": 0.07726314601188021,
+        "ci_low": 0.04997792896525209,
+        "point_difference": 0.06375107007767733,
         "valid_resamples": 1000
       },
       "ARS": {
-        "ci_high": 0.1865158672995576,
-        "ci_low": 0.1529708188626863,
-        "point_difference": 0.17032484635645306,
+        "ci_high": 0.18645889421716538,
+        "ci_low": 0.15296934289149725,
+        "point_difference": 0.1702663154814164,
         "valid_resamples": 1000
       },
       "CAPR": {
-        "ci_high": 0.08354486132449514,
-        "ci_low": 0.054883982033963975,
-        "point_difference": 0.0700929218767925,
+        "ci_high": 0.08348650066082283,
+        "ci_low": 0.05479853964609795,
+        "point_difference": 0.06997820351038198,
         "valid_resamples": 1000
       },
       "CRG": {
-        "ci_high": -0.05018722771319553,
-        "ci_low": -0.07737870622276714,
-        "point_difference": -0.06386449032413477,
+        "ci_high": -0.04997792896525209,
+        "ci_low": -0.07726314601188021,
+        "point_difference": -0.06375107007767739,
         "valid_resamples": 1000
       },
       "DCR_fallacy": {
@@ -5656,9 +5656,9 @@
         "valid_resamples": 1000
       },
       "FAA": {
-        "ci_high": 0.11843829155944041,
-        "ci_low": 0.08830539302197406,
-        "point_difference": 0.10359964881474981,
+        "ci_high": 0.1182021082167871,
+        "ci_low": 0.08798640056988452,
+        "point_difference": 0.10336552531460352,
         "valid_resamples": 1000
       },
       "FFRR": {
@@ -5668,9 +5668,9 @@
         "valid_resamples": 1000
       },
       "MCR": {
-        "ci_high": 0.15168440074239303,
-        "ci_low": 0.07201134506221188,
-        "point_difference": 0.1109158547270584,
+        "ci_high": 0.15027133156548864,
+        "ci_low": 0.0712365495651103,
+        "point_difference": 0.11025665894591141,
         "valid_resamples": 1000
       },
       "OAR": {
@@ -5686,9 +5686,9 @@
         "valid_resamples": 1000
       },
       "RG": {
-        "ci_high": 0.04201595495512195,
-        "ci_low": 0.01074078178217531,
-        "point_difference": 0.025636523266022837,
+        "ci_high": 0.04213068783344628,
+        "ci_low": 0.010807466017345089,
+        "point_difference": 0.025695054141059437,
         "valid_resamples": 1000
       },
       "SRA": {
@@ -5698,21 +5698,21 @@
         "valid_resamples": 1000
       },
       "TRR": {
-        "ci_high": 0.1603062796966911,
-        "ci_low": 0.11485735600074234,
-        "point_difference": 0.1385038240917782,
+        "ci_high": 0.15985025003898834,
+        "ci_low": 0.11454166362562927,
+        "point_difference": 0.13814531548757164,
         "valid_resamples": 1000
       },
       "TRR_assisted": {
-        "ci_high": 0.06306306306306309,
-        "ci_low": 0.015739911715056138,
-        "point_difference": 0.04002992891881785,
+        "ci_high": 0.06269176373343033,
+        "ci_low": 0.015461070991597473,
+        "point_difference": 0.03965581743359525,
         "valid_resamples": 1000
       },
       "TRR_independent": {
-        "ci_high": 0.20886691125939386,
-        "ci_low": 0.15740760769715625,
-        "point_difference": 0.18472344161545212,
+        "ci_high": 0.20875733689546594,
+        "ci_low": 0.15735860375138996,
+        "point_difference": 0.18437225636523263,
         "valid_resamples": 1000
       },
       "VFAR": {

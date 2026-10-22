@@ -5693,7 +5693,7 @@
           "base_question_id": "q_1ccd5434b3",
           "case_type": "C3",
           "domain": "logical_reasoning",
-          "gold_answer": "No valid race order exists, so the third-place finisher cannot be determined.",
+          "gold_answer": "Bob",
           "gold_should_revise_solver_answer": true,
           "gold_verifier_judgment": "accept",
           "id": "v_2a2ab2e0df",
@@ -17695,7 +17695,7 @@
           "base_question_id": "q_1ccd5434b3",
           "case_type": "C3",
           "domain": "logical_reasoning",
-          "gold_answer": "No valid race order exists, so the third-place finisher cannot be determined.",
+          "gold_answer": "Bob",
           "gold_should_revise_solver_answer": true,
           "gold_verifier_judgment": "accept",
           "id": "v_82bf9b3403",
@@ -34695,7 +34695,7 @@
           "base_question_id": "q_1ccd5434b3",
           "case_type": "C3",
           "domain": "logical_reasoning",
-          "gold_answer": "No valid race order exists, so the third-place finisher cannot be determined.",
+          "gold_answer": "Bob",
           "gold_should_revise_solver_answer": true,
           "gold_verifier_judgment": "accept",
           "id": "v_fca7ab8fd2",
@@ -36835,8 +36835,8 @@
       "stored_vs_derived_disagreement_count": 152
     },
     "metric_consistency": {
-      "ARS_count": 7638,
-      "RG_count": 6134,
+      "ARS_count": 7645,
+      "RG_count": 6127,
       "VJA_count": 13772,
       "ars_plus_rg_equals_vja": true,
       "joint_outcomes_sum_to_N": true
@@ -36917,8 +36917,8 @@
     "coverage_rate": 0.9894065563402551,
     "evaluation_schema_version": "3.0",
     "metric_consistency": {
-      "ARS_count": 7638,
-      "RG_count": 6134,
+      "ARS_count": 7645,
+      "RG_count": 6127,
       "VJA_count": 13772,
       "ars_plus_rg_equals_vja": true,
       "joint_outcomes_sum_to_N": true

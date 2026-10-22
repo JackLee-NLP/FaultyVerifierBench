@@ -1,0 +1,282 @@
+{
+  "outputs_file": "data\\results\\model_outputs_qwen3_8b_local_test.jsonl",
+  "test_split_file": "data\\splits\\test.jsonl",
+  "current_test_items": 18974,
+  "original_nonempty_output_rows": 18809,
+  "kept_output_rows": 18757,
+  "removed_output_rows": 52,
+  "removal_reasons": {
+    "not_in_current_test_split": 52
+  },
+  "current_test_items_without_output": 217,
+  "test_id_fields": {
+    "id": 18974
+  },
+  "output_id_fields": {
+    "id": 18757
+  },
+  "removed_records": [
+    {
+      "line": 173,
+      "id": "v_ca1e4925ca",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 1957,
+      "id": "v_588acb67ce",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 2012,
+      "id": "v_d304c85da0",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 2101,
+      "id": "v_0702e9c98a",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 2125,
+      "id": "v_83db02a384",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 2185,
+      "id": "v_4ac72aa804",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 2190,
+      "id": "v_e4a2cf7674",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 3118,
+      "id": "v_a80e979623",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 3326,
+      "id": "v_99e1eeab65",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 3371,
+      "id": "v_0cee11fb40",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 3633,
+      "id": "v_1e813250bc",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 5911,
+      "id": "v_99e8272688",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 6068,
+      "id": "v_23b457a535",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 6091,
+      "id": "v_e09654fa04",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 6118,
+      "id": "v_d35f526820",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 6171,
+      "id": "v_b3b0482f4f",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 7086,
+      "id": "v_fdf27d8280",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 7250,
+      "id": "v_65d2307796",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 7841,
+      "id": "v_5a93241a24",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 8328,
+      "id": "v_3a45fce7a1",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 8665,
+      "id": "v_8b7ca44d70",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 9233,
+      "id": "v_23d98afe90",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 10087,
+      "id": "v_3046a86b51",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 10429,
+      "id": "v_4ad682e191",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 11120,
+      "id": "v_0a9627d98d",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 11280,
+      "id": "v_ee63ee9ba7",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 11322,
+      "id": "v_7386d90c30",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 11681,
+      "id": "v_a416d2e3ea",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 12076,
+      "id": "v_3f7a0f3c11",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 12395,
+      "id": "v_c445f9f673",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 12668,
+      "id": "v_599858544f",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 12724,
+      "id": "v_0c60b92131",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 13459,
+      "id": "v_24242bd6e8",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 13639,
+      "id": "v_a3d504cfee",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 14937,
+      "id": "v_ec5b00b032",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 14941,
+      "id": "v_4f4cc39ed9",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 15000,
+      "id": "v_7526979f58",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 15028,
+      "id": "v_3f71c0cd43",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 15394,
+      "id": "v_6f998d130e",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 15819,
+      "id": "v_7964090842",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 16102,
+      "id": "v_8ad0fb539e",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 16418,
+      "id": "v_682755aa3b",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 16615,
+      "id": "v_4e9c327166",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 16659,
+      "id": "v_fe890cb8e4",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 17262,
+      "id": "v_c9dc0857ac",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 17679,
+      "id": "v_a259d65b7c",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 17687,
+      "id": "v_0cca020014",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 17844,
+      "id": "v_45f4f26865",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 17966,
+      "id": "v_9d255cfd83",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 17974,
+      "id": "v_6ae1a1de1c",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 18269,
+      "id": "v_b02fb8b5ab",
+      "reason": "not_in_current_test_split"
+    },
+    {
+      "line": 18544,
+      "id": "v_b41babb30a",
+      "reason": "not_in_current_test_split"
+    }
+  ],
+  "dry_run": false,
+  "backup_file": "data\\results\\model_outputs_qwen3_8b_local_test.jsonl.backup_20260831_141627"
+}

@@ -1,0 +1,30 @@
+{
+  "by_model": {
+    "Ministral-3-14B": {
+      "applied": 18501
+    },
+    "deepseek": {
+      "applied": 18836
+    },
+    "gpt_5_6_luna": {
+      "applied": 18689
+    },
+    "qwen3_4b_local": {
+      "applied": 18407
+    },
+    "qwen3_8_flash": {
+      "applied": 18526
+    },
+    "qwen3_8b_local": {
+      "applied": 18773
+    }
+  },
+  "label_source": "llm_majority_vote_mapped_by_instance_id",
+  "n_instance_ids": 23706,
+  "note": "Each deduplicated majority vote is copied back to every saved original instance_id. Verifier judgment and fault diagnosis are unchanged. Labels are not human-validated.",
+  "path": "human_annotation\\llm_annotation\\consistency\\majority_vote.jsonl",
+  "source_models": {
+    "benchmark": 23706
+  },
+  "status": "loaded"
+}
